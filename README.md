@@ -16,7 +16,7 @@ This is a new publication model for the STM32Cube MCU embedded software :
 
 In a second phase (from Q3'19), the **MCU components**, parts the MCU Packages, will be progressively delivered as individual repos, allowing the user to select and get only the required software functions.
 
-Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics-STM32/STM32MPU_EmbSW_Overall_Offer)
+Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer)
   
    
 ## Description
