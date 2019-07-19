@@ -39,7 +39,7 @@ For general communication and support, you can use
 STM32Cube MCU Packages | Description
 ---------------------- | -----------
 [STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0) | The STM32CubeF0 FW MCU Package
-[STM32CubeF1] expected soon | The STM32CubeF1 FW MCU Package
+[STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) | The STM32CubeF1 FW MCU Package
 [STM32CubeF2] expected soon | The STM32CubeF2 FW MCU Package
 [STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3) | The STM32CubeF3 FW MCU Package
 [STM32CubeF4] expected soon | The STM32CubeF4 FW MCU Package
