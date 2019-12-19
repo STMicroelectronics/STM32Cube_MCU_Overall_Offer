@@ -61,11 +61,11 @@ As mentioned above, the STM32Cube Components is an alternative delivery model to
 
 In December 2019, the CMSIS modules are proposed. The next update will contain the HAL-LL Drivers (Jan-2020). Then the Middleware modules (target Q1'20). 
 
-En each moduke README you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
+In each module README file you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
 
 STM32Cube CMSIS core | Description
 --------------------------- | -----------
-[cmsis_core](https://github.com/STMicroelectronics/cmsis_core) | The STM32 CMSIS Core, issued from ARM (tm) publication
+[cmsis_core](https://github.com/STMicroelectronics/cmsis_core) | The STM32 CMSIS Core, issued from ARM (tm) publication. Please check the ST_README.md file.
 
 STM32Cube CMSIS Devices | Description
 --------------------------- | -----------
