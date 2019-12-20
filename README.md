@@ -14,7 +14,7 @@
 This is a new publication model for the STM32Cube MCU embedded software.Two models of publication are proposed  : 
    * The monolithic **MCU Package** : all STM32Cube software modules of one STM32 MCU series are present (Drivers, Middlewares, Utilities) in an unique repo, with various examples projects. The usual name of a STM32MCU Package is **STM32Cubexx**, xx corresponding to the STM32 series). Please refer to the chapter **STM32Cube MCU Packages** below.
 
-   * From Q4'19, the **MCU components**, parts the MCU Packages, will be progressively delivered as individual repos, allowing the user to select and get only the required software functions.Please refer to the chapter **STM32Cube MCU Components** below.
+   * From Q4'19, the **MCU components**, parts the MCU Packages, will be progressively delivered as individual repos, allowing the user to select and get only the required software functions. Please refer to the chapter **STM32Cube MCU Components** below.
 
 Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer)
   
@@ -59,7 +59,7 @@ more to come | ....
 
 As mentioned above, the STM32Cube Components is an alternative delivery model to the STM32 Packages. In this case, each module is delivered as individual repos, allowing the customer to select and download only the pertinent features.
 
-In December 2019, the CMSIS modules are proposed. The next update will contain the HAL-LL Drivers. Then the Middleware modules. (target Q1'20). 
+In December 2019, the CMSIS modules are proposed. The next update will contain the HAL-LL Drivers. Then the Middleware modules (target Q1'20). 
 
 In each module README file you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
 
