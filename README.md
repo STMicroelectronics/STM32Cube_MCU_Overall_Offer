@@ -59,7 +59,7 @@ more to come | ....
 
 As mentioned above, the STM32Cube Components is an alternative delivery model to the STM32 Packages. In this case, each module is delivered as individual repos, allowing the customer to select and download only the pertinent features.
 
-In December 2019, the CMSIS modules are proposed. The next update will contain the HAL-LL Drivers (Jan-2020). Then the Middleware modules (target Q1'20). 
+In December 2019, the CMSIS modules are proposed. The next update will contain the HAL-LL Drivers. Then the Middleware modules. (target Q1'20). 
 
 In each module README file you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
 
