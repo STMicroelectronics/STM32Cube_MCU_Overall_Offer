@@ -50,6 +50,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0) | The STM32CubeL0 FW MCU Package
 [STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) | The STM32CubeL1 FW MCU Package
 [STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4) | The STM32CubeL4 FW MCU Package
+[STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) | The STM32CubeL5 FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) | The STM32CubeWB FW MCU Package
 .... | ....
 more to come | ....
