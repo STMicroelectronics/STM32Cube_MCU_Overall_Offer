@@ -25,7 +25,7 @@ This repo is a simple Readme describing all STM32 MCU related GitHub projects, t
 
 This new publication channel of the STM32Cube embedded software components will provide new added values :
    * In complement to the MCU Package zip files today proposed on **st.com**, the capability for STM32 customers to get a configuration management based delivery (Git)
-   * A more direct communication between developers, thanks to the Issues features. **Caution** : only software related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://st-microelectronics.jiveon.com/welcome) forum 
+   * A more direct communication between developers, thanks to the Issues features. **Caution** : only software related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/stm32mcu) forum 
    * In a second phase (after the deployment of a Contributor License Agreement mechanism), the **Pull-Request** will permit to take into account customers proposed updates and enrich the STM32Cube FW offer. 
 
 
