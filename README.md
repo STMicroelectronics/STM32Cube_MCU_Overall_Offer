@@ -92,14 +92,14 @@ more to come | ....
 
 #### STM32Cube HAL Drivers
 
-The **HAL Drivers** MCU Componants propose the HAL and LL Drivers modules controlling all the HW IPs embedded in the STM32 product
+The **HAL Drivers** MCU Components propose the HAL and LL Drivers modules controlling all the HW IPs embedded in the STM32 product
 
 * HAL Drivers: 
-  * a set of portable abstraction APIs based on high level services built around standalone processes. The HAL drivers are functionalities oriented, example: for the Timer peripheral, the APIs could be split into several categories following the functions offered by the IPs (Basic timer, capture, PWM …etc.).
-  * The compatibility SHALL be guaranteed across all the STM32 families for the generic APIs including generic macros and common structures defines. Any specific feature is given in a dedicated extension model available in the associated extension files
+  * A set of portable abstraction APIs offering high level services, built around standalone processes. The HAL drivers are functionalities oriented, example: for the Timer peripheral, the APIs could be split into several categories following the functions offered by the IPs (Basic timer, capture, PWM …etc.) for a communication IP: an initialisation function, eventually a configuration function and data transfer services (polling, interruption or DMA based)
+  * The compatibility SHALL be guaranteed across all the STM32 families for the generic APIs, including generic macros and common structures defines. Any specific feature is given in a dedicated extension model available in the associated extension files
 
-* LL Drivers
-  * Low Layer Drivers: a set of basic functions with direct hardware access with no standalone process, this layer can be called either by applications or by the HAL drivers.
+* LL Drivers:
+  * Low Layer Drivers: a set of basic functions with direct hardware access (no standalone process), this layer can be called either by applications or by the HAL drivers.
   
 The dynamic usage of HAL APIs is provided thru projects examples, available in the respective STM32Cube MCU Packages **STM32Cubexx** where xx correspond to the series
 
