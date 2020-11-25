@@ -11,11 +11,13 @@
    * A consistent set of middlewares components such as RTOS, USB, FatFS, Graphics, TCP/IP, BLE, STM32_TouchSensing_Library ...
    * A full set of software projects (basic examples, applications or demonstrations) for each board provided by this STM32 series
 
-GitHub is a new publication model for the STM32Cube MCU embedded software. Two models of publication are proposed:
+GitHub is a new publication model for the STM32Cube MCU embedded software. Three models of publication are proposed:
    * The **MCU Package** : monolithic STM32Cube software modules, per STM32 MCU series (Drivers, Middlewares, Utilities, Examples Projects) in an unique repo. The usual name of a STM32MCU Package is **STM32Cubexx**, xx corresponding to the STM32 series). Please refer to the chapter **STM32Cube MCU Packages** below.
 
    * The **MCU components** : parts of the MCU Packages, proposed as individual repos, allowing the user to select and get only the required software functions. Please refer to the chapter **STM32Cube MCU Components** below.
 
+   * The **X-CUBE** : Expansion softwares, propose embedded software components that complement the functionalities of the STM32Cube 
+   
 Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer)
 
 
@@ -33,6 +35,13 @@ For general communication and support, you can use
    * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
    * [ST Community Forum](https://community.st.com/stm32mcu) forum
 
+### Content 
+
+   * [STM32Cube MCU Packages](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-mcu-packages)
+   * [STM32Cube CMSIS](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-cmsis)
+   * [STM32Cube HAL Drivers](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-hal-drivers)
+   * [STM32Cube MW Libraries](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-middleware-libraries)
+   * [STM32Cube X-CUBE](https://github.com/STMicroelectronics-STM32/STM32Cube_MCU_Overall_Offer#x-cube-expansion-softwares)
 
 ### STM32Cube MCU Packages
 
@@ -52,6 +61,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4) | The STM32CubeL4 FW MCU Package
 [STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) | The STM32CubeL5 FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) | The STM32CubeWB FW MCU Package
+[STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) | The STM32CubeWL FW MCU Package
 .... | ....
 more to come | ....
 
@@ -86,6 +96,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_l4](https://github.com/STMicroelectronics/cmsis_device_l4) | The STM32L4 CMSIS Device files
 [cmsis_device_l5](https://github.com/STMicroelectronics/cmsis_device_l5) | The STM32L5 CMSIS Device files
 [cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb) | The STM32WB CMSIS Device files
+[cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl) | The STM32WL CMSIS Device files
 .... | ....
 more to come | ....
 
@@ -122,6 +133,7 @@ STM32Cube HAL Drivers | Description
 [stm32l4xx_hal_driver](https://github.com/STMicroelectronics/stm32l4xx_hal_driver) | The STM32L4 HAL-LL Drivers
 [stm32l5xx_hal_driver](https://github.com/STMicroelectronics/stm32l5xx_hal_driver) | The STM32L5 HAL-LL Drivers
 [stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver) | The STM32WB HAL-LL Drivers
+[stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver) | The STM32WL HAL-LL Drivers
 .... | ....
 more to come | ....
 
@@ -155,3 +167,15 @@ STM32Cube MW Libraries | Description
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host) | USB Device middleware library
 .... | ....
 more to come | ....
+
+
+#### X-CUBE Expansion softwares
+
+The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
+
+STM32Cube X-CUBE | Description
+---------------------- | -----------
+[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws) | AWS IoT software expansion for STM32Cube
+[x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd) | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
+[x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp) | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC)
+
