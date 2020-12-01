@@ -41,7 +41,7 @@ For general communication and support, you can use
    * [STM32Cube CMSIS](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-cmsis)
    * [STM32Cube HAL Drivers](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-hal-drivers)
    * [STM32Cube MW Libraries](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-middleware-libraries)
-   * [STM32Cube X-CUBE](https://github.com/STMicroelectronics-STM32/STM32Cube_MCU_Overall_Offer#x-cube-expansion-softwares)
+   * [STM32Cube X-CUBE](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#x-cube-expansion-softwares)
 
 ### STM32Cube MCU Packages
 
