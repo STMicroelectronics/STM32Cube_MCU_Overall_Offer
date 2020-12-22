@@ -178,4 +178,4 @@ STM32Cube X-CUBE | Description
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws) | AWS IoT software expansion for STM32Cube
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd) | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp) | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC)
-
+[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Software Expansion for STM32Cube, for STM32H7 series. 
