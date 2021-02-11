@@ -42,6 +42,7 @@ For general communication and support, you can use
    * [STM32Cube HAL Drivers](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-hal-drivers)
    * [STM32Cube MW Libraries](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-middleware-libraries)
    * [STM32Cube X-CUBE](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#x-cube-expansion-softwares)
+   * [STM32Cube Utilities](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer#stm32cube-utilities-and-miscellaneous-repos)
 
 ### STM32Cube MCU Packages
 
@@ -174,8 +175,16 @@ more to come | ....
 The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
 
 STM32Cube X-CUBE | Description
----------------------- | -----------
+---------------- | -----------
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws) | AWS IoT software expansion for STM32Cube
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd) | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp) | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC)
 [x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Software Expansion for STM32Cube, for STM32H7 series. 
+
+
+### STM32Cube Utilities and Miscellaneous repos
+
+STM32Cube Utilities | Description
+------------------- | -----------
+[stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) | Flashloaders source code of external memories embedded in the STM32 HW boards.
+
