@@ -18,6 +18,8 @@ GitHub is a new publication model for the STM32Cube MCU embedded software. Three
 
    * The **X-CUBE** : Expansion softwares, propose embedded software components that complement the functionalities of the STM32Cube 
    
+   * A set of **MCU Utilities** : Various Utility features proposed in dedicated repos
+   
 Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer)
 
 
