@@ -144,6 +144,8 @@ more to come | ....
 
 The **Middleware Libraries** MCU Components propose the following set of stacks common to all STM32xx series very useful to design number of middleware-based user applications.
 
+These **Middleware Libraries* delivered in standalone mode, permit to get in advance, compared to the full FW Packages, the new features or updates. Please take a look to the Release Note to verify the compatibility information.
+
 * FatFS library:
   * A set of platform- and storage device-independent services allowing user application to access storage devices and manage files.
 
@@ -166,8 +168,8 @@ STM32Cube MW Libraries | Description
 [stm32_mw_fatfs](https://github.com/STMicroelectronics/stm32_mw_fatfs) | FatFS middleware library
 [stm32_mw_freertos](https://github.com/STMicroelectronics/stm32_mw_freertos) | FreeRTOS middleware library
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip) | LwIP middleware library
-[stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Host middleware library
-[stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host) | USB Device middleware library
+[stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
+[stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host) | USB Host middleware library
 .... | ....
 more to come | ....
 
@@ -189,4 +191,5 @@ STM32Cube X-CUBE | Description
 STM32Cube Utilities | Description
 ------------------- | -----------
 [stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) | Flashloaders source code of external memories embedded in the STM32 HW boards.
-
+[stm32ai](https://github.com/STMicroelectronics/stm32ai) | git repo for the open source AI offer in STM32 products. 
+[STM32_open_pin_data](https://github.com/STMicroelectronics/STM32_open_pin_data) | This repo provides all the information required for the pin and board configuration of products based on STM32 MCU.
