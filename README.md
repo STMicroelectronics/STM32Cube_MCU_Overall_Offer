@@ -144,7 +144,7 @@ more to come | ....
 
 The **Middleware Libraries** MCU Components propose the following set of stacks common to all STM32xx series very useful to design number of middleware-based user applications.
 
-These **Middleware Libraries* delivered in standalone mode, permit to get in advance, compared to the full FW Packages, the new features or updates. Please take a look to the Release Note to verify the compatibility information.
+These **Middleware Libraries** delivered in standalone mode, permit to get in advance, compared to the full FW Packages, the new features or updates. Please take a look to the Release Note to verify the compatibility information.
 
 * FatFS library:
   * A set of platform- and storage device-independent services allowing user application to access storage devices and manage files.
