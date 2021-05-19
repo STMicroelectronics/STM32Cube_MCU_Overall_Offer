@@ -65,9 +65,6 @@ STM32Cube MCU Packages | Description
 [STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) | The STM32CubeL5 FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) | The STM32CubeWB FW MCU Package
 [STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) | The STM32CubeWL FW MCU Package
-.... | ....
-more to come | ....
-
 
 ### STM32Cube MCU Components
 
@@ -100,9 +97,6 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_l5](https://github.com/STMicroelectronics/cmsis_device_l5) | The STM32L5 CMSIS Device files
 [cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb) | The STM32WB CMSIS Device files
 [cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl) | The STM32WL CMSIS Device files
-.... | ....
-more to come | ....
-
 
 #### STM32Cube HAL Drivers
 
@@ -137,8 +131,6 @@ STM32Cube HAL Drivers | Description
 [stm32l5xx_hal_driver](https://github.com/STMicroelectronics/stm32l5xx_hal_driver) | The STM32L5 HAL-LL Drivers
 [stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver) | The STM32WB HAL-LL Drivers
 [stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver) | The STM32WL HAL-LL Drivers
-.... | ....
-more to come | ....
 
 #### STM32Cube Middleware Libraries
 
@@ -170,9 +162,6 @@ STM32Cube MW Libraries | Description
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip) | LwIP middleware library
 [stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host) | USB Host middleware library
-.... | ....
-more to come | ....
-
 
 #### X-CUBE Expansion softwares
 
@@ -180,11 +169,11 @@ The STM32Cube expansion software contains embedded software components that comp
 
 STM32Cube X-CUBE | Description
 ---------------- | -----------
-[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws) | AWS IoT software expansion for STM32Cube
+[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws) | AWS IoT Expansion Package for STM32Cube.
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd) | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
-[x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp) | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC)
-[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Software Expansion for STM32Cube, for STM32H7 series. 
-
+[x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp) | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
+[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
+[x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2) | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
 ### STM32Cube Utilities and Miscellaneous repos
 
