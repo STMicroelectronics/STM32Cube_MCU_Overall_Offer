@@ -218,6 +218,8 @@ STM32Cube BSP LCD Components Drivers | Description
 STM32Cube BSP MEMS Components Drivers | Description
 ------------------------------------- | -----------
 [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)         | The HTS221 BSP Component Driver
+[stm32-ism330dhcx](https://github.com/STMicroelectronics/stm32-ism330dhcx) | The ISM330DHCX BSP Component Driver
+[stm32-ism330dlc](https://github.com/STMicroelectronics/stm32-ism330dlc)   | The ISM330DLC BSP Component Driver
 [stm32-i3g4250d](https://github.com/STMicroelectronics/stm32-i3g4250d)     | The I3G4250D BSP Component Driver
 [stm32-l3gd20](https://github.com/STMicroelectronics/stm32-l3gd20)         | The L3GD20 BSP Component Driver
 [stm32-lan8742](https://github.com/STMicroelectronics/stm32-lan8742)       | The LAN8742 BSP Component Driver
@@ -225,11 +227,16 @@ STM32Cube BSP MEMS Components Drivers | Description
 [stm32-lis3dsh](https://github.com/STMicroelectronics/stm32-lis3dsh)       | The LIS3DSH BSP Component Driver
 [stm32-lis3mdl](https://github.com/STMicroelectronics/stm32-lis3mdl)       | The LIS3MDL BSP Component Driver
 [stm32-lps22hb](https://github.com/STMicroelectronics/stm32-lps22hb)       | The LPS22HB BSP Component Driver
+[stm32-lps22hh](https://github.com/STMicroelectronics/stm32-lps22hh)       | The LPS22HH BSP Component Driver
 [stm32-lsm303agr](https://github.com/STMicroelectronics/stm32-lsm303agr)   | The LSM303AGR BSP Component Driver
 [stm32-lsm303c](https://github.com/STMicroelectronics/stm32-lsm303c)       | The LSM303C BSP Component Driver
 [stm32-lsm303dlhc](https://github.com/STMicroelectronics/stm32-lsm303dlhc) | The LSM303DLHC BSP Component Driver
 [stm32-lsm6dsl](https://github.com/STMicroelectronics/stm32-lsm6dsl)       | The LSM6DSL BSP Component Driver
 [stm32-s70kl1281](https://github.com/STMicroelectronics/stm32-s70kl1281)   | The S70KL1281 BSP Component Driver
+
+STM32Cube BSP MAGNETOMETER Components Drivers | Description
+------------------------------------- | -----------
+[stm32-iis2mdc](https://github.com/STMicroelectronics/stm32-iis2mdc)       | The IIS2mdc BSP Component Driver
 
 STM32Cube BSP QSPI/OSPI Components Drivers | Description
 ------------------------------------------ | -----------
@@ -242,6 +249,7 @@ STM32Cube BSP QSPI/OSPI Components Drivers | Description
 [stm32-n25q128a](https://github.com/STMicroelectronics/stm32-n25q128a)         | The N25Q128A BSP Component Driver
 [stm32-n25q256a](https://github.com/STMicroelectronics/stm32-n25q256a)         | The N25Q256A BSP Component Driver
 [stm32-n25q512a](https://github.com/STMicroelectronics/stm32-n25q512a)         | The N25Q512A BSP Component Driver
+[stm32-s25fl128s](https://github.com/STMicroelectronics/stm32-s25fl128s)       | The S25FL128S BSP Component Driver
 [stm32-s25fl512s](https://github.com/STMicroelectronics/stm32-s25fl512s)       | The S25FL512S BSP Component Driver
 [stm32-w25q80ew](https://github.com/STMicroelectronics/stm32-w25q80ew)         | The W25Q80EW BSP Component Driver
 
@@ -255,6 +263,7 @@ STM32Cube BSP SDRAM Components Drivers | Description
 STM32Cube BSP Temperature Sensor Components Drivers | Description
 --------------------------------------------------- | -----------
 [stm32-stlm75](https://github.com/STMicroelectronics/stm32-stlm75)   | The STLM75 BSP Component Driver
+[stm32-stts22h](https://github.com/STMicroelectronics/stm32-stts22h) | The STTS22H BSP Component Driver
 [stm32-stts751](https://github.com/STMicroelectronics/stm32-stts751) | The STTS751 BSP Component Driver
 
 STM32Cube BSP Touch Screen Components Drivers | Description
