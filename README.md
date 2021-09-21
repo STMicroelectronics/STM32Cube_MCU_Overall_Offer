@@ -249,6 +249,7 @@ stm32l4 | [32l476gdiscovery](https://github.com/STMicroelectronics/32l476gdiscov
 stm32l5 | [stm32l562e-dk](https://github.com/STMicroelectronics/stm32l562e-dk) | STM32L562E-DK BSP Drivers
 stm32l5 | [stm32l552e-ev](https://github.com/STMicroelectronics/stm32l552e-ev) | STM32L552E-EV BSP Drivers
 stm32l5 | [stm32l5xx-nucleo](https://github.com/STMicroelectronics/stm32l5xx-nucleo) | L5 nucleo BSP Drivers
+stm32u5 | [stm32u5xx-nucleo](https://github.com/STMicroelectronics/stm32u5xx-nucleo) | U5 nucleo BSP Drivers
 stm32wb | [stm32wb5mm-dk](https://github.com/STMicroelectronics/stm32wb5mm-dk) | STM32WB5MM-DK BSP Drivers
 stm32wb | [nucleo-wb15cc](https://github.com/STMicroelectronics/nucleo-wb15cc) | NUCLEO-WB15CC BSP Drivers
 stm32wb | [p-nucleo-wb55-nucleo](https://github.com/STMicroelectronics/p-nucleo-wb55-nucleo) | P-NUCLEO-WB55.Nucleo BSP Drivers
