@@ -77,7 +77,9 @@ STM32Cube X-CUBE | Description
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)             | AWS IoT Expansion Package for STM32Cube.
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
+[x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4) | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
 [x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
+[x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4) | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
 ### STM32Cube MCU Components
