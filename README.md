@@ -40,11 +40,11 @@ For general communication and support, you can use
 ### Content
 
    * [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
+   * [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
    * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
    * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
    * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
    * [STM32Cube MW Libraries](README.md#stm32cube-middleware-libraries)
-   * [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
    * [STM32Cube Utilities](README.md#stm32cube-utilities-and-miscellaneous-repos)
 
 ### STM32Cube MCU Packages
