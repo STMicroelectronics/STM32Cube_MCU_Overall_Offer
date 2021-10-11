@@ -212,7 +212,7 @@ stm32f7 | [32f769idiscovery](https://github.com/STMicroelectronics/32f769idiscov
 stm32f7 | [32f723ediscovery](https://github.com/STMicroelectronics/32f723ediscovery) | 32F723EDISCOVERY BSP Drivers
 stm32f7 | [32f746gdiscovery](https://github.com/STMicroelectronics/32f746gdiscovery) | 32F746GDISCOVERY BSP Drivers
 stm32g0 | [stm32g0316-disco](https://github.com/STMicroelectronics/stm32g0316-disco) | STM32G0316-DISCO BSP Drivers
-stm32g0 | [stm32g071b-discovery](https://github.com/STMicroelectronics/stm32g071b-discovery) | STM32G071B-DISCO BSP Drivers
+stm32g0 | [stm32g071b-disco](https://github.com/STMicroelectronics/stm32g071b-disco) | STM32G071B-DISCO BSP Drivers
 stm32g0 | [stm32g081b-eval](https://github.com/STMicroelectronics/stm32g081b-eval) | STM32G081B_EVAL BSP Drivers
 stm32g0 | [stm32g0c1e-ev](https://github.com/STMicroelectronics/stm32g0c1e-ev) | STM32G0C1E-EV BSP Drivers
 stm32g0 | [stm32g0xx-nucleo](https://github.com/STMicroelectronics/stm32g0xx-nucleo) | G0 nucleo BSP Drivers
