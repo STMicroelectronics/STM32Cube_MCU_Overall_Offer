@@ -81,6 +81,7 @@ STM32Cube X-CUBE | Description
 [x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
 [x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4) | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
+[x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
 
 ### STM32Cube MCU Components
 
