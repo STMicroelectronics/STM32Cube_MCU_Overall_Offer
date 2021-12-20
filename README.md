@@ -88,6 +88,18 @@ STM32Cube X-CUBE | Description
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 
+### FP Function Packs
+
+STM32 Function Packs are a combination of low-level drivers, middleware libraries and sample applications assembled into a single software package.
+
+You can get the entire list of available Function Packs on st.com: [STM32 ODE Function Packs](https://www.st.com/en/ecosystems/stm32-ode-function-packs.html).
+
+The below list represents the Function Packs available on GitHub.com
+
+STM32Cube X-CUBE | Description
+---------------- | -----------
+[fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity and environmental and motion sensors.
+
 ### STM32Cube MCU Components
 
 As mentioned above, the STM32Cube Components is an alternative delivery model to the STM32 Packages. In this case, each module is delivered as individual repos, allowing the customer to select and download only the pertinent features.
