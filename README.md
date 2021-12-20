@@ -5,50 +5,52 @@
 **STM32Cube** is an STMicroelectronics original initiative to ease the developers life by reducing efforts, time and cost.
 
 **STM32Cube** covers the overall STM32 products portfolio (MCU and MPU). It includes a comprehensive embedded software platform, delivered for each STM32 series.
-   * The CMSIS modules (core and device) corresponding to the ARM(tm) core implemented in this STM32 product.
-   * The STM32 HAL-LL drivers : an abstraction drivers layer, the API ensuring maximized portability across the STM32 portfolio.
-   * The BSP Drivers of each evaluation or demonstration board provided by this STM32 series.
-   * A consistent set of middlewares components such as RTOS, USB, FatFS, Graphics, TCP/IP, BLE, STM32_TouchSensing_Library...
-   * A full set of software projects (basic examples, applications or demonstrations) for each board provided by this STM32 series.
+
+* The CMSIS modules (core and device) corresponding to the ARM(tm) core implemented in this STM32 product.
+* The STM32 HAL-LL drivers : an abstraction drivers layer, the API ensuring maximized portability across the STM32 portfolio.
+* The BSP Drivers of each evaluation or demonstration board provided by this STM32 series.
+* A consistent set of middlewares components such as RTOS, USB, FatFS, Graphics, TCP/IP, BLE, STM32_TouchSensing_Library...
+* A full set of software projects (basic examples, applications or demonstrations) for each board provided by this STM32 series.
 
 GitHub is a new publication model for the STM32Cube MCU embedded software. Three models of publication are proposed:
-   * The **MCU Package** : monolithic STM32Cube software modules, per STM32 MCU series (Drivers, Middlewares, Utilities, Examples Projects) in an unique repo. The usual name of a STM32MCU Package is **STM32Cubexx**, xx corresponding to the STM32 series). Please refer to the chapter **STM32Cube MCU Packages** below.
 
-   * The **MCU components** : parts of the MCU Packages, proposed as individual repos, allowing the user to select and get only the required software functions. Please refer to the chapter **STM32Cube MCU Components** below.
+* The **MCU Package** : monolithic STM32Cube software modules, per STM32 MCU series (Drivers, Middlewares, Utilities, Examples Projects) in an unique repo. The usual name of a STM32MCU Package is **STM32Cubexx**, xx corresponding to the STM32 series). Please refer to the chapter **STM32Cube MCU Packages** below.
 
-   * The **X-CUBE** : Expansion softwares, propose embedded software components that complement the functionalities of the STM32Cube.
+* The **MCU components** : parts of the MCU Packages, proposed as individual repos, allowing the user to select and get only the required software functions. Please refer to the chapter **STM32Cube MCU Components** below.
 
-   * A set of **MCU Utilities** : Various Utility features proposed in dedicated repos.
+* The **X-CUBE** : Expansion softwares, propose embedded software components that complement the functionalities of the STM32Cube.
+
+* A set of **MCU Utilities** : Various Utility features proposed in dedicated repos.
 
 Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer).
-
 
 ## Description
 
 This repo is a simple Readme describing all STM32 MCU related GitHub projects, the overall offer for the STM32 MCU products.
 
 This new publication channel of the STM32Cube embedded software components will provide new added values :
-   * In complement to the MCU Package zip files today proposed on **st.com**, the capability for STM32 customers to get a configuration management based delivery (Git)
-   * A more direct communication between developers, thanks to the Issues features. **Caution** : only software related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/stm32mcu) forum
-   * Thanks to the deployment of a Contributor License Agreement feature (please refer to each repo CONTRIBUTING guide), the **Pull-Request** permits also to take into account customers proposed updates and enrich the STM32Cube FW offer.
 
+* In complement to the MCU Package zip files today proposed on **st.com**, the capability for STM32 customers to get a configuration management based delivery (Git)
+* A more direct communication between developers, thanks to the Issues features. **Caution** : only software related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/stm32mcu) forum
+* Thanks to the deployment of a Contributor License Agreement feature (please refer to each repo CONTRIBUTING guide), the **Pull-Request** permits also to take into account customers proposed updates and enrich the STM32Cube FW offer.
 
 For general communication and support, you can use
-   * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
-   * [ST Community Forum](https://community.st.com/stm32mcu) forum
 
-### Content
+* [ST Support Center](https://my.st.com/ols#/ols/) for any defect
+* [ST Community Forum](https://community.st.com/stm32mcu) forum
 
-   * [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
-   * [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
-   * [STM32Cube Function Packs](README.md#fp-function-packs)
-   * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
-   * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
-   * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
-   * [STM32Cube MW Libraries](README.md#stm32cube-middleware-libraries)
-   * [STM32Cube Utilities](README.md#stm32cube-utilities-and-miscellaneous-repos)
+## Content
 
-### STM32Cube MCU Packages
+* [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
+* [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
+* [STM32Cube Function Packs](README.md#fp-function-packs)
+* [STM32Cube CMSIS](README.md#stm32cube-cmsis)
+* [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
+* [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
+* [STM32Cube MW Libraries](README.md#stm32cube-middleware-libraries)
+* [STM32Cube Utilities](README.md#stm32cube-utilities-and-miscellaneous-repos)
+
+## STM32Cube MCU Packages
 
 STM32Cube MCU Packages | Description
 ---------------------- | -----------
@@ -69,7 +71,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) | The STM32CubeWB FW MCU Package
 [STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) | The STM32CubeWL FW MCU Package
 
-#### X-CUBE Expansion softwares
+## X-CUBE Expansion softwares
 
 The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
 
@@ -89,7 +91,7 @@ STM32Cube X-CUBE | Description
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 
-### FP Function Packs
+## FP Function Packs
 
 STM32 Function Packs are a combination of low-level drivers, middleware libraries and sample applications assembled into a single software package.
 
@@ -101,15 +103,16 @@ STM32Cube X-CUBE | Description
 ---------------- | -----------
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity and environmental and motion sensors.
 
-### STM32Cube MCU Components
+## STM32Cube MCU Components
 
 As mentioned above, the STM32Cube Components is an alternative delivery model to the STM32 Packages. In this case, each module is delivered as individual repos, allowing the customer to select and download only the pertinent features.
-   * Components available today : CMSIS - HAL/LL - Base MW (USB, FatFS, FrreRTOS, LwIP)
-   * Components upcoming : Other MW - BSP - Utilities
+
+* Components available today : CMSIS - HAL/LL - Base MW (USB, FatFS, FrreRTOS, LwIP)
+* Components upcoming : Other MW - BSP - Utilities
 
 In each module README file you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
 
-#### STM32Cube CMSIS
+### STM32Cube CMSIS
 
 STM32Cube CMSIS core | Description
 ---------------------| -----------
@@ -134,12 +137,12 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb) | The STM32WB CMSIS Device files
 [cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl) | The STM32WL CMSIS Device files
 
-#### STM32Cube HAL Drivers
+### STM32Cube HAL Drivers
 
 The **HAL Drivers** MCU Components propose the HAL and LL Drivers modules controlling all the HW IPs embedded in the STM32 products.
 
 * HAL Drivers:
-  * A set of portable abstraction APIs offering high level services, built around standalone processes. The HAL drivers are functionalities oriented, example: for the Timer peripheral, the APIs could be split into several categories following the functions offered by the IPs (Basic timer, capture, PWM …etc.) for a communication IP: an initialisation function, eventually a configuration function and data transfer services (polling, interruption or DMA based)
+  * A set of portable abstraction APIs offering high level services, built around standalone processes. The HAL drivers are functionalities oriented, example: for the Timer peripheral, the APIs could be split into several categories following the functions offered by the IPs (Basic timer, capture, PWM...) for a communication IP: an initialisation function, eventually a configuration function and data transfer services (polling, interruption or DMA based)
   * The compatibility SHALL be guaranteed across all the STM32 families for the generic APIs, including generic macros and common structures defines. Any specific feature is given in a dedicated extension model available in the associated extension files
 
 * LL Drivers:
@@ -148,7 +151,6 @@ The **HAL Drivers** MCU Components propose the HAL and LL Drivers modules contro
 HAL and LL Drivers are provided in the same module/repo
 
 The dynamic usage of HAL APIs is provided thru projects examples, available in the respective STM32Cube MCU Packages **STM32Cubexx** where xx correspond to the series
-
 
 STM32Cube HAL Drivers | Description
 --------------------- | -----------
@@ -169,11 +171,12 @@ STM32Cube HAL Drivers | Description
 [stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver) | The STM32WB HAL-LL Drivers
 [stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver) | The STM32WL HAL-LL Drivers
 
-#### STM32Cube BSP Drivers
+### STM32Cube BSP Drivers
 
 The **BSP Drivers** MCU Components propose the BSP Drivers modules, which are constituted from the:
-   * [STM32Cube BSP Boards Drivers](README.md#stm32cube-bsp-boards-drivers), **based on the HAL drivers**, and providing a set of high level APIs allowing a quick access to the boards’ services (**e.g.**, audio, graphics, access to external memories).
-   * [STM32Cube BSP Components Drivers](README.md#stm32cube-bsp-components-drivers) providing a set of high level APIs allowing a quick access to the (**e.g.**, audio codecs, LCD drivers, SD cards, MEMS). The **link** between these external components and the HAL drivers (**e.g.**, a SD card and the `OSPI`/`QSPI` HAL driver) is done within the **BSP Boards** drivers.
+
+* [STM32Cube BSP Boards Drivers](README.md#stm32cube-bsp-boards-drivers), **based on the HAL drivers**, and providing a set of high level APIs allowing a quick access to the boards services (**e.g.**, audio, graphics, access to external memories).
+* [STM32Cube BSP Components Drivers](README.md#stm32cube-bsp-components-drivers) providing a set of high level APIs allowing a quick access to the (**e.g.**, audio codecs, LCD drivers, SD cards, MEMS). The **link** between these external components and the HAL drivers (**e.g.**, a SD card and the `OSPI`/`QSPI` HAL driver) is done within the **BSP Boards** drivers.
 
 ------
 
@@ -185,7 +188,7 @@ The **BSP Drivers** MCU Components propose the BSP Drivers modules, which are co
 
 ------
 
-##### STM32Cube BSP Boards Drivers
+### STM32Cube BSP Boards Drivers
 
 STM32CubeF0 BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -322,7 +325,7 @@ STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32wlxx-nucleo](https://github.com/STMicroelectronics/stm32wlxx-nucleo) | WL nucleo BSP Driver
 
-##### STM32Cube BSP Components Drivers:
+### STM32Cube BSP Components Drivers
 
 STM32Cube BSP Audio Components Drivers | Description
 -------------------------------------- | -----------
