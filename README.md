@@ -41,6 +41,7 @@ For general communication and support, you can use
 
    * [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
    * [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
+   * [STM32Cube Function Packs](README.md#fp-function-packs)
    * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
    * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
    * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
