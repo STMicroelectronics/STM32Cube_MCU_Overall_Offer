@@ -1,4 +1,4 @@
-# STM32Cube_MCU_Overall_Offer
+# STM32Cube MCU Overall Offer
 
 ## Overview
 
@@ -79,8 +79,14 @@ STM32Cube X-CUBE | Description
 ---------------- | -----------
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)             | AWS IoT Expansion Package for STM32Cube.
 [x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4) | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
+[x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7) | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
+[x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0) | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
+[x-cube-azrtos-g4](https://github.com/STMicroelectronics/x-cube-azrtos-g4) | Azure RTOS Expansion Package for STM32Cube, for STM32G4 series.
 [x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
 [x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4) | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
+[x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5) | Azure RTOS Expansion Package for STM32Cube, for STM32L5 series.
+[x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb) | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
+[x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl) | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
 [x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
