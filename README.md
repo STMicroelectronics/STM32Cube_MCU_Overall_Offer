@@ -48,7 +48,7 @@ For general communication and support, you can use
 * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
 * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
 * [STM32Cube MW Libraries](README.md#stm32cube-middleware-libraries)
-* [STM32Cube Utilities](README.md#stm32cube-utilities-and-miscellaneous-repos)
+* [STM32Cube Utilities and miscellaneous](README.md#stm32cube-utilities-and-miscellaneous-repos)
 
 ## STM32Cube MCU Packages
 
@@ -483,7 +483,7 @@ Repository | Description
 
 ### STM32Cube Utilities and Miscellaneous repos
 
-STM32Cube Utilities | Description
+Repository          | Description
 ------------------- | -----------
 [stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) | Flashloaders source code of external memories embedded in the STM32 HW boards.
 [stm32ai](https://github.com/STMicroelectronics/stm32ai)                             | Open source AI offer in STM32 products.
