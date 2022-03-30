@@ -105,9 +105,10 @@ You can get the entire list of available Function Packs on st.com: [STM32 ODE Fu
 
 The below list represents the Function Packs available on GitHub.com
 
-STM32Cube X-CUBE | Description
----------------- | -----------
+STM32Cube Function Packs | Description
+------------------------ | -----------
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity and environmental and motion sensors.
+[fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view real-time time-of-flight sensors data.
 
 ## STM32Cube MCU Components
 
