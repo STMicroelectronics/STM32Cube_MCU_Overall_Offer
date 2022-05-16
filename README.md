@@ -316,6 +316,8 @@ STM32CubeL5 BSP Boards Drivers | Description
 
 STM32CubeU5 BSP Boards Drivers | Description
 -------------------------------|-------------
+[b-u585i-iot02a-bsp](https://github.com/STMicroelectronics/b-u585i-iot02a-bsp)     | B-U585I-IOT02A BSP Driver
+[stm32u575i-ev-bsp](https://github.com/STMicroelectronics/stm32u575i-ev-bsp)       | STM32U575I-EV BSP Driver
 [stm32u5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u5xx-nucleo-bsp) | U5 nucleo BSP Driver
 
 STM32CubeWB BSP Boards Drivers | Description
