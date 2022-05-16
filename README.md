@@ -463,6 +463,8 @@ These **Middleware Libraries** delivered in standalone mode, permit to get in ad
 
 * **USB Host library:** A set of services allowing the configuration and the control of the USB on STM32 MCUs in **host mode**. It is mainly based on the "Core" and the "Class" modules including the common and most used features and APIs.
 
+* **Open Bootloader library:** An In-Application programming (IAP) utility based on the HAL-LL drivers and providing a set of services in order to perform all possible Bootloader operations. It is provided as an example that can be **tailored** and **customized**.
+
 The dynamic usage of Middleware Libraries is provided thru projects examples, available in the respective STM32Cube MCU Packages **STM32Cubexx** where xx correspond to the series. Additionnal projects examples are also available under [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps).
 
 STM32Cube MW Libraries | Description
@@ -472,12 +474,16 @@ STM32Cube MW Libraries | Description
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip)             | LwIP middleware library
 [stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host)     | USB Host middleware library
+[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 
-**Classic CoreMW** is a collection of applications for the above Middleware librairies.
+Examples and applications showing how to use the above libraries are available in the following repos.
 
-Repository | Description
----------------------- | -----------
-[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps)  | Project examples on STM32U5 for ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP
+STM32Cube MW Applications | Description
+------------------------- | -----------
+[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP libraries for STM32U5 series. 
+[stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series. 
+[stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series. 
+[stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series. 
 
 ### STM32Cube Utilities and Miscellaneous repos
 
