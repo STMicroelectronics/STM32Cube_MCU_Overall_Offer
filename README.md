@@ -477,6 +477,8 @@ STM32Cube MW Libraries | Description
 [stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host)     | USB Host middleware library
 [stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
+[stm32_mw_netxduo](https://github.com/STMicroelectronics/stm32_mw_netxduo) | Azure RTOS NetX Duo library
+[stm32_mw_threadx](https://github.com/STMicroelectronics/stm32_mw_threadx) | Azure RTOS ThreadX library
 
 Examples and applications showing how to use the above libraries are available in the following repos.
 
