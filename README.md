@@ -86,10 +86,13 @@ STM32Cube X-CUBE | Description
 [x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl) | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
 [x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
+[x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Package to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
 [x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
+[x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
 [x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)         | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
 [x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1)
 [x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV device) Expansion Package for STM32Cube.
+[x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
@@ -104,6 +107,7 @@ The below list represents the Function Packs available on GitHub.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
+[fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity. Covers environmental and motion sensors, digital microphone levels, battery level, recording on SD card, voice communication over BLE, sound source localization, acoustic beam forming, real time activity/gesture/motion recognition.
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity and environmental and motion sensors.
 [fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view real-time time-of-flight sensors data.
 
