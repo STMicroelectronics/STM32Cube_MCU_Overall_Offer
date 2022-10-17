@@ -72,9 +72,8 @@ STM32Cube MCU Packages | Description
 
 The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
 
-STM32Cube X-CUBE | Description
----------------- | -----------
-[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)             | AWS IoT Expansion Package for STM32Cube.
+STM32Cube Azure RTOS X-CUBE | Description
+--------------------------- | -----------
 [x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4) | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
 [x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7) | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
 [x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0) | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
@@ -84,18 +83,37 @@ STM32Cube X-CUBE | Description
 [x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5) | Azure RTOS Expansion Package for STM32Cube, for STM32L5 series.
 [x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb) | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
 [x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl) | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
+
+STM32Cube Connectivity X-CUBE | Description
+----------------------------- | -----------
 [x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Package to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
-[x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
-[x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
-[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)         | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
-[x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1)
 [x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV device) Expansion Package for STM32Cube.
 [x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
+
+STM32Cube IoT X-CUBE | Description
+-------------------- | -----------
+[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)             | AWS IoT Expansion Package for STM32Cube.
+[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)         | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
+
+STM32Cube MEMS and Sensors X-CUBE | Description
+--------------------------------- | -----------
+[x-cube-ispu](https://github.com/STMicroelectronics/x-cube-ispu)           | Provides examples and drivers for STM32 to recognize sensors and collect temperature, humidity, pressure, motion, and ISPU (Intelligent Sensor Processing Unit) data.
+[x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1).
+[x-cube-memsmic1](https://github.com/STMicroelectronics/x-cube-memsmic1)   | Provides examples for STM32 using ST analog and digital MEMS microphones, and ultrasound condition monitoring (UltrasoundFFT).
+[x-cube-soundter1](https://github.com/STMicroelectronics/x-cube-soundter1) | Provides drivers and middleware for STM32 to interface with the STA350BW Sound Terminal component mounted on X-NUCLEO-CCA01M1 expansion board.
+
+STM32Cube USB-PD X-CUBE | Description
+----------------------- | -----------
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
+
+STM32Cube Miscellaneoux X-CUBE | Description
+------------------------------ | -----------
+[x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
+[x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
 
 ## STM32Cube Function Packs
 
@@ -107,9 +125,10 @@ The below list represents the Function Packs available on GitHub.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
-[fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity. Covers environmental and motion sensors, digital microphone levels, battery level, recording on SD card, voice communication over BLE, sound source localization, acoustic beam forming, real time activity/gesture/motion recognition.
-[fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity and environmental and motion sensors.
-[fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view real-time time-of-flight sensors data.
+[fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
+[fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4.
+[fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
+[fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
 
 ## STM32Cube MCU Components
 
