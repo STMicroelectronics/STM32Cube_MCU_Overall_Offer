@@ -110,23 +110,21 @@ STM32Cube USB-PD X-CUBE | Description
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 
-STM32Cube Miscellaneoux X-CUBE | Description
+STM32Cube Miscellaneous X-CUBE | Description
 ------------------------------ | -----------
 [x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
 [x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
 
 ## STM32Cube Function Packs
 
-STM32 Function Packs (FP) are a combination of low-level drivers, middleware libraries and sample applications assembled into a single software package.
+STM32 Function Packs (FP) are a combination of low-level drivers, middleware libraries and sample applications assembled into a single software package. You can get the entire list of available Function Packs on st.com [here](https://www.st.com/en/ecosystems/stm32-ode-function-packs.html).
 
-You can get the entire list of available Function Packs on st.com: [STM32 ODE Function Packs](https://www.st.com/en/ecosystems/stm32-ode-function-packs.html).
-
-The below list represents the Function Packs available on GitHub.com
+The below list represents the Function Packs available on github.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
-[fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4.
+[fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
 [fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
 
