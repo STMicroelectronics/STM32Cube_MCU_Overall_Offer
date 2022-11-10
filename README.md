@@ -123,6 +123,8 @@ The below list represents the Function Packs available on github.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
+[fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
+[fp-aud-smartmic1](https://github.com/STMicroelectronics/fp-aud-smartmic1) | STM32Cube function pack for acquiring audio signals from 4 digital MEMS microphones, processing them, and streaming them to both a USB host and a loudspeaker.
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
