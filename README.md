@@ -40,7 +40,7 @@ For general communication and support, you can use
 
 * [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
 * [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
-* [STM32Cube Function Packs](README.md#fp-function-packs)
+* [STM32Cube Function Packs](README.md#stm32cube-function-packs)
 * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
 * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
 * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
@@ -123,6 +123,7 @@ The below list represents the Function Packs available on github.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
+[fp-atr-sigfox1](https://github.com/STMicroelectronics/fp-atr-sigfox1)     | STM32Cube function pack for reading data from GNSS and environmental sensors and sending this information via Sigfox.
 [fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
 [fp-aud-smartmic1](https://github.com/STMicroelectronics/fp-aud-smartmic1) | STM32Cube function pack for acquiring audio signals from 4 digital MEMS microphones, processing them, and streaming them to both a USB host and a loudspeaker.
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
