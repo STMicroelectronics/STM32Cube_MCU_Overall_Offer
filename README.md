@@ -95,8 +95,9 @@ STM32Cube Connectivity X-CUBE | Description
 
 STM32Cube IoT X-CUBE | Description
 -------------------- | -----------
-[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)             | AWS IoT Expansion Package for STM32Cube.
-[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)         | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
+[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)                           | AWS IoT Expansion Package for STM32Cube.
+[x-cube-azure-telematics](https://github.com/STMicroelectronics/x-cube-azure-telematics) | Azure IoT Expansion Package for STM32Cube.
+[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)                       | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
 
 STM32Cube MEMS and Sensors X-CUBE | Description
 --------------------------------- | -----------
