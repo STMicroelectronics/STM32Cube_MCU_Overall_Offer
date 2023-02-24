@@ -51,6 +51,7 @@ For general communication and support, you can use
 
 STM32Cube MCU Packages | Description
 ---------------------- | -----------
+[STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0) | The STM32CubeC0 FW MCU Package
 [STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0) | The STM32CubeF0 FW MCU Package
 [STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) | The STM32CubeF1 FW MCU Package
 [STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2) | The STM32CubeF2 FW MCU Package
@@ -128,9 +129,11 @@ STM32Cube Function Packs | Description
 [fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
 [fp-aud-smartmic1](https://github.com/STMicroelectronics/fp-aud-smartmic1) | STM32Cube function pack for acquiring audio signals from 4 digital MEMS microphones, processing them, and streaming them to both a USB host and a loudspeaker.
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
+[fp-sns-datalog2](https://github.com/STMicroelectronics/fp-sns-datalog2)   | STM32Cube function pack for IoT node with BLE connectivity to saving data from any combination of sensors and microphones configured up to the maximum sampling rate.
+[fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
-[fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
+[fp-sns-smartag2](https://github.com/STMicroelectronics/fp-sns-smartag2)   | STM32Cube function pack for IoT node to read the ambient light, motion, and environmental sensor data by means of a NFC-enabled reader.
 
 ## STM32Cube MCU Components
 
