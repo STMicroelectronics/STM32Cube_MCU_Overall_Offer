@@ -58,6 +58,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3) | The STM32CubeF3 FW MCU Package
 [STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4) | The STM32CubeF4 FW MCU Package
 [STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7) | The STM32CubeF7 FW MCU Package
+[STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5) | The STM32CubeH5 FW MCU Package
 [STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7) | The STM32CubeH7 FW MCU Package
 [STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0) | The STM32CubeG0 FW MCU Package
 [STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) | The STM32CubeG4 FW MCU Package
