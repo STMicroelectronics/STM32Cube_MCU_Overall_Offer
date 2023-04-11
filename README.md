@@ -96,6 +96,10 @@ STM32Cube Connectivity X-CUBE | Description
 [x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
+STM32Cube FreeRTOS X-CUBE | Description
+--------------------------- | -----------
+[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32Cube.
+
 STM32Cube IoT X-CUBE | Description
 -------------------- | -----------
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)                           | AWS IoT Expansion Package for STM32Cube.
