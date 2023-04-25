@@ -166,6 +166,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_f7](https://github.com/STMicroelectronics/cmsis_device_f7) | The STM32F7 CMSIS Device files
 [cmsis_device_g0](https://github.com/STMicroelectronics/cmsis_device_g0) | The STM32G0 CMSIS Device files
 [cmsis_device_g4](https://github.com/STMicroelectronics/cmsis_device_g4) | The STM32G4 CMSIS Device files
+[cmsis_device_h5](https://github.com/STMicroelectronics/cmsis_device_h5) | The STM32H5 CMSIS Device files
 [cmsis_device_h7](https://github.com/STMicroelectronics/cmsis_device_h7) | The STM32H7 CMSIS Device files
 [cmsis_device_l0](https://github.com/STMicroelectronics/cmsis_device_l0) | The STM32L0 CMSIS Device files
 [cmsis_device_l1](https://github.com/STMicroelectronics/cmsis_device_l1) | The STM32L1 CMSIS Device files
@@ -200,6 +201,7 @@ STM32Cube HAL Drivers | Description
 [stm32f7xx_hal_driver](https://github.com/STMicroelectronics/stm32f7xx_hal_driver) | The STM32F7 HAL-LL Drivers
 [stm32g0xx_hal_driver](https://github.com/STMicroelectronics/stm32g0xx_hal_driver) | The STM32G0 HAL-LL Drivers
 [stm32g4xx_hal_driver](https://github.com/STMicroelectronics/stm32g4xx_hal_driver) | The STM32G4 HAL-LL Drivers
+[stm32h5xx_hal_driver](https://github.com/STMicroelectronics/stm32h5xx_hal_driver) | The STM32H5 HAL-LL Drivers
 [stm32h7xx_hal_driver](https://github.com/STMicroelectronics/stm32h7xx_hal_driver) | The STM32H7 HAL-LL Drivers
 [stm32l0xx_hal_driver](https://github.com/STMicroelectronics/stm32l0xx_hal_driver) | The STM32L0 HAL-LL Drivers
 [stm32l1xx_hal_driver](https://github.com/STMicroelectronics/stm32l1xx_hal_driver) | The STM32L1 HAL-LL Drivers
@@ -301,6 +303,11 @@ STM32CubeG4 BSP Boards Drivers | Description
 [b-g474e-dpow1-bsp](https://github.com/STMicroelectronics/b-g474e-dpow1-bsp)       | B-G474E-DPOW1 BSP Driver
 [stm32g474e-eval-bsp](https://github.com/STMicroelectronics/stm32g474e-eval-bsp)   | STM32G474E-EVAL BSP Driver
 [stm32g4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32g4xx-nucleo-bsp) | G4 nucleo BSP Driver
+
+STM32CubeH5 BSP Boards Drivers | Description
+-------------------------------|-------------
+[stm32h573i-discovery-bsp](https://github.com/STMicroelectronics/stm32h573i-discovery-bsp) | STM32H573I-DK BSP Driver
+[stm32h5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h5xx-nucleo-bsp)         | H5 nucleo BSP Driver
 
 STM32CubeH7 BSP Boards Drivers | Description
 -------------------------------|-------------
