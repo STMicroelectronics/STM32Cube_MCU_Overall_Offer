@@ -174,6 +174,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_l5](https://github.com/STMicroelectronics/cmsis_device_l5) | The STM32L5 CMSIS Device files
 [cmsis_device_u5](https://github.com/STMicroelectronics/cmsis_device_u5) | The STM32U5 CMSIS Device files
 [cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb) | The STM32WB CMSIS Device files
+[cmsis_device_wba](https://github.com/STMicroelectronics/cmsis_device_wba) | The STM32WBA CMSIS Device files
 [cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl) | The STM32WL CMSIS Device files
 
 ### STM32Cube HAL Drivers
@@ -209,6 +210,7 @@ STM32Cube HAL Drivers | Description
 [stm32l5xx_hal_driver](https://github.com/STMicroelectronics/stm32l5xx_hal_driver) | The STM32L5 HAL-LL Drivers
 [stm32u5xx_hal_driver](https://github.com/STMicroelectronics/stm32u5xx_hal_driver) | The STM32U5 HAL-LL Drivers
 [stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver) | The STM32WB HAL-LL Drivers
+[stm32wbaxx_hal_driver](https://github.com/STMicroelectronics/stm32wbaxx_hal_driver) | The STM32WBA HAL-LL Drivers
 [stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver) | The STM32WL HAL-LL Drivers
 
 ### STM32Cube BSP Drivers
@@ -367,6 +369,10 @@ STM32CubeWB BSP Boards Drivers | Description
 [nucleo-wb15cc-bsp](https://github.com/STMicroelectronics/nucleo-wb15cc-bsp)                       | NUCLEO-WB15CC BSP Driver
 [p-nucleo-wb55-nucleo-bsp](https://github.com/STMicroelectronics/p-nucleo-wb55-nucleo-bsp)         | P-NUCLEO-WB55.Nucleo BSP Driver
 [p-nucleo-wb55-usb-dongle-bsp](https://github.com/STMicroelectronics/p-nucleo-wb55-usb-dongle-bsp) | P-NUCLEO-WB55.USBDongle BSP Driver
+
+STM32CubeWBA BSP Boards Drivers | Description
+-------------------------------|-------------
+[stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA nucleo BSP Driver
 
 STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
