@@ -158,6 +158,7 @@ STM32Cube CMSIS core | Description
 
 STM32Cube CMSIS Devices | Description
 ------------------------| -----------
+[cmsis_device_c0](https://github.com/STMicroelectronics/cmsis_device_c0) | The STM32C0 CMSIS Device files
 [cmsis_device_f0](https://github.com/STMicroelectronics/cmsis_device_f0) | The STM32F0 CMSIS Device files
 [cmsis_device_f1](https://github.com/STMicroelectronics/cmsis_device_f1) | The STM32F1 CMSIS Device files
 [cmsis_device_f2](https://github.com/STMicroelectronics/cmsis_device_f2) | The STM32F2 CMSIS Device files
@@ -194,6 +195,7 @@ The dynamic usage of HAL APIs is provided thru projects examples, available in t
 
 STM32Cube HAL Drivers | Description
 --------------------- | -----------
+[stm32c0xx_hal_driver](https://github.com/STMicroelectronics/stm32c0xx_hal_driver) | The STM32C0 HAL-LL Drivers
 [stm32f0xx_hal_driver](https://github.com/STMicroelectronics/stm32f0xx_hal_driver) | The STM32F0 HAL-LL Drivers
 [stm32f1xx_hal_driver](https://github.com/STMicroelectronics/stm32f1xx_hal_driver) | The STM32F1 HAL-LL Drivers
 [stm32f2xx_hal_driver](https://github.com/STMicroelectronics/stm32f2xx_hal_driver) | The STM32F2 HAL-LL Drivers
@@ -231,6 +233,12 @@ The **BSP Drivers** MCU Components propose the BSP Drivers modules, which are co
 ------
 
 ### STM32Cube BSP Boards Drivers
+
+STM32CubeC0 BSP Boards Drivers | Description
+-------------------------------|-------------
+[nucleo-c031c6-bsp](https://github.com/STMicroelectronics/nucleo-c031c6-bsp)       | NUCLEO-C031C6 BSP Driver
+[stm32c0116-dk-bsp](https://github.com/STMicroelectronics/stm32c0116-dk-bsp)       | STM32C0116-DK BSP Driver
+[stm32c0316-dk-bsp](https://github.com/STMicroelectronics/stm32c0316-dk-bsp)       | STM32C0316-DK BSP Driver
 
 STM32CubeF0 BSP Boards Drivers | Description
 -------------------------------|-------------
