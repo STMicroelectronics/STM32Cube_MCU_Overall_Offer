@@ -44,7 +44,7 @@ For general communication and support, you can use
 * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
 * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
 * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
-* [STM32Cube MW Libraries](README.md#stm32cube-middleware-libraries)
+* [STM32Cube MW Libraries and Applications](README.md#stm32cube-middleware-libraries-and-applications)
 * [STM32Cube Utilities and miscellaneous](README.md#stm32cube-utilities-and-miscellaneous-repos)
 
 ## STM32Cube MCU Packages
@@ -504,42 +504,29 @@ STM32Cube BSP miscellaneous Components Drivers | Description
 [stm32-m24sr](https://github.com/STMicroelectronics/stm32-m24sr)       | The M24SR BSP Component Driver
 [stm32-ina230](https://github.com/STMicroelectronics/stm32-ina230)     | The INA230 BSP Component Driver
 
-#### STM32Cube Middleware Libraries
+### STM32Cube Middleware Libraries and Applications
 
-The **Middleware Libraries** MCU Components propose the following set of stacks common to all STM32xx series very useful to design number of middleware-based user applications.
-
-These **Middleware Libraries** delivered in standalone mode, permit to get in advance, compared to the full FW Packages, the new features or updates. Please take a look to the Release Note to verify the compatibility information.
-
-* **FatFS library:** A set of platform- and storage device-independent services allowing user application to access storage devices and manage files.
-
-* **FreeRTOS library:** A set of platform-independent services implementing a real-time operating system kernel for embedded devices and providing methods for multiple threads or tasks, mutexes, semaphores and software timers.
-
-* **LwIP library:** LwIP (Lightweight IP) is an open-source TCP/IP stack designed to reduce resource usage while still offering a full-scale TCP stack. Among other services, it also offers a network interface, buffers and a memory management section, and an operating system emulation layer.
-
-* **USB Device library:** A set of services allowing the configuration and the control of the USB on STM32 MCUs in **device mode**. It is mainly based on the "Core" and the "Class" modules including the common and most used features and APIs.
-
-* **USB Host library:** A set of services allowing the configuration and the control of the USB on STM32 MCUs in **host mode**. It is mainly based on the "Core" and the "Class" modules including the common and most used features and APIs.
-
-* **Open Bootloader library:** An In-Application programming (IAP) utility based on the HAL-LL drivers and providing a set of services in order to perform all possible Bootloader operations. It is provided as an example that can be **tailored** and **customized**.
-
-The dynamic usage of Middleware Libraries is provided thru projects examples, available in the respective STM32Cube MCU Packages **STM32Cubexx** where xx correspond to the series. Additionnal projects examples are also available under [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps).
-
-STM32Cube MW Libraries | Description
----------------------- | -----------
+STM32Cube Classic Core MW Libraries | Description
+----------------------------------- | -----------
 [stm32_mw_fatfs](https://github.com/STMicroelectronics/stm32_mw_fatfs)           | FatFS middleware library
 [stm32_mw_freertos](https://github.com/STMicroelectronics/stm32_mw_freertos)     | FreeRTOS middleware library
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip)             | LwIP middleware library
+[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 [stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host)     | USB Host middleware library
-[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
+
+STM32Cube Azure RTOS MW Libraries | Description
+--------------------------------- | -----------
 [stm32_mw_netxduo](https://github.com/STMicroelectronics/stm32_mw_netxduo) | Azure RTOS NetX Duo library
 [stm32_mw_threadx](https://github.com/STMicroelectronics/stm32_mw_threadx) | Azure RTOS ThreadX library
 
-Examples and applications showing how to use the above libraries are available in the following repos.
-
-STM32Cube MW Applications | Description
-------------------------- | -----------
+STM32Cube Classic Core MW Applications | Description
+-------------------------------------- | -----------
+[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP libraries for STM32U5 series. 
 [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP libraries for STM32U5 series. 
+
+STM32Cube Open Bootloader MW Applications | Description
+----------------------------------------- | -----------
 [stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series. 
 [stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series. 
 [stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series. 
