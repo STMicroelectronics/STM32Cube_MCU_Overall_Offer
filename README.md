@@ -467,7 +467,6 @@ STM32Cube BSP QSPI/OSPI Components Drivers | Description
 [stm32-n25q512a](https://github.com/STMicroelectronics/stm32-n25q512a)         | The N25Q512A BSP Component Driver
 [stm32-s25fl128s](https://github.com/STMicroelectronics/stm32-s25fl128s)       | The S25FL128S BSP Component Driver
 [stm32-s25fl512s](https://github.com/STMicroelectronics/stm32-s25fl512s)       | The S25FL512S BSP Component Driver
-[stm32-w25q80ew](https://github.com/STMicroelectronics/stm32-w25q80ew)         | The W25Q80EW BSP Component Driver
 
 STM32Cube BSP SDRAM Components Drivers | Description
 -------------------------------------- | -----------
