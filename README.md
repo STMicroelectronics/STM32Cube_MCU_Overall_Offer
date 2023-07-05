@@ -92,7 +92,8 @@ STM32Cube Connectivity X-CUBE | Description
 [x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Package to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
-[x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV device) Expansion Package for STM32Cube.
+[x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV04K device) Expansion Package for STM32Cube.
+[x-cube-nfc7](https://github.com/STMicroelectronics/x-cube-nfc7)           | Dynamic NFC/RFID tag IC (ST25DV64KC device) Expansion Package for STM32Cube.
 [x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
@@ -521,8 +522,8 @@ STM32Cube Azure RTOS MW Libraries | Description
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
-[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP libraries for STM32U5 series. 
-[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FreeRTOS, FatFS, and LwIP libraries for STM32U5 series. 
+[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32H5 series. 
+[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and LwIP libraries for STM32U5 series. 
 
 STM32Cube Open Bootloader MW Applications | Description
 ----------------------------------------- | -----------
