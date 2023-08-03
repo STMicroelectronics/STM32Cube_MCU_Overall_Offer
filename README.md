@@ -136,7 +136,8 @@ STM32Cube Function Packs | Description
 [fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
 [fp-aud-smartmic1](https://github.com/STMicroelectronics/fp-aud-smartmic1) | STM32Cube function pack for acquiring audio signals from 4 digital MEMS microphones, processing them, and streaming them to both a USB host and a loudspeaker.
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
-[fp-sns-datalog2](https://github.com/STMicroelectronics/fp-sns-datalog2)   | STM32Cube function pack for IoT node with BLE connectivity to saving data from any combination of sensors and microphones configured up to the maximum sampling rate.
+[fp-sns-datalog1](https://github.com/STMicroelectronics/fp-sns-datalog1)   | STM32Cube function pack for IoT node with BLE connectivity to save data from any combination of sensors and microphones configured up to the maximum sampling rate.
+[fp-sns-datalog2](https://github.com/STMicroelectronics/fp-sns-datalog2)   | STM32Cube function pack for IoT node with BLE connectivity to save data from any combination of sensors and microphones configured up to the maximum sampling rate (evolution of the [fp-sns-datalog1](https://github.com/STMicroelectronics/fp-sns-datalog1) pack).
 [fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
@@ -370,6 +371,8 @@ STM32CubeU5 BSP Boards Drivers | Description
 -------------------------------|-------------
 [b-u585i-iot02a-bsp](https://github.com/STMicroelectronics/b-u585i-iot02a-bsp)     | B-U585I-IOT02A BSP Driver
 [stm32u575i-ev-bsp](https://github.com/STMicroelectronics/stm32u575i-ev-bsp)       | STM32U575I-EV BSP Driver
+[stm32u5x9j-dk-bsp](https://github.com/STMicroelectronics/stm32u5x9j-dk-bsp)       | STM32U5A9J-DK and STM32U5G9J-DK1 BSP Driver
+[stm32u5g9j-dk2-bsp](https://github.com/STMicroelectronics/stm32u5g9j-dk2-bsp)     | STM32U5G9J-DK2 BSP Driver
 [stm32u5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u5xx-nucleo-bsp) | U5 nucleo BSP Driver
 
 STM32CubeWB BSP Boards Drivers | Description
