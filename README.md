@@ -99,7 +99,7 @@ STM32Cube Connectivity X-CUBE | Description
 
 STM32Cube FreeRTOS X-CUBE | Description
 --------------------------- | -----------
-[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32Cube.
+[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32H5 and STM32U5.
 
 STM32Cube IoT X-CUBE | Description
 -------------------- | -----------
@@ -522,8 +522,8 @@ STM32Cube Azure RTOS MW Libraries | Description
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
-[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32H5 series. 
-[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and LwIP libraries for STM32U5 series. 
+[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and LwIP libraries for STM32H5 series. 
+[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series. 
 
 STM32Cube Open Bootloader MW Applications | Description
 ----------------------------------------- | -----------
