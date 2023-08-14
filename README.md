@@ -520,8 +520,12 @@ STM32Cube Classic Core MW Libraries | Description
 
 STM32Cube Azure RTOS MW Libraries | Description
 --------------------------------- | -----------
-[stm32_mw_netxduo](https://github.com/STMicroelectronics/stm32_mw_netxduo) | Azure RTOS NetX Duo library
-[stm32_mw_threadx](https://github.com/STMicroelectronics/stm32_mw_threadx) | Azure RTOS ThreadX library
+[stm32_mw_cmsis_rtos_tx](https://github.com/STMicroelectronics/stm32_mw_cmsis_rtos_tx) | CMSIS-RTOS wrapper for Azure RTOS ThreadX library
+[stm32_mw_filex](https://github.com/STMicroelectronics/stm32_mw_filex)                 | Azure RTOS FileX library
+[stm32_mw_levelx](https://github.com/STMicroelectronics/stm32_mw_levelx)               | Azure RTOS LevelX library
+[stm32_mw_netxduo](https://github.com/STMicroelectronics/stm32_mw_netxduo)             | Azure RTOS NetX Duo library
+[stm32_mw_threadx](https://github.com/STMicroelectronics/stm32_mw_threadx)             | Azure RTOS ThreadX library
+[stm32_mw_usbx](https://github.com/STMicroelectronics/stm32_mw_usbx)                   | Azure RTOS USBX library
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
