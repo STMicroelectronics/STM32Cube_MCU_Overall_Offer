@@ -132,6 +132,7 @@ The below list represents the Function Packs available on github.com
 
 STM32Cube Function Packs | Description
 ------------------------ | -----------
+[fp-atr-ble1](https://github.com/STMicroelectronics/fp-atr-ble1)           | STM32Cube function pack for asset tracking using BLE&NFC connectivity for SensorTile.box PRO discovery box.
 [fp-atr-sigfox1](https://github.com/STMicroelectronics/fp-atr-sigfox1)     | STM32Cube function pack for reading data from GNSS and environmental sensors and sending this information via Sigfox.
 [fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
 [fp-aud-smartmic1](https://github.com/STMicroelectronics/fp-aud-smartmic1) | STM32Cube function pack for acquiring audio signals from 4 digital MEMS microphones, processing them, and streaming them to both a USB host and a loudspeaker.
@@ -142,6 +143,7 @@ STM32Cube Function Packs | Description
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
 [fp-sns-smartag2](https://github.com/STMicroelectronics/fp-sns-smartag2)   | STM32Cube function pack for IoT node to read the ambient light, motion, and environmental sensor data by means of a NFC-enabled reader.
+[fp-sns-stbox1](https://github.com/STMicroelectronics/fp-sns-stbox1)       | STM32Cube function pack for the Pro Mode of wireless multi sensor development kits.
 
 ## STM32Cube MCU Components
 
