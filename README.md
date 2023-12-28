@@ -289,7 +289,7 @@ STM32CubeF4 BSP Boards Drivers | Description
 [32f411ediscovery-bsp](https://github.com/STMicroelectronics/32f411ediscovery-bsp)         | 32F411EDISCOVERY BSP Driver
 [32f412gdiscovery-bsp](https://github.com/STMicroelectronics/32f412gdiscovery-bsp)         | 32F412GDISCOVERY BSP Driver
 [32f413hdiscovery-bsp](https://github.com/STMicroelectronics/32f413hdiscovery-bsp)         | 32F413HDISCOVERY BSP Driver
-[stm32f4-discovery-bsp](https://github.com/STMicroelectronics/stm32f4-discovery-bsp)       | STM32F4-Discovery BSP Driver
+[stm32f4discovery-bsp](https://github.com/STMicroelectronics/stm32f4discovery-bsp)         | STM32F4Discovery BSP Driver
 [stm324x9i-eval-bsp](https://github.com/STMicroelectronics/stm324x9i-eval-bsp)             | STM324x9I-EVAL BSP Driver
 
 STM32CubeF7 BSP Boards Drivers | Description
