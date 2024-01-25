@@ -114,6 +114,7 @@ STM32Cube MEMS and Sensors X-CUBE | Description
 [x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1).
 [x-cube-memsmic1](https://github.com/STMicroelectronics/x-cube-memsmic1)   | Provides examples for STM32 using ST analog and digital MEMS microphones, and ultrasound condition monitoring (UltrasoundFFT).
 [x-cube-soundter1](https://github.com/STMicroelectronics/x-cube-soundter1) | Provides drivers and middleware for STM32 to interface with the STA350BW Sound Terminal component mounted on X-NUCLEO-CCA01M1 expansion board.
+[x-cube-tof1](https://github.com/STMicroelectronics/x-cube-tof1)           | Provides drivers drivers for a variety of VL53Lxxx ranging sensors running on STM32.
 
 STM32Cube USB-PD X-CUBE | Description
 ----------------------- | -----------
@@ -140,6 +141,7 @@ STM32Cube Function Packs | Description
 [fp-sns-allmems1](https://github.com/STMicroelectronics/fp-sns-allmems1)   | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data, plus some advanced functionalities (e.g., voice communication over BLE, sound source localization).
 [fp-sns-datalog1](https://github.com/STMicroelectronics/fp-sns-datalog1)   | STM32Cube function pack for IoT node with BLE connectivity to save data from any combination of sensors and microphones configured up to the maximum sampling rate.
 [fp-sns-datalog2](https://github.com/STMicroelectronics/fp-sns-datalog2)   | STM32Cube function pack for IoT node with BLE connectivity to save data from any combination of sensors and microphones configured up to the maximum sampling rate (evolution of the [fp-sns-datalog1](https://github.com/STMicroelectronics/fp-sns-datalog1) pack).
+[fp-ind-datalogmc](https://github.com/STMicroelectronics/fp-ind-datalogmc) | STM32Cube function pack  for STEVAL-STWINBX1 and EVLSPIN32G4-ACT to collect heterogeneous data, combining STWIN.box sensor information with STSPIN32G4 motor control data (derived from the [fp-sns-datalog2](https://github.com/STMicroelectronics/fp-sns-datalog2) pack).
 [fp-sns-flight1](https://github.com/STMicroelectronics/fp-sns-flight1)     | STM32Cube function pack for IoT node with BLE connectivity to view time-of-flight sensors data in real-time.
 [fp-sns-motenv1](https://github.com/STMicroelectronics/FP-SNS-MOTENV1)     | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for F4, L0, and L4 based on the BlueNRG transceiver.
 [fp-sns-motenvwb1](https://github.com/STMicroelectronics/fp-sns-motenvwb1) | STM32Cube function pack for IoT node with BLE connectivity to view environmental and intertial sensors data for WB.
