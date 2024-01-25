@@ -387,6 +387,7 @@ STM32CubeWB BSP Boards Drivers | Description
 STM32CubeWBA BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA nucleo BSP Driver
+[stm32wba55g-dk1-bsp](https://github.com/STMicroelectronics/stm32wba55g-dk1-bsp)     | STM32WBA55G-DK1 BSP Driver
 
 STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
