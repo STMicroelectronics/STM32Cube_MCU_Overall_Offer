@@ -45,6 +45,7 @@ For general communication and support, you can use
 * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
 * [STM32Cube BSP Drivers](README.md#stm32cube-bsp-drivers)
 * [STM32Cube MW Libraries and Applications](README.md#stm32cube-middleware-libraries-and-applications)
+* [STM32Cube USB-PD Components](README.md#stm32cube-usb-power-delivery-components)
 * [STM32Cube Utilities and miscellaneous](README.md#stm32cube-utilities-and-miscellaneous-repos)
 
 ## STM32Cube MCU Packages
@@ -540,6 +541,22 @@ STM32Cube Open Bootloader MW Applications | Description
 [stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series. 
 [stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series. 
 [stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series. 
+
+### STM32Cube USB Power Delivery Components
+
+STM32Cube USB-PD MW Libraries | Description
+----------------------------- | -----------
+[stm32-mw-usbpd-core](https://github.com/STMicroelectronics/stm32-mw-usbpd-core)           | USB Power Delivery core stack library component for STM32
+[stm32-mw-usbpd-device-g0](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g0) | USB Power Delivery device driver specific to STM32G0 for managing the Type-C physical layer
+[stm32-mw-usbpd-ucsi](https://github.com/STMicroelectronics/stm32-mw-usbpd-ucsi)           | USB Type-C Connector System Software Interface (UCSI) for STM32
+
+STM32Cube USB-PD BSP Components Drivers | Description
+--------------------------------------- | -----------
+[stm32-bsp-usbpd-tcpp0203](https://github.com/STMicroelectronics/stm32-bsp-usbpd-tcpp0203) | TCPP03-M20 and TCPP02-M18 Type-C protection ICs driver for STM32
+
+STM32Cube USB-PD Utilities | Description
+-------------------------- | -----------
+[stm32-util-usbpd-tracer-emb](https://github.com/STMicroelectronics/stm32-util-usbpd-tracer-emb) | USB Power Delivery embedded tracer for debugging STM32 USB-PD applications
 
 ### STM32Cube Utilities and Miscellaneous repos
 
