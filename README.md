@@ -386,6 +386,7 @@ STM32CubeWB BSP Boards Drivers | Description
 [nucleo-wb15cc-bsp](https://github.com/STMicroelectronics/nucleo-wb15cc-bsp)                       | NUCLEO-WB15CC BSP Driver
 [p-nucleo-wb55-nucleo-bsp](https://github.com/STMicroelectronics/p-nucleo-wb55-nucleo-bsp)         | P-NUCLEO-WB55.Nucleo BSP Driver
 [p-nucleo-wb55-usb-dongle-bsp](https://github.com/STMicroelectronics/p-nucleo-wb55-usb-dongle-bsp) | P-NUCLEO-WB55.USBDongle BSP Driver
+[b-wb1m-wpan1-bsp](https://github.com/STMicroelectronics/b-wb1m-wpan1-bsp)                         | B-WB1M-WPAN1 BSP Driver
 
 STM32CubeWBA BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -395,6 +396,7 @@ STM32CubeWBA BSP Boards Drivers | Description
 STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32wlxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wlxx-nucleo-bsp) | WL nucleo BSP Driver
+[b-wl5m-subg1-bsp](https://github.com/STMicroelectronics/b-wl5m-subg1-bsp)         | B-WL5M-SUBG1 BSP Driver
 
 ### STM32Cube BSP Components Drivers
 
