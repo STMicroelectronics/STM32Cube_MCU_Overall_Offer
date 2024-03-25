@@ -463,11 +463,11 @@ STM32Cube BSP LCD Components Drivers | Description
 STM32Cube BSP MEMS Components Drivers | Description
 ------------------------------------- | -----------
 [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)         | The HTS221 BSP Component Driver
+[stm32-iis2mdc](https://github.com/STMicroelectronics/stm32-iis2mdc)       | The IIS2mdc BSP Component Driver
 [stm32-ism330dhcx](https://github.com/STMicroelectronics/stm32-ism330dhcx) | The ISM330DHCX BSP Component Driver
 [stm32-ism330dlc](https://github.com/STMicroelectronics/stm32-ism330dlc)   | The ISM330DLC BSP Component Driver
 [stm32-i3g4250d](https://github.com/STMicroelectronics/stm32-i3g4250d)     | The I3G4250D BSP Component Driver
 [stm32-l3gd20](https://github.com/STMicroelectronics/stm32-l3gd20)         | The L3GD20 BSP Component Driver
-[stm32-lan8742](https://github.com/STMicroelectronics/stm32-lan8742)       | The LAN8742 BSP Component Driver
 [stm32-lis302dl](https://github.com/STMicroelectronics/stm32-lis302dl)     | The LIS302DL BSP Component Driver
 [stm32-lis3dsh](https://github.com/STMicroelectronics/stm32-lis3dsh)       | The LIS3DSH BSP Component Driver
 [stm32-lis3mdl](https://github.com/STMicroelectronics/stm32-lis3mdl)       | The LIS3MDL BSP Component Driver
@@ -479,9 +479,9 @@ STM32Cube BSP MEMS Components Drivers | Description
 [stm32-lsm6dsl](https://github.com/STMicroelectronics/stm32-lsm6dsl)       | The LSM6DSL BSP Component Driver
 [stm32-s70kl1281](https://github.com/STMicroelectronics/stm32-s70kl1281)   | The S70KL1281 BSP Component Driver
 
-STM32Cube BSP Magnetometer Components Drivers | Description
-------------------------------------- | -----------
-[stm32-iis2mdc](https://github.com/STMicroelectronics/stm32-iis2mdc)       | The IIS2mdc BSP Component Driver
+STM32Cube BSP Networking Components Drivers | Description
+------------------------------------------- | -----------
+[stm32-lan8742](https://github.com/STMicroelectronics/stm32-lan8742)       | The LAN8742 BSP Component Driver
 
 STM32Cube BSP QSPI/OSPI Components Drivers | Description
 ------------------------------------------ | -----------
