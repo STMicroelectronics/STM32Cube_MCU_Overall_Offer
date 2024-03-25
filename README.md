@@ -52,25 +52,27 @@ For general communication and support, you can use
 
 STM32Cube MCU Packages | Description
 ---------------------- | -----------
-[STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0)   | The STM32CubeC0  FW MCU Package
-[STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0)   | The STM32CubeF0  FW MCU Package
-[STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1)   | The STM32CubeF1  FW MCU Package
-[STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2)   | The STM32CubeF2  FW MCU Package
-[STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3)   | The STM32CubeF3  FW MCU Package
-[STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4)   | The STM32CubeF4  FW MCU Package
-[STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7)   | The STM32CubeF7  FW MCU Package
-[STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5)   | The STM32CubeH5  FW MCU Package
-[STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)   | The STM32CubeH7  FW MCU Package
-[STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0)   | The STM32CubeG0  FW MCU Package
-[STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)   | The STM32CubeG4  FW MCU Package
-[STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0)   | The STM32CubeL0  FW MCU Package
-[STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)   | The STM32CubeL1  FW MCU Package
-[STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)   | The STM32CubeL4  FW MCU Package
-[STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)   | The STM32CubeL5  FW MCU Package
-[STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)   | The STM32CubeU5  FW MCU Package
-[STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)   | The STM32CubeWB  FW MCU Package
-[STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA) | The STM32CubeWBA FW MCU Package
-[STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)   | The STM32CubeWL  FW MCU Package
+[STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0)     | The STM32CubeC0   FW MCU Package
+[STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0)     | The STM32CubeF0   FW MCU Package
+[STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1)     | The STM32CubeF1   FW MCU Package
+[STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2)     | The STM32CubeF2   FW MCU Package
+[STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3)     | The STM32CubeF3   FW MCU Package
+[STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4)     | The STM32CubeF4   FW MCU Package
+[STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7)     | The STM32CubeF7   FW MCU Package
+[STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5)     | The STM32CubeH5   FW MCU Package
+[STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)     | The STM32CubeH7   FW MCU Package
+[STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) | The STM32CubeH7RS FW MCU Package
+[STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0)     | The STM32CubeG0   FW MCU Package
+[STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)     | The STM32CubeG4   FW MCU Package
+[STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0)     | The STM32CubeL0   FW MCU Package
+[STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)     | The STM32CubeL1   FW MCU Package
+[STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)     | The STM32CubeL4   FW MCU Package
+[STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   FW MCU Package
+[STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
+[STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
+[STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
+[STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA)   | The STM32CubeWBA  FW MCU Package
+[STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   FW MCU Package
 
 ## X-CUBE Expansion softwares
 
@@ -165,25 +167,27 @@ STM32Cube CMSIS core | Description
 
 STM32Cube CMSIS Devices | Description
 ------------------------| -----------
-[cmsis_device_c0](https://github.com/STMicroelectronics/cmsis_device_c0) | The STM32C0 CMSIS Device files
-[cmsis_device_f0](https://github.com/STMicroelectronics/cmsis_device_f0) | The STM32F0 CMSIS Device files
-[cmsis_device_f1](https://github.com/STMicroelectronics/cmsis_device_f1) | The STM32F1 CMSIS Device files
-[cmsis_device_f2](https://github.com/STMicroelectronics/cmsis_device_f2) | The STM32F2 CMSIS Device files
-[cmsis_device_f3](https://github.com/STMicroelectronics/cmsis_device_f3) | The STM32F3 CMSIS Device files
-[cmsis_device_f4](https://github.com/STMicroelectronics/cmsis_device_f4) | The STM32F4 CMSIS Device files
-[cmsis_device_f7](https://github.com/STMicroelectronics/cmsis_device_f7) | The STM32F7 CMSIS Device files
-[cmsis_device_g0](https://github.com/STMicroelectronics/cmsis_device_g0) | The STM32G0 CMSIS Device files
-[cmsis_device_g4](https://github.com/STMicroelectronics/cmsis_device_g4) | The STM32G4 CMSIS Device files
-[cmsis_device_h5](https://github.com/STMicroelectronics/cmsis_device_h5) | The STM32H5 CMSIS Device files
-[cmsis_device_h7](https://github.com/STMicroelectronics/cmsis_device_h7) | The STM32H7 CMSIS Device files
-[cmsis_device_l0](https://github.com/STMicroelectronics/cmsis_device_l0) | The STM32L0 CMSIS Device files
-[cmsis_device_l1](https://github.com/STMicroelectronics/cmsis_device_l1) | The STM32L1 CMSIS Device files
-[cmsis_device_l4](https://github.com/STMicroelectronics/cmsis_device_l4) | The STM32L4 CMSIS Device files
-[cmsis_device_l5](https://github.com/STMicroelectronics/cmsis_device_l5) | The STM32L5 CMSIS Device files
-[cmsis_device_u5](https://github.com/STMicroelectronics/cmsis_device_u5) | The STM32U5 CMSIS Device files
-[cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb) | The STM32WB CMSIS Device files
-[cmsis_device_wba](https://github.com/STMicroelectronics/cmsis_device_wba) | The STM32WBA CMSIS Device files
-[cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl) | The STM32WL CMSIS Device files
+[cmsis_device_c0](https://github.com/STMicroelectronics/cmsis_device_c0)     | The STM32C0   CMSIS Device files
+[cmsis_device_f0](https://github.com/STMicroelectronics/cmsis_device_f0)     | The STM32F0   CMSIS Device files
+[cmsis_device_f1](https://github.com/STMicroelectronics/cmsis_device_f1)     | The STM32F1   CMSIS Device files
+[cmsis_device_f2](https://github.com/STMicroelectronics/cmsis_device_f2)     | The STM32F2   CMSIS Device files
+[cmsis_device_f3](https://github.com/STMicroelectronics/cmsis_device_f3)     | The STM32F3   CMSIS Device files
+[cmsis_device_f4](https://github.com/STMicroelectronics/cmsis_device_f4)     | The STM32F4   CMSIS Device files
+[cmsis_device_f7](https://github.com/STMicroelectronics/cmsis_device_f7)     | The STM32F7   CMSIS Device files
+[cmsis_device_g0](https://github.com/STMicroelectronics/cmsis_device_g0)     | The STM32G0   CMSIS Device files
+[cmsis_device_g4](https://github.com/STMicroelectronics/cmsis_device_g4)     | The STM32G4   CMSIS Device files
+[cmsis_device_h5](https://github.com/STMicroelectronics/cmsis_device_h5)     | The STM32H5   CMSIS Device files
+[cmsis_device_h7](https://github.com/STMicroelectronics/cmsis_device_h7)     | The STM32H7   CMSIS Device files
+[cmsis_device_h7rs](https://github.com/STMicroelectronics/cmsis_device_h7rs) | The STM32H7RS CMSIS Device files
+[cmsis_device_l0](https://github.com/STMicroelectronics/cmsis_device_l0)     | The STM32L0   CMSIS Device files
+[cmsis_device_l1](https://github.com/STMicroelectronics/cmsis_device_l1)     | The STM32L1   CMSIS Device files
+[cmsis_device_l4](https://github.com/STMicroelectronics/cmsis_device_l4)     | The STM32L4   CMSIS Device files
+[cmsis_device_l5](https://github.com/STMicroelectronics/cmsis_device_l5)     | The STM32L5   CMSIS Device files
+[cmsis_device_u0](https://github.com/STMicroelectronics/cmsis_device_u0)     | The STM32U0   CMSIS Device files
+[cmsis_device_u5](https://github.com/STMicroelectronics/cmsis_device_u5)     | The STM32U5   CMSIS Device files
+[cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb)     | The STM32WB   CMSIS Device files
+[cmsis_device_wba](https://github.com/STMicroelectronics/cmsis_device_wba)   | The STM32WBA  CMSIS Device files
+[cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl)     | The STM32WL   CMSIS Device files
 
 ### STM32Cube HAL Drivers
 
@@ -202,25 +206,27 @@ The dynamic usage of HAL APIs is provided thru projects examples, available in t
 
 STM32Cube HAL Drivers | Description
 --------------------- | -----------
-[stm32c0xx_hal_driver](https://github.com/STMicroelectronics/stm32c0xx_hal_driver) | The STM32C0 HAL-LL Drivers
-[stm32f0xx_hal_driver](https://github.com/STMicroelectronics/stm32f0xx_hal_driver) | The STM32F0 HAL-LL Drivers
-[stm32f1xx_hal_driver](https://github.com/STMicroelectronics/stm32f1xx_hal_driver) | The STM32F1 HAL-LL Drivers
-[stm32f2xx_hal_driver](https://github.com/STMicroelectronics/stm32f2xx_hal_driver) | The STM32F2 HAL-LL Drivers
-[stm32f3xx_hal_driver](https://github.com/STMicroelectronics/stm32f3xx_hal_driver) | The STM32F3 HAL-LL Drivers
-[stm32f4xx_hal_driver](https://github.com/STMicroelectronics/stm32f4xx_hal_driver) | The STM32F4 HAL-LL Drivers
-[stm32f7xx_hal_driver](https://github.com/STMicroelectronics/stm32f7xx_hal_driver) | The STM32F7 HAL-LL Drivers
-[stm32g0xx_hal_driver](https://github.com/STMicroelectronics/stm32g0xx_hal_driver) | The STM32G0 HAL-LL Drivers
-[stm32g4xx_hal_driver](https://github.com/STMicroelectronics/stm32g4xx_hal_driver) | The STM32G4 HAL-LL Drivers
-[stm32h5xx_hal_driver](https://github.com/STMicroelectronics/stm32h5xx_hal_driver) | The STM32H5 HAL-LL Drivers
-[stm32h7xx_hal_driver](https://github.com/STMicroelectronics/stm32h7xx_hal_driver) | The STM32H7 HAL-LL Drivers
-[stm32l0xx_hal_driver](https://github.com/STMicroelectronics/stm32l0xx_hal_driver) | The STM32L0 HAL-LL Drivers
-[stm32l1xx_hal_driver](https://github.com/STMicroelectronics/stm32l1xx_hal_driver) | The STM32L1 HAL-LL Drivers
-[stm32l4xx_hal_driver](https://github.com/STMicroelectronics/stm32l4xx_hal_driver) | The STM32L4 HAL-LL Drivers
-[stm32l5xx_hal_driver](https://github.com/STMicroelectronics/stm32l5xx_hal_driver) | The STM32L5 HAL-LL Drivers
-[stm32u5xx_hal_driver](https://github.com/STMicroelectronics/stm32u5xx_hal_driver) | The STM32U5 HAL-LL Drivers
-[stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver) | The STM32WB HAL-LL Drivers
-[stm32wbaxx_hal_driver](https://github.com/STMicroelectronics/stm32wbaxx_hal_driver) | The STM32WBA HAL-LL Drivers
-[stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver) | The STM32WL HAL-LL Drivers
+[stm32c0xx_hal_driver](https://github.com/STMicroelectronics/stm32c0xx_hal_driver)     | The STM32C0   HAL-LL Drivers
+[stm32f0xx_hal_driver](https://github.com/STMicroelectronics/stm32f0xx_hal_driver)     | The STM32F0   HAL-LL Drivers
+[stm32f1xx_hal_driver](https://github.com/STMicroelectronics/stm32f1xx_hal_driver)     | The STM32F1   HAL-LL Drivers
+[stm32f2xx_hal_driver](https://github.com/STMicroelectronics/stm32f2xx_hal_driver)     | The STM32F2   HAL-LL Drivers
+[stm32f3xx_hal_driver](https://github.com/STMicroelectronics/stm32f3xx_hal_driver)     | The STM32F3   HAL-LL Drivers
+[stm32f4xx_hal_driver](https://github.com/STMicroelectronics/stm32f4xx_hal_driver)     | The STM32F4   HAL-LL Drivers
+[stm32f7xx_hal_driver](https://github.com/STMicroelectronics/stm32f7xx_hal_driver)     | The STM32F7   HAL-LL Drivers
+[stm32g0xx_hal_driver](https://github.com/STMicroelectronics/stm32g0xx_hal_driver)     | The STM32G0   HAL-LL Drivers
+[stm32g4xx_hal_driver](https://github.com/STMicroelectronics/stm32g4xx_hal_driver)     | The STM32G4   HAL-LL Drivers
+[stm32h5xx_hal_driver](https://github.com/STMicroelectronics/stm32h5xx_hal_driver)     | The STM32H5   HAL-LL Drivers
+[stm32h7xx_hal_driver](https://github.com/STMicroelectronics/stm32h7xx_hal_driver)     | The STM32H7   HAL-LL Drivers
+[stm32h7rsxx_hal_driver](https://github.com/STMicroelectronics/stm32h7rsxx_hal_driver) | The STM32H7RS HAL-LL Drivers
+[stm32l0xx_hal_driver](https://github.com/STMicroelectronics/stm32l0xx_hal_driver)     | The STM32L0   HAL-LL Drivers
+[stm32l1xx_hal_driver](https://github.com/STMicroelectronics/stm32l1xx_hal_driver)     | The STM32L1   HAL-LL Drivers
+[stm32l4xx_hal_driver](https://github.com/STMicroelectronics/stm32l4xx_hal_driver)     | The STM32L4   HAL-LL Drivers
+[stm32l5xx_hal_driver](https://github.com/STMicroelectronics/stm32l5xx_hal_driver)     | The STM32L5   HAL-LL Drivers
+[stm32u0xx_hal_driver](https://github.com/STMicroelectronics/stm32u0xx_hal_driver)     | The STM32U0   HAL-LL Drivers
+[stm32u5xx_hal_driver](https://github.com/STMicroelectronics/stm32u5xx_hal_driver)     | The STM32U5   HAL-LL Drivers
+[stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver)     | The STM32WB   HAL-LL Drivers
+[stm32wbaxx_hal_driver](https://github.com/STMicroelectronics/stm32wbaxx_hal_driver)   | The STM32WBA  HAL-LL Drivers
+[stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver)     | The STM32WL   HAL-LL Drivers
 
 ### STM32Cube BSP Drivers
 
@@ -326,6 +332,11 @@ STM32CubeH5 BSP Boards Drivers | Description
 [stm32h573i-discovery-bsp](https://github.com/STMicroelectronics/stm32h573i-discovery-bsp) | STM32H573I-DK BSP Driver
 [stm32h5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h5xx-nucleo-bsp)         | H5 nucleo BSP Driver
 
+STM32CubeH7RS BSP Boards Drivers | Description
+---------------------------------|-------------
+[stm32h7s78-dk-bsp](https://github.com/STMicroelectronics/stm32h7s78-dk-bsp)           | STM32H7S78-DK BSP Driver
+[stm32h7rsxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h7rsxx-nucleo-bsp) | H7RS nucleo BSP Driver
+
 STM32CubeH7 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32h7b3i-dk-bsp](https://github.com/STMicroelectronics/stm32h7b3i-dk-bsp)       | STM32H7B3I-DK BSP Driver
@@ -372,6 +383,11 @@ STM32CubeL5 BSP Boards Drivers | Description
 [stm32l552e-ev-bsp](https://github.com/STMicroelectronics/stm32l552e-ev-bsp)       | STM32L552E-EV BSP Driver
 [stm32l5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l5xx-nucleo-bsp) | L5 nucleo BSP Driver
 
+STM32CubeU0 BSP Boards Drivers | Description
+-------------------------------|-------------
+[stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp	)      | STM32U083C-DK BSP Driver
+[stm32u0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u0xx-nucleo-bsp) | U0 nucleo BSP Driver
+
 STM32CubeU5 BSP Boards Drivers | Description
 -------------------------------|-------------
 [b-u585i-iot02a-bsp](https://github.com/STMicroelectronics/b-u585i-iot02a-bsp)     | B-U585I-IOT02A BSP Driver
@@ -407,6 +423,7 @@ STM32Cube BSP Audio Components Drivers | Description
 [stm32-cs42l51](https://github.com/STMicroelectronics/stm32-cs42l51) | The CS42L51 BSP Component Driver
 [stm32-cs42l52](https://github.com/STMicroelectronics/stm32-cs42l52) | The CS42L52 BSP Component Driver
 [stm32-cs43l22](https://github.com/STMicroelectronics/stm32-cs43l22) | The CS43L22 BSP Component Driver
+[stm32-wm8904](https://github.com/STMicroelectronics/stm32-wm8904)   | The WM8904 BSP Component Driver
 [stm32-wm8994](https://github.com/STMicroelectronics/stm32-wm8994)   | The WM8994 BSP Component Driver
 
 STM32Cube BSP Camera Components Drivers | Description
