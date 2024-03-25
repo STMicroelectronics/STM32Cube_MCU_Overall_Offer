@@ -255,8 +255,8 @@ STM32CubeC0 BSP Boards Drivers | Description
 
 STM32CubeF0 BSP Boards Drivers | Description
 -------------------------------|-------------
-[stm32f0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32f0xx-nucleo-32-bsp) | F0 nucleo 32 BSP Driver
-[stm32f0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f0xx-nucleo-bsp)       | F0 nucleo BSP Driver
+[stm32f0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32f0xx-nucleo-32-bsp) | F0 Nucleo 32 BSP Driver
+[stm32f0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f0xx-nucleo-bsp)       | F0 Nucleo BSP Driver
 [stm32091c-eval-bsp](https://github.com/STMicroelectronics/stm32091c-eval-bsp)           | STM32091C_EVAL BSP Driver
 [stm32072b-eval-bsp](https://github.com/STMicroelectronics/stm32072b-eval-bsp)           | STM32072B_EVAL BSP Driver
 [32f072bdiscovery-bsp](https://github.com/STMicroelectronics/32f072bdiscovery-bsp)       | 32F072BDISCOVERY BSP Driver
@@ -266,13 +266,13 @@ STM32CubeF1 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm3210c-eval-bsp](https://github.com/STMicroelectronics/stm3210c-eval-bsp)       | STM3210C_EVAL BSP Driver
 [stm3210e-eval-bsp](https://github.com/STMicroelectronics/stm3210e-eval-bsp)       | STM3210E_EVAL BSP Driver
-[stm32f1xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f1xx-nucleo-bsp) | F1 nucleo BSP Driver
+[stm32f1xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f1xx-nucleo-bsp) | F1 Nucleo BSP Driver
 [stm32vldiscovery-bsp](https://github.com/STMicroelectronics/stm32vldiscovery-bsp) | STM32VLDISCOVERY BSP Driver
 
 STM32CubeF2 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm322xg-eval-bsp](https://github.com/STMicroelectronics/stm322xg-eval-bsp)               | STM322xG_EVAL BSP Driver
-[stm32f2xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f2xx-nucleo-144-bsp) | F2 nucleo BSP Driver
+[stm32f2xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f2xx-nucleo-144-bsp) | F2 Nucleo BSP Driver
 
 STM32CubeF3 BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -280,15 +280,15 @@ STM32CubeF3 BSP Boards Drivers | Description
 [stm32303e-eval-bsp](https://github.com/STMicroelectronics/stm32303e-eval-bsp)             | STM32303E_EVAL BSP Driver
 [stm32373c-eval-bsp](https://github.com/STMicroelectronics/stm32373c-eval-bsp)             | STM32373C_EVAL BSP Driver
 [stm32f3discovery-bsp](https://github.com/STMicroelectronics/stm32f3discovery-bsp)         | STM32F3-Discovery BSP Driver
-[stm32f3xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-bsp)         | F3 nucleo BSP Driver
-[stm32f3xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-144-bsp) | F3 nucleo 144 BSP Driver
-[stm32f3xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-32-bsp)   | F3 nucleo 32 BSP Driver
+[stm32f3xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-bsp)         | F3 Nucleo BSP Driver
+[stm32f3xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-144-bsp) | F3 Nucleo 144 BSP Driver
+[stm32f3xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32f3xx-nucleo-32-bsp)   | F3 Nucleo 32 BSP Driver
 [32f3348discovery-bsp](https://github.com/STMicroelectronics/32f3348discovery-bsp)         | 32F3348DISCOVERY BSP Driver
 
 STM32CubeF4 BSP Boards Drivers | Description
 -------------------------------|-------------
-[stm32f4xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f4xx-nucleo-144-bsp) | F4 nucleo 144 BSP Driver
-[stm32f4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f4xx-nucleo-bsp)         | F4 nucleo BSP Driver
+[stm32f4xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f4xx-nucleo-144-bsp) | F4 Nucleo 144 BSP Driver
+[stm32f4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32f4xx-nucleo-bsp)         | F4 Nucleo BSP Driver
 [stm324xg-eval-bsp](https://github.com/STMicroelectronics/stm324xg-eval-bsp)               | STM324xG-EVAL BSP Driver
 [stm32469i-eval-bsp](https://github.com/STMicroelectronics/stm32469i-eval-bsp)             | STM32469I_EVAL BSP Driver
 [32f469idiscovery-bsp](https://github.com/STMicroelectronics/32f469idiscovery-bsp)         | 32F469IDISCOVERY BSP Driver
@@ -307,7 +307,7 @@ STM32CubeF7 BSP Boards Drivers | Description
 [stm32f7308-dk-bsp](https://github.com/STMicroelectronics/stm32f7308-dk-bsp)               | STM32F7308-Discovery BSP Driver
 [stm32f7508-dk-bsp](https://github.com/STMicroelectronics/stm32f7508-dk-bsp)               | STM32F7508-Discovery BSP Driver
 [stm32f769i-eval-bsp](https://github.com/STMicroelectronics/stm32f769i-eval-bsp)           | STM32F769I_EVAL BSP Driver
-[stm32f7xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f7xx-nucleo-144-bsp) | F7 nucleo BSP Driver
+[stm32f7xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32f7xx-nucleo-144-bsp) | F7 Nucleo BSP Driver
 [32f769idiscovery-bsp](https://github.com/STMicroelectronics/32f769idiscovery-bsp)         | 32F769IDISCOVERY BSP Driver
 [32f723ediscovery-bsp](https://github.com/STMicroelectronics/32f723ediscovery-bsp)         | 32F723EDISCOVERY BSP Driver
 [32f746gdiscovery-bsp](https://github.com/STMicroelectronics/32f746gdiscovery-bsp)         | 32F746GDISCOVERY BSP Driver
@@ -318,24 +318,24 @@ STM32CubeG0 BSP Boards Drivers | Description
 [stm32g071b-disco-bsp](https://github.com/STMicroelectronics/stm32g071b-disco-bsp)       | STM32G071B-DISCO BSP Driver
 [stm32g081b-eval-bsp](https://github.com/STMicroelectronics/stm32g081b-eval-bsp)         | STM32G081B_EVAL BSP Driver
 [stm32g0c1e-ev-bsp](https://github.com/STMicroelectronics/stm32g0c1e-ev-bsp)             | STM32G0C1E-EV BSP Driver
-[stm32g0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32g0xx-nucleo-bsp)       | G0 nucleo BSP Driver
-[stm32g0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32g0xx-nucleo-32-bsp) | G0 nucleo BSP Driver
+[stm32g0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32g0xx-nucleo-bsp)       | G0 Nucleo BSP Driver
+[stm32g0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32g0xx-nucleo-32-bsp) | G0 Nucleo BSP Driver
 
 STM32CubeG4 BSP Boards Drivers | Description
 -------------------------------|-------------
 [b-g474e-dpow1-bsp](https://github.com/STMicroelectronics/b-g474e-dpow1-bsp)       | B-G474E-DPOW1 BSP Driver
 [stm32g474e-eval-bsp](https://github.com/STMicroelectronics/stm32g474e-eval-bsp)   | STM32G474E-EVAL BSP Driver
-[stm32g4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32g4xx-nucleo-bsp) | G4 nucleo BSP Driver
+[stm32g4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32g4xx-nucleo-bsp) | G4 Nucleo BSP Driver
 
 STM32CubeH5 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32h573i-discovery-bsp](https://github.com/STMicroelectronics/stm32h573i-discovery-bsp) | STM32H573I-DK BSP Driver
-[stm32h5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h5xx-nucleo-bsp)         | H5 nucleo BSP Driver
+[stm32h5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h5xx-nucleo-bsp)         | H5 Nucleo BSP Driver
 
 STM32CubeH7RS BSP Boards Drivers | Description
 ---------------------------------|-------------
 [stm32h7s78-dk-bsp](https://github.com/STMicroelectronics/stm32h7s78-dk-bsp)           | STM32H7S78-DK BSP Driver
-[stm32h7rsxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h7rsxx-nucleo-bsp) | H7RS nucleo BSP Driver
+[stm32h7rsxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h7rsxx-nucleo-bsp) | H7RS Nucleo BSP Driver
 
 STM32CubeH7 BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -347,19 +347,19 @@ STM32CubeH7 BSP Boards Drivers | Description
 [stm32h743i-eval-bsp](https://github.com/STMicroelectronics/stm32h743i-eval-bsp)   | STM32H743I-EVAL BSP Driver
 [stm32h735g-dk-bsp](https://github.com/STMicroelectronics/stm32h735g-dk-bsp)       | STM32H735G-DK BSP Driver
 [stm32h7b3i-eval-bsp](https://github.com/STMicroelectronics/stm32h7b3i-eval-bsp)   | STM32H7B3I-EVAL BSP Driver
-[stm32h7xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h7xx-nucleo-bsp) | H7 nucleo BSP Driver
+[stm32h7xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32h7xx-nucleo-bsp) | H7 Nucleo BSP Driver
 
 STM32CubeL0 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32l073z-eval-bsp](https://github.com/STMicroelectronics/stm32l073z-eval-bsp)         | STM32L073Z-EVAL BSP Driver
-[stm32l0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l0xx-nucleo-bsp)       | L0 nucleo BSP Driver
-[stm32l0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32l0xx-nucleo-32-bsp) | L0 nucleo 32 BSP Driver
+[stm32l0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l0xx-nucleo-bsp)       | L0 Nucleo BSP Driver
+[stm32l0xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32l0xx-nucleo-32-bsp) | L0 Nucleo 32 BSP Driver
 [32l0538discovery-bsp](https://github.com/STMicroelectronics/32l0538discovery-bsp)       | 32L100CDISCOVERY BSP Driver
 
 STM32CubeL1 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32l152d-eval-bsp](https://github.com/STMicroelectronics/stm32l152d-eval-bsp)   | STM32L152D-EVAL BSP Driver
-[stm32l1xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l1xx-nucleo-bsp) | L1 nucleo BSP Driver
+[stm32l1xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l1xx-nucleo-bsp) | L1 Nucleo BSP Driver
 [32l152cdiscovery-bsp](https://github.com/STMicroelectronics/32l152cdiscovery-bsp) | 32L152CDISCOVERY BSP Driver
 [32l100cdiscovery-bsp](https://github.com/STMicroelectronics/32l100cdiscovery-bsp) | 32L100CDISCOVERY BSP Driver
 
@@ -370,9 +370,9 @@ STM32CubeL4 BSP Boards Drivers | Description
 [stm32l476g-eval-bsp](https://github.com/STMicroelectronics/stm32l476g-eval-bsp)           | STM32L476G-EVAL BSP Driver
 [stm32l4p5g-dk-bsp](https://github.com/STMicroelectronics/stm32l4p5g-dk-bsp)               | STM32L4P5G-DK BSP Driver
 [stm32l4r9i-eval-bsp](https://github.com/STMicroelectronics/stm32l4r9i-eval-bsp)           | STM32L4R9I-EVAL BSP Driver
-[stm32l4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-bsp)         | L4 nucleo BSP Driver
-[stm32l4xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-144-bsp) | L4 nucleo 144 BSP Driver
-[stm32l4xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-32-bsp)   | L4 nucleo 32 BSP Driver
+[stm32l4xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-bsp)         | L4 Nucleo BSP Driver
+[stm32l4xx-nucleo-144-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-144-bsp) | L4 Nucleo 144 BSP Driver
+[stm32l4xx-nucleo-32-bsp](https://github.com/STMicroelectronics/stm32l4xx-nucleo-32-bsp)   | L4 Nucleo 32 BSP Driver
 [32l496gdiscovery-bsp](https://github.com/STMicroelectronics/32l496gdiscovery-bsp)         | 32L496GDISCOVERY BSP Driver
 [32l4r9idiscovery-bsp](https://github.com/STMicroelectronics/32l4r9idiscovery-bsp)         | 32L4R9IDISCOVERY BSP Driver
 [32l476gdiscovery-bsp](https://github.com/STMicroelectronics/32l476gdiscovery-bsp)         | 32L476GDISCOVERY BSP Driver
@@ -381,12 +381,12 @@ STM32CubeL5 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32l562e-dk-bsp](https://github.com/STMicroelectronics/stm32l562e-dk-bsp)       | STM32L562E-DK BSP Driver
 [stm32l552e-ev-bsp](https://github.com/STMicroelectronics/stm32l552e-ev-bsp)       | STM32L552E-EV BSP Driver
-[stm32l5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l5xx-nucleo-bsp) | L5 nucleo BSP Driver
+[stm32l5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l5xx-nucleo-bsp) | L5 Nucleo BSP Driver
 
 STM32CubeU0 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp	)      | STM32U083C-DK BSP Driver
-[stm32u0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u0xx-nucleo-bsp) | U0 nucleo BSP Driver
+[stm32u0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u0xx-nucleo-bsp) | U0 Nucleo BSP Driver
 
 STM32CubeU5 BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -394,7 +394,7 @@ STM32CubeU5 BSP Boards Drivers | Description
 [stm32u575i-ev-bsp](https://github.com/STMicroelectronics/stm32u575i-ev-bsp)       | STM32U575I-EV BSP Driver
 [stm32u5x9j-dk-bsp](https://github.com/STMicroelectronics/stm32u5x9j-dk-bsp)       | STM32U5A9J-DK and STM32U5G9J-DK1 BSP Driver
 [stm32u5g9j-dk2-bsp](https://github.com/STMicroelectronics/stm32u5g9j-dk2-bsp)     | STM32U5G9J-DK2 BSP Driver
-[stm32u5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u5xx-nucleo-bsp) | U5 nucleo BSP Driver
+[stm32u5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u5xx-nucleo-bsp) | U5 Nucleo BSP Driver
 
 STM32CubeWB BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -406,12 +406,12 @@ STM32CubeWB BSP Boards Drivers | Description
 
 STM32CubeWBA BSP Boards Drivers | Description
 -------------------------------|-------------
-[stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA nucleo BSP Driver
+[stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA Nucleo BSP Driver
 [stm32wba55g-dk1-bsp](https://github.com/STMicroelectronics/stm32wba55g-dk1-bsp)     | STM32WBA55G-DK1 BSP Driver
 
 STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
-[stm32wlxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wlxx-nucleo-bsp) | WL nucleo BSP Driver
+[stm32wlxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wlxx-nucleo-bsp) | WL Nucleo BSP Driver
 [b-wl5m-subg1-bsp](https://github.com/STMicroelectronics/b-wl5m-subg1-bsp)         | B-WL5M-SUBG1 BSP Driver
 
 ### STM32Cube BSP Components Drivers
