@@ -102,7 +102,7 @@ STM32Cube Connectivity X-CUBE | Description
 
 STM32Cube FreeRTOS X-CUBE | Description
 --------------------------- | -----------
-[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32H5 and STM32U5.
+[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32C0, STM32H5, STM32U5, and STM32WBA.
 
 STM32Cube IoT X-CUBE | Description
 -------------------- | -----------
