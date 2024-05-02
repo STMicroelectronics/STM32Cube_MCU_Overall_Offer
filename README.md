@@ -454,6 +454,7 @@ STM32Cube BSP LCD Components Drivers | Description
 [stm32-nt35510](https://github.com/STMicroelectronics/stm32-nt35510)           | The NT35510 BSP Component Driver
 [stm32-otm8009a](https://github.com/STMicroelectronics/stm32-otm8009a)         | The OTM8009A BSP Component Driver
 [stm32-rk043fn48h](https://github.com/STMicroelectronics/stm32-rk043fn48h)     | The RK043FN48H BSP Component Driver
+[stm32-rk050hr18](https://github.com/STMicroelectronics/stm32-rk050hr18)       | The RK050HR18 BSP Component Driver
 [stm32-rk070er9427](https://github.com/STMicroelectronics/stm32-rk070er9427)   | The RK070ER9427 BSP Component Driver
 [stm32-spfd5408](https://github.com/STMicroelectronics/stm32-spfd5408)         | The SPFD5408 BSP Component Driver
 [stm32-ssd1315](https://github.com/STMicroelectronics/stm32-ssd1315)           | The SSD1315 BSP Component Driver
@@ -485,12 +486,15 @@ STM32Cube BSP Networking Components Drivers | Description
 
 STM32Cube BSP QSPI/OSPI Components Drivers | Description
 ------------------------------------------ | -----------
+[stm32-aps256](https://github.com/STMicroelectronics/stm32-aps256)             | The APS256 BSP Component Driver
 [stm32-iss66wvh8m8](https://github.com/STMicroelectronics/stm32-iss66wvh8m8)   | The ISS66WVH8M8 BSP Component Driver
 [stm32-mt25ql512abb](https://github.com/STMicroelectronics/stm32-mt25ql512abb) | The MT25QL512ABB BSP Component Driver
 [stm32-mt25tl01g](https://github.com/STMicroelectronics/stm32-mt25tl01g)       | The MT25TL01G BSP Component Driver
 [stm32-mx25l512](https://github.com/STMicroelectronics/stm32-mx25l512)         | The MX25L512 BSP Component Driver
 [stm32-mx25lm51245g](https://github.com/STMicroelectronics/stm32-mx25lm51245g) | The MX25LM51245G BSP Component Driver
 [stm32-mx25r6435f](https://github.com/STMicroelectronics/stm32-mx25r6435f)     | The MX25R6435F BSP Component Driver
+[stm32-mx25uw25645g](https://github.com/STMicroelectronics/stm32-mx25uw25645g) | The MX25UW25645G BSP Component Driver
+[stm32-mx66uw1g45g](https://github.com/STMicroelectronics/stm32-mx66uw1g45g)   | The MX66UW1G45G BSP Component Driver
 [stm32-n25q128a](https://github.com/STMicroelectronics/stm32-n25q128a)         | The N25Q128A BSP Component Driver
 [stm32-n25q256a](https://github.com/STMicroelectronics/stm32-n25q256a)         | The N25Q256A BSP Component Driver
 [stm32-n25q512a](https://github.com/STMicroelectronics/stm32-n25q512a)         | The N25Q512A BSP Component Driver
@@ -517,6 +521,7 @@ STM32Cube BSP Touch Screen Components Drivers | Description
 [stm32-ft3x67](https://github.com/STMicroelectronics/stm32-ft3x67)           | The FT3X67 BSP Component Driver
 [stm32-ft6x06](https://github.com/STMicroelectronics/stm32-ft6x06)           | The FT6X06 BSP Component Driver
 [stm32-ft5336](https://github.com/STMicroelectronics/stm32-ft5336)           | The FT5336 BSP Component Driver
+[stm32-gt911](https://github.com/STMicroelectronics/stm32-gt911)             | The GT911 BSP Component Driver
 [stm32-ts3510](https://github.com/STMicroelectronics/stm32-ts3510)           | The TS3510 BSP Component Driver
 
 STM32Cube BSP USB-C Components Drivers | Description
@@ -527,10 +532,11 @@ STM32Cube BSP USB-C Components Drivers | Description
 
 STM32Cube BSP miscellaneous Components Drivers | Description
 ---------------------------------------------- | -----------
-[stm32-gde021a1](https://github.com/STMicroelectronics/stm32-gde021a1) | The GDE021A1 BSP Component Driver
-[stm32-m24lr64](https://github.com/STMicroelectronics/stm32-m24lr64)   | The M24LR64 BSP Component Driver
-[stm32-m24sr](https://github.com/STMicroelectronics/stm32-m24sr)       | The M24SR BSP Component Driver
-[stm32-ina230](https://github.com/STMicroelectronics/stm32-ina230)     | The INA230 BSP Component Driver
+[stm32-gde021a1](https://github.com/STMicroelectronics/stm32-gde021a1)       | The GDE021A1 BSP Component Driver
+[stm32-gdem0213b74](https://github.com/STMicroelectronics/stm32-gdem0213b74) | The GDEM0213B74 BSP Component Driver
+[stm32-m24lr64](https://github.com/STMicroelectronics/stm32-m24lr64)         | The M24LR64 BSP Component Driver
+[stm32-m24sr](https://github.com/STMicroelectronics/stm32-m24sr)             | The M24SR BSP Component Driver
+[stm32-ina230](https://github.com/STMicroelectronics/stm32-ina230)           | The INA230 BSP Component Driver
 
 ### STM32Cube Middleware Libraries and Applications
 
