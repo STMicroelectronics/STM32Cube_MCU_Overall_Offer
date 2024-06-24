@@ -433,6 +433,10 @@ STM32Cube BSP Camera Components Drivers | Description
 [stm32-ov9655](https://github.com/STMicroelectronics/stm32-ov9655)   | The OV9655 BSP Component Driver
 [stm32-s5k5cag](https://github.com/STMicroelectronics/stm32-s5k5cag) | The S5K5CAG BSP Component Driver
 
+STM32Cube BSP EEPROM Components Drivers | Description
+--------------------------------------- | -----------
+[stm32-m24256](https://github.com/STMicroelectronics/stm32-m24256)           | The M24256 BSP Component Driver
+
 STM32Cube BSP E-Paper Display Components Drivers | Description
 ------------------------------------------------ | -----------
 [stm32-gde021a1](https://github.com/STMicroelectronics/stm32-gde021a1)       | The GDE021A1 BSP Component Driver
@@ -501,12 +505,14 @@ STM32Cube BSP Power Monitoring Components Drivers | Description
 STM32Cube BSP xSPI-Interfaced Memory Components Drivers | Description
 ------------------------------------------------------- | -----------
 [stm32-aps256](https://github.com/STMicroelectronics/stm32-aps256)             | The APS256 BSP Component Driver
+[stm32-aps512](https://github.com/STMicroelectronics/stm32-aps512)             | The APS512 BSP Component Driver
 [stm32-iss66wvh8m8](https://github.com/STMicroelectronics/stm32-iss66wvh8m8)   | The ISS66WVH8M8 BSP Component Driver
 [stm32-mt25ql512abb](https://github.com/STMicroelectronics/stm32-mt25ql512abb) | The MT25QL512ABB BSP Component Driver
 [stm32-mt25tl01g](https://github.com/STMicroelectronics/stm32-mt25tl01g)       | The MT25TL01G BSP Component Driver
 [stm32-mx25l512](https://github.com/STMicroelectronics/stm32-mx25l512)         | The MX25L512 BSP Component Driver
 [stm32-mx25lm51245g](https://github.com/STMicroelectronics/stm32-mx25lm51245g) | The MX25LM51245G BSP Component Driver
 [stm32-mx25r6435f](https://github.com/STMicroelectronics/stm32-mx25r6435f)     | The MX25R6435F BSP Component Driver
+[stm32-mx25um51245g](https://github.com/STMicroelectronics/stm32-mx25um51245g) | The MX25UM51245G BSP Component Driver
 [stm32-mx25uw25645g](https://github.com/STMicroelectronics/stm32-mx25uw25645g) | The MX25UW25645G BSP Component Driver
 [stm32-mx66uw1g45g](https://github.com/STMicroelectronics/stm32-mx66uw1g45g)   | The MX66UW1G45G BSP Component Driver
 [stm32-n25q128a](https://github.com/STMicroelectronics/stm32-n25q128a)         | The N25Q128A BSP Component Driver
@@ -522,6 +528,12 @@ STM32Cube BSP SDRAM Components Drivers | Description
 [stm32-is42s32800j](https://github.com/STMicroelectronics/stm32-is42s32800j)   | The IS42S32800J BSP Component Driver
 [stm32-mt48lc4m32b2](https://github.com/STMicroelectronics/stm32-mt48lc4m32b2) | The MT48LC4M32B2 BSP Component Driver
 
+STM32Cube BSP Miscellaneous Sensor Components Drivers | Description
+----------------------------------------------------- | -----------
+[stm32-veml3235](https://github.com/STMicroelectronics/stm32-veml3235)   | The VEML3235 BSP Component Driver
+[stm32-veml6030](https://github.com/STMicroelectronics/stm32-veml6030)   | The VEML6030 BSP Component Driver
+[stm32-vl53l5cx](https://github.com/STMicroelectronics/stm32-vl53l5cx)   | The VL53L5CX BSP Component Driver
+
 STM32Cube BSP Temperature Sensor Components Drivers | Description
 --------------------------------------------------- | -----------
 [stm32-stlm75](https://github.com/STMicroelectronics/stm32-stlm75)   | The STLM75 BSP Component Driver
@@ -529,13 +541,14 @@ STM32Cube BSP Temperature Sensor Components Drivers | Description
 [stm32-stts751](https://github.com/STMicroelectronics/stm32-stts751) | The STTS751 BSP Component Driver
 
 STM32Cube BSP Touch Screen Components Drivers | Description
--------------------------------------- | -----------
+--------------------------------------------- | -----------
 [stm32-cy8c4014lqi](https://github.com/STMicroelectronics/stm32-cy8c4014lqi) | The CY8C4014LQI BSP Component Driver
 [stm32-exc7200](https://github.com/STMicroelectronics/stm32-exc7200)         | The EXC7200 BSP Component Driver
 [stm32-ft3x67](https://github.com/STMicroelectronics/stm32-ft3x67)           | The FT3X67 BSP Component Driver
 [stm32-ft6x06](https://github.com/STMicroelectronics/stm32-ft6x06)           | The FT6X06 BSP Component Driver
 [stm32-ft5336](https://github.com/STMicroelectronics/stm32-ft5336)           | The FT5336 BSP Component Driver
 [stm32-gt911](https://github.com/STMicroelectronics/stm32-gt911)             | The GT911 BSP Component Driver
+[stm32-sitronix](https://github.com/STMicroelectronics/stm32-sitronix)       | The SITRONIX BSP Component Driver
 [stm32-ts3510](https://github.com/STMicroelectronics/stm32-ts3510)           | The TS3510 BSP Component Driver
 
 STM32Cube BSP USB-C Components Drivers | Description
