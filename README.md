@@ -71,6 +71,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
 [STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
+[STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0)   | The STM32CubeWB0  FW MCU Package
 [STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA)   | The STM32CubeWBA  FW MCU Package
 [STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   FW MCU Package
 
@@ -186,6 +187,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis_device_u0](https://github.com/STMicroelectronics/cmsis_device_u0)     | The STM32U0   CMSIS Device files
 [cmsis_device_u5](https://github.com/STMicroelectronics/cmsis_device_u5)     | The STM32U5   CMSIS Device files
 [cmsis_device_wb](https://github.com/STMicroelectronics/cmsis_device_wb)     | The STM32WB   CMSIS Device files
+[cmsis_device_wb0](https://github.com/STMicroelectronics/cmsis_device_wb0)   | The STM32WB0  CMSIS Device files
 [cmsis_device_wba](https://github.com/STMicroelectronics/cmsis_device_wba)   | The STM32WBA  CMSIS Device files
 [cmsis_device_wl](https://github.com/STMicroelectronics/cmsis_device_wl)     | The STM32WL   CMSIS Device files
 
@@ -225,6 +227,7 @@ STM32Cube HAL Drivers | Description
 [stm32u0xx_hal_driver](https://github.com/STMicroelectronics/stm32u0xx_hal_driver)     | The STM32U0   HAL-LL Drivers
 [stm32u5xx_hal_driver](https://github.com/STMicroelectronics/stm32u5xx_hal_driver)     | The STM32U5   HAL-LL Drivers
 [stm32wbxx_hal_driver](https://github.com/STMicroelectronics/stm32wbxx_hal_driver)     | The STM32WB   HAL-LL Drivers
+[stm32wb0x_hal_driver](https://github.com/STMicroelectronics/stm32wb0x_hal_driver)     | The STM32WB0  HAL-LL Drivers
 [stm32wbaxx_hal_driver](https://github.com/STMicroelectronics/stm32wbaxx_hal_driver)   | The STM32WBA  HAL-LL Drivers
 [stm32wlxx_hal_driver](https://github.com/STMicroelectronics/stm32wlxx_hal_driver)     | The STM32WL   HAL-LL Drivers
 
@@ -404,8 +407,12 @@ STM32CubeWB BSP Boards Drivers | Description
 [p-nucleo-wb55-usb-dongle-bsp](https://github.com/STMicroelectronics/p-nucleo-wb55-usb-dongle-bsp) | P-NUCLEO-WB55.USBDongle BSP Driver
 [b-wb1m-wpan1-bsp](https://github.com/STMicroelectronics/b-wb1m-wpan1-bsp)                         | B-WB1M-WPAN1 BSP Driver
 
+STM32CubeWB0 BSP Boards Drivers | Description
+--------------------------------|-------------
+[stm32wb0x-nucleo-bsp](https://github.com/STMicroelectronics/stm32wb0x-nucleo-bsp) | WB0 Nucleo BSP Driver
+
 STM32CubeWBA BSP Boards Drivers | Description
--------------------------------|-------------
+--------------------------------|-------------
 [stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA Nucleo BSP Driver
 [stm32wba55g-dk1-bsp](https://github.com/STMicroelectronics/stm32wba55g-dk1-bsp)     | STM32WBA55G-DK1 BSP Driver
 
@@ -561,6 +568,8 @@ STM32Cube BSP USB-C Components Drivers | Description
 
 STM32Cube Classic Core MW Libraries | Description
 ----------------------------------- | -----------
+[stm32-mw-extmem-ldr](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr) | External Memory Loader middleware library
+[stm32-mw-extmem-mgr](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr) | External Memory Manager middleware library
 [stm32_mw_fatfs](https://github.com/STMicroelectronics/stm32_mw_fatfs)           | FatFS middleware library
 [stm32_mw_freertos](https://github.com/STMicroelectronics/stm32_mw_freertos)     | FreeRTOS middleware library
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip)             | LwIP middleware library
