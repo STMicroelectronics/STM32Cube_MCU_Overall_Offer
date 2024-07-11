@@ -568,12 +568,9 @@ STM32Cube BSP USB-C Components Drivers | Description
 
 STM32Cube Classic Core MW Libraries | Description
 ----------------------------------- | -----------
-[stm32-mw-extmem-ldr](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr) | External Memory Loader middleware library
-[stm32-mw-extmem-mgr](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr) | External Memory Manager middleware library
 [stm32_mw_fatfs](https://github.com/STMicroelectronics/stm32_mw_fatfs)           | FatFS middleware library
 [stm32_mw_freertos](https://github.com/STMicroelectronics/stm32_mw_freertos)     | FreeRTOS middleware library
 [stm32_mw_lwip](https://github.com/STMicroelectronics/stm32_mw_lwip)             | LwIP middleware library
-[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 [stm32_mw_usb_device](https://github.com/STMicroelectronics/stm32_mw_usb_device) | USB Device middleware library
 [stm32_mw_usb_host](https://github.com/STMicroelectronics/stm32_mw_usb_host)     | USB Host middleware library
 
@@ -585,6 +582,12 @@ STM32Cube Azure RTOS MW Libraries | Description
 [stm32_mw_netxduo](https://github.com/STMicroelectronics/stm32_mw_netxduo)             | Azure RTOS NetX Duo library
 [stm32_mw_threadx](https://github.com/STMicroelectronics/stm32_mw_threadx)             | Azure RTOS ThreadX library
 [stm32_mw_usbx](https://github.com/STMicroelectronics/stm32_mw_usbx)                   | Azure RTOS USBX library
+
+STM32Cube Miscellaneous MW Libraries | Description
+------------------------------------ | -----------
+[stm32-mw-extmem-ldr](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr) | External Memory Loader middleware library
+[stm32-mw-extmem-mgr](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr) | External Memory Manager middleware library
+[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
