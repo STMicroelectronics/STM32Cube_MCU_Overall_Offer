@@ -81,15 +81,16 @@ The STM32Cube expansion software contains embedded software components that comp
 
 STM32Cube Azure RTOS X-CUBE | Description
 --------------------------- | -----------
-[x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4) | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
-[x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7) | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
-[x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0) | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
-[x-cube-azrtos-g4](https://github.com/STMicroelectronics/x-cube-azrtos-g4) | Azure RTOS Expansion Package for STM32Cube, for STM32G4 series.
-[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7) | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
-[x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4) | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
-[x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5) | Azure RTOS Expansion Package for STM32Cube, for STM32L5 series.
-[x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb) | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
-[x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl) | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
+[x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4)     | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
+[x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7)     | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
+[x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0)     | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
+[x-cube-azrtos-g4](https://github.com/STMicroelectronics/x-cube-azrtos-g4)     | Azure RTOS Expansion Package for STM32Cube, for STM32G4 series.
+[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7)     | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
+[x-cube-azrtos-h7rs](https://github.com/STMicroelectronics/x-cube-azrtos-h7rs) | Azure RTOS Expansion Package for STM32Cube, for STM32H7RS series.
+[x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4)     | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
+[x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5)     | Azure RTOS Expansion Package for STM32Cube, for STM32L5 series.
+[x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb)     | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
+[x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl)     | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
 
 STM32Cube Connectivity X-CUBE | Description
 ----------------------------- | -----------
