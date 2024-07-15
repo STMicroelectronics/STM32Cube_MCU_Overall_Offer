@@ -504,6 +504,7 @@ STM32Cube BSP NFC/RFID Tag Components Drivers | Description
 --------------------------------------------- | -----------
 [stm32-m24lr64](https://github.com/STMicroelectronics/stm32-m24lr64)         | The M24LR64 BSP Component Driver
 [stm32-m24sr](https://github.com/STMicroelectronics/stm32-m24sr)             | The M24SR BSP Component Driver
+[stm32-st25dv](https://github.com/STMicroelectronics/stm32-st25dv)           | The ST25DV BSP Component Driver
 
 STM32Cube BSP Power Monitoring Components Drivers | Description
 ------------------------------------------------- | -----------
@@ -516,6 +517,7 @@ STM32Cube BSP xSPI-Interfaced Memory Components Drivers | Description
 [stm32-iss66wvh8m8](https://github.com/STMicroelectronics/stm32-iss66wvh8m8)   | The ISS66WVH8M8 BSP Component Driver
 [stm32-mt25ql512abb](https://github.com/STMicroelectronics/stm32-mt25ql512abb) | The MT25QL512ABB BSP Component Driver
 [stm32-mt25tl01g](https://github.com/STMicroelectronics/stm32-mt25tl01g)       | The MT25TL01G BSP Component Driver
+[stm32-mx25l4006](https://github.com/STMicroelectronics/stm32-mx25l4006)       | The MX25L4006 BSP Component Driver
 [stm32-mx25l512](https://github.com/STMicroelectronics/stm32-mx25l512)         | The MX25L512 BSP Component Driver
 [stm32-mx25lm51245g](https://github.com/STMicroelectronics/stm32-mx25lm51245g) | The MX25LM51245G BSP Component Driver
 [stm32-mx25r6435f](https://github.com/STMicroelectronics/stm32-mx25r6435f)     | The MX25R6435F BSP Component Driver
@@ -527,6 +529,7 @@ STM32Cube BSP xSPI-Interfaced Memory Components Drivers | Description
 [stm32-n25q512a](https://github.com/STMicroelectronics/stm32-n25q512a)         | The N25Q512A BSP Component Driver
 [stm32-s25fl128s](https://github.com/STMicroelectronics/stm32-s25fl128s)       | The S25FL128S BSP Component Driver
 [stm32-s25fl512s](https://github.com/STMicroelectronics/stm32-s25fl512s)       | The S25FL512S BSP Component Driver
+[stm32-w25q128j](https://github.com/STMicroelectronics/stm32-w25q128j)         | The W25Q128J BSP Component Driver
 
 STM32Cube BSP SDRAM Components Drivers | Description
 -------------------------------------- | -----------
@@ -563,6 +566,10 @@ STM32Cube BSP USB-C Components Drivers | Description
 [stm32-cbtl08gp053](https://github.com/STMicroelectronics/stm32-cbtl08gp053) | The CBTL08GP053 BSP Component Driver
 [stm32-sn65dp141](https://github.com/STMicroelectronics/stm32-sn65dp141)     | The SN65DP141 BSP Component Driver
 [stm32-tusb546](https://github.com/STMicroelectronics/stm32-tusb546)         | The TUSB546 BSP Component Driver
+
+STM32Cube BSP Wi-Fi Components Drivers | Description
+-------------------------------------- | -----------
+[stm32-es-wifi](https://github.com/STMicroelectronics/stm32-es-wifi) | The ES-WIFI BSP Component Driver
 
 ### STM32Cube Middleware Libraries and Applications
 
