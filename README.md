@@ -434,6 +434,10 @@ STM32Cube BSP Audio Components Drivers | Description
 [stm32-wm8904](https://github.com/STMicroelectronics/stm32-wm8904)   | The WM8904 BSP Component Driver
 [stm32-wm8994](https://github.com/STMicroelectronics/stm32-wm8994)   | The WM8994 BSP Component Driver
 
+STM32Cube BSP BLE Components Drivers | Description
+------------------------------------ | -----------
+[stm32-wb-at](https://github.com/STMicroelectronics/stm32-wb-at)     | The WB-AT BSP Component Driver
+
 STM32Cube BSP Camera Components Drivers | Description
 --------------------------------------- | -----------
 [stm32-ov2640](https://github.com/STMicroelectronics/stm32-ov2640)   | The OV2640 BSP Component Driver
