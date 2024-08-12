@@ -606,6 +606,7 @@ STM32Cube Miscellaneous MW Libraries | Description
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
+[stm32c0-classic-coremw-apps](https://github.com/STMicroelectronics/stm32c0-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and FreeRTOS libraries for STM32C0 series. 
 [stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and LwIP libraries for STM32H5 series. 
 [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series. 
 
