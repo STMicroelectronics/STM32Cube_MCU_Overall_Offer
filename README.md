@@ -599,6 +599,7 @@ STM32Cube Miscellaneous MW Libraries | Description
 ------------------------------------ | -----------
 [stm32-mw-extmem-ldr](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr) | External Memory Loader middleware library
 [stm32-mw-extmem-mgr](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr) | External Memory Manager middleware library
+[stm32-mw-lorawan](https://github.com/STMicroelectronics/stm32-mw-lorawan)       | Semtech LoRaWAN middleware library
 [stm32-mw-mbedtls](https://github.com/STMicroelectronics/stm32-mw-mbedtls)       | Mbed TLS middleware library
 [stm32-mw-mcuboot](https://github.com/STMicroelectronics/stm32-mw-mcuboot)       | MCU Boot middleware library
 [stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
