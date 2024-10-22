@@ -575,6 +575,7 @@ STM32Cube BSP USB-C Components Drivers | Description
 STM32Cube BSP Wi-Fi Components Drivers | Description
 -------------------------------------- | -----------
 [stm32-es-wifi](https://github.com/STMicroelectronics/stm32-es-wifi) | The ES-WIFI BSP Component Driver
+[stm32-mx-wifi](https://github.com/STMicroelectronics/stm32-mx-wifi) | The MX-WIFI BSP Component Driver
 
 ### STM32Cube Middleware Libraries and Applications
 
