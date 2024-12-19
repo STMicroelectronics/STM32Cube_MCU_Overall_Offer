@@ -74,6 +74,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0)   | The STM32CubeWB0  FW MCU Package
 [STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA)   | The STM32CubeWBA  FW MCU Package
 [STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   FW MCU Package
+[STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3)   | The STM32CubeWL3  FW MCU Package
 
 ## X-CUBE Expansion softwares
 
@@ -191,6 +192,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis-device-wb0](https://github.com/STMicroelectronics/cmsis-device-wb0)   | The STM32WB0  CMSIS Device files
 [cmsis-device-wba](https://github.com/STMicroelectronics/cmsis-device-wba)   | The STM32WBA  CMSIS Device files
 [cmsis-device-wl](https://github.com/STMicroelectronics/cmsis-device-wl)     | The STM32WL   CMSIS Device files
+[cmsis-device-wl3](https://github.com/STMicroelectronics/cmsis-device-wl3)   | The STM32WL3  CMSIS Device files
 
 ### STM32Cube HAL Drivers
 
@@ -231,6 +233,7 @@ STM32Cube HAL Drivers | Description
 [stm32wb0x-hal-driver](https://github.com/STMicroelectronics/stm32wb0x-hal-driver)     | The STM32WB0  HAL-LL Drivers
 [stm32wbaxx-hal-driver](https://github.com/STMicroelectronics/stm32wbaxx-hal-driver)   | The STM32WBA  HAL-LL Drivers
 [stm32wlxx-hal-driver](https://github.com/STMicroelectronics/stm32wlxx-hal-driver)     | The STM32WL   HAL-LL Drivers
+[stm32wl3x-hal-driver](https://github.com/STMicroelectronics/stm32wl3x-hal-driver)     | The STM32WL3  HAL-LL Drivers
 
 ### STM32Cube BSP Drivers
 
@@ -421,6 +424,10 @@ STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32wlxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wlxx-nucleo-bsp) | WL Nucleo BSP Driver
 [b-wl5m-subg1-bsp](https://github.com/STMicroelectronics/b-wl5m-subg1-bsp)         | B-WL5M-SUBG1 BSP Driver
+
+STM32CubeWL3 BSP Boards Drivers | Description
+--------------------------------|-------------
+[stm32wl3x-nucleo-bsp](https://github.com/STMicroelectronics/stm32wl3x-nucleo-bsp) | WL3 Nucleo BSP Driver
 
 ### STM32Cube BSP Components Drivers
 
