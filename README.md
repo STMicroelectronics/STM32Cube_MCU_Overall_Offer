@@ -68,6 +68,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)     | The STM32CubeL1   FW MCU Package
 [STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)     | The STM32CubeL4   FW MCU Package
 [STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   FW MCU Package
+[STM32CubeMP13](https://github.com/STMicroelectronics/STM32CubeMP13) | The STM32CubeMP13 FW MCU Package
 [STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
 [STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
@@ -106,6 +107,7 @@ STM32Cube Connectivity X-CUBE | Description
 STM32Cube FreeRTOS X-CUBE | Description
 --------------------------- | -----------
 [x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for STM32C0, STM32H5, STM32U5, and STM32WBA.
+[x-cube-freertos-mpu](https://github.com/STMicroelectronics/x-cube-freertos-mpu) | FreeRTOS Expansion Package for STM32MP1.
 
 STM32Cube IoT X-CUBE | Description
 -------------------- | -----------
@@ -186,6 +188,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis-device-l1](https://github.com/STMicroelectronics/cmsis-device-l1)     | The STM32L1   CMSIS Device files
 [cmsis-device-l4](https://github.com/STMicroelectronics/cmsis-device-l4)     | The STM32L4   CMSIS Device files
 [cmsis-device-l5](https://github.com/STMicroelectronics/cmsis-device-l5)     | The STM32L5   CMSIS Device files
+[cmsis-device-mp13](https://github.com/STMicroelectronics/cmsis_device_mp13) | The STM32MP13 CMSIS Device files
 [cmsis-device-u0](https://github.com/STMicroelectronics/cmsis-device-u0)     | The STM32U0   CMSIS Device files
 [cmsis-device-u5](https://github.com/STMicroelectronics/cmsis-device-u5)     | The STM32U5   CMSIS Device files
 [cmsis-device-wb](https://github.com/STMicroelectronics/cmsis-device-wb)     | The STM32WB   CMSIS Device files
@@ -227,6 +230,7 @@ STM32Cube HAL Drivers | Description
 [stm32l1xx-hal-driver](https://github.com/STMicroelectronics/stm32l1xx-hal-driver)     | The STM32L1   HAL-LL Drivers
 [stm32l4xx-hal-driver](https://github.com/STMicroelectronics/stm32l4xx-hal-driver)     | The STM32L4   HAL-LL Drivers
 [stm32l5xx-hal-driver](https://github.com/STMicroelectronics/stm32l5xx-hal-driver)     | The STM32L5   HAL-LL Drivers
+[stm32mp13x-hal-driver](https://github.com/STMicroelectronics/stm32mp13xx_hal_driver)  | The STM32MP13 HAL-LL Drivers
 [stm32u0xx-hal-driver](https://github.com/STMicroelectronics/stm32u0xx-hal-driver)     | The STM32U0   HAL-LL Drivers
 [stm32u5xx-hal-driver](https://github.com/STMicroelectronics/stm32u5xx-hal-driver)     | The STM32U5   HAL-LL Drivers
 [stm32wbxx-hal-driver](https://github.com/STMicroelectronics/stm32wbxx-hal-driver)     | The STM32WB   HAL-LL Drivers
@@ -389,6 +393,10 @@ STM32CubeL5 BSP Boards Drivers | Description
 [stm32l562e-dk-bsp](https://github.com/STMicroelectronics/stm32l562e-dk-bsp)       | STM32L562E-DK BSP Driver
 [stm32l552e-ev-bsp](https://github.com/STMicroelectronics/stm32l552e-ev-bsp)       | STM32L552E-EV BSP Driver
 [stm32l5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l5xx-nucleo-bsp) | L5 Nucleo BSP Driver
+
+STM32CubeMP13 BSP Boards Drivers | Description
+---------------------------------|-------------
+[stm32mp13xx-disco](https://github.com/STMicroelectronics/stm32mp13xx_disco) | STM32MP13XX_DISCO BSP Driver
 
 STM32CubeU0 BSP Boards Drivers | Description
 -------------------------------|-------------
