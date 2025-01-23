@@ -400,7 +400,7 @@ STM32CubeN6 BSP Boards Drivers | Description
 
 STM32CubeU0 BSP Boards Drivers | Description
 -------------------------------|-------------
-[stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp	)      | STM32U083C-DK BSP Driver
+[stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp)       | STM32U083C-DK BSP Driver
 [stm32u0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u0xx-nucleo-bsp) | U0 Nucleo BSP Driver
 
 STM32CubeU5 BSP Boards Drivers | Description
@@ -620,7 +620,7 @@ STM32Cube Miscellaneous MW Libraries | Description
 [stm32-mw-lorawan](https://github.com/STMicroelectronics/stm32-mw-lorawan)       | Semtech LoRaWAN middleware library
 [stm32-mw-mbedtls](https://github.com/STMicroelectronics/stm32-mw-mbedtls)       | Mbed TLS middleware library
 [stm32-mw-mcuboot](https://github.com/STMicroelectronics/stm32-mw-mcuboot)       | MCU Boot middleware library
-[stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
+[stm32-mw-openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 [stm32-mw-venc-ewl](https://github.com/STMicroelectronics/stm32-mw-venc-ewl)     | VERISILICON video Encoder Wrapper Layer (EWL) middleware library
 
 STM32Cube Classic Core MW Applications | Description
