@@ -68,6 +68,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)     | The STM32CubeL1   FW MCU Package
 [STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)     | The STM32CubeL4   FW MCU Package
 [STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   FW MCU Package
+[STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6)     | The STM32CubeN6   FW MCU Package
 [STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
 [STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
@@ -186,6 +187,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis-device-l1](https://github.com/STMicroelectronics/cmsis-device-l1)     | The STM32L1   CMSIS Device files
 [cmsis-device-l4](https://github.com/STMicroelectronics/cmsis-device-l4)     | The STM32L4   CMSIS Device files
 [cmsis-device-l5](https://github.com/STMicroelectronics/cmsis-device-l5)     | The STM32L5   CMSIS Device files
+[cmsis-device-n6](https://github.com/STMicroelectronics/cmsis-device-n6)     | The STM32N6   CMSIS Device files
 [cmsis-device-u0](https://github.com/STMicroelectronics/cmsis-device-u0)     | The STM32U0   CMSIS Device files
 [cmsis-device-u5](https://github.com/STMicroelectronics/cmsis-device-u5)     | The STM32U5   CMSIS Device files
 [cmsis-device-wb](https://github.com/STMicroelectronics/cmsis-device-wb)     | The STM32WB   CMSIS Device files
@@ -227,6 +229,7 @@ STM32Cube HAL Drivers | Description
 [stm32l1xx-hal-driver](https://github.com/STMicroelectronics/stm32l1xx-hal-driver)     | The STM32L1   HAL-LL Drivers
 [stm32l4xx-hal-driver](https://github.com/STMicroelectronics/stm32l4xx-hal-driver)     | The STM32L4   HAL-LL Drivers
 [stm32l5xx-hal-driver](https://github.com/STMicroelectronics/stm32l5xx-hal-driver)     | The STM32L5   HAL-LL Drivers
+[stm32n6xx-hal-driver](https://github.com/STMicroelectronics/stm32n6xx-hal-driver)     | The STM32N6   HAL-LL Drivers
 [stm32u0xx-hal-driver](https://github.com/STMicroelectronics/stm32u0xx-hal-driver)     | The STM32U0   HAL-LL Drivers
 [stm32u5xx-hal-driver](https://github.com/STMicroelectronics/stm32u5xx-hal-driver)     | The STM32U5   HAL-LL Drivers
 [stm32wbxx-hal-driver](https://github.com/STMicroelectronics/stm32wbxx-hal-driver)     | The STM32WB   HAL-LL Drivers
@@ -390,6 +393,11 @@ STM32CubeL5 BSP Boards Drivers | Description
 [stm32l552e-ev-bsp](https://github.com/STMicroelectronics/stm32l552e-ev-bsp)       | STM32L552E-EV BSP Driver
 [stm32l5xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32l5xx-nucleo-bsp) | L5 Nucleo BSP Driver
 
+STM32CubeN6 BSP Boards Drivers | Description
+-------------------------------|-------------
+[stm32n6570-dk-bsp](https://github.com/STMicroelectronics/stm32n6570-dk-bsp)       | STM32N6570-DK BSP Driver
+[stm32n6xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32n6xx-nucleo-bsp) | N6 Nucleo BSP Driver
+
 STM32CubeU0 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp	)      | STM32U083C-DK BSP Driver
@@ -447,6 +455,7 @@ STM32Cube BSP BLE Components Drivers | Description
 
 STM32Cube BSP Camera Components Drivers | Description
 --------------------------------------- | -----------
+[stm32-imx335](https://github.com/STMicroelectronics/stm32-imx335)   | The IMX335 BSP Component Driver
 [stm32-ov2640](https://github.com/STMicroelectronics/stm32-ov2640)   | The OV2640 BSP Component Driver
 [stm32-ov5640](https://github.com/STMicroelectronics/stm32-ov5640)   | The OV5640 BSP Component Driver
 [stm32-ov9655](https://github.com/STMicroelectronics/stm32-ov9655)   | The OV9655 BSP Component Driver
@@ -511,6 +520,7 @@ STM32Cube BSP MEMS Components Drivers | Description
 STM32Cube BSP Networking Components Drivers | Description
 ------------------------------------------- | -----------
 [stm32-lan8742](https://github.com/STMicroelectronics/stm32-lan8742)       | The LAN8742 BSP Component Driver
+[stm32-rtl8211](https://github.com/STMicroelectronics/stm32-rtl8211)       | The RTL8211 BSP Component Driver
 
 STM32Cube BSP NFC/RFID Tag Components Drivers | Description
 --------------------------------------------- | -----------
@@ -611,6 +621,7 @@ STM32Cube Miscellaneous MW Libraries | Description
 [stm32-mw-mbedtls](https://github.com/STMicroelectronics/stm32-mw-mbedtls)       | Mbed TLS middleware library
 [stm32-mw-mcuboot](https://github.com/STMicroelectronics/stm32-mw-mcuboot)       | MCU Boot middleware library
 [stm32_mw_openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
+[stm32-mw-venc-ewl](https://github.com/STMicroelectronics/stm32-mw-venc-ewl)     | VERISILICON video Encoder Wrapper Layer (EWL) middleware library
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
