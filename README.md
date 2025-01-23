@@ -461,6 +461,10 @@ STM32Cube BSP Camera Components Drivers | Description
 [stm32-ov9655](https://github.com/STMicroelectronics/stm32-ov9655)   | The OV9655 BSP Component Driver
 [stm32-s5k5cag](https://github.com/STMicroelectronics/stm32-s5k5cag) | The S5K5CAG BSP Component Driver
 
+STM32Cube BSP Display Components Drivers | Description
+---------------------------------------- | -----------
+[stm32-sn65dp141](https://github.com/STMicroelectronics/stm32-sn65dp141)     | The SN65DP141 BSP Component Driver
+
 STM32Cube BSP EEPROM Components Drivers | Description
 --------------------------------------- | -----------
 [stm32-m24256](https://github.com/STMicroelectronics/stm32-m24256)           | The M24256 BSP Component Driver
@@ -586,7 +590,6 @@ STM32Cube BSP Touch Screen Components Drivers | Description
 STM32Cube BSP USB-C Components Drivers | Description
 -------------------------------------- | -----------
 [stm32-cbtl08gp053](https://github.com/STMicroelectronics/stm32-cbtl08gp053) | The CBTL08GP053 BSP Component Driver
-[stm32-sn65dp141](https://github.com/STMicroelectronics/stm32-sn65dp141)     | The SN65DP141 BSP Component Driver
 [stm32-tusb546](https://github.com/STMicroelectronics/stm32-tusb546)         | The TUSB546 BSP Component Driver
 
 STM32Cube BSP Wi-Fi Components Drivers | Description
