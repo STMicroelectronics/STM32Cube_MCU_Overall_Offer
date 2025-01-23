@@ -566,6 +566,7 @@ STM32Cube BSP SDRAM Components Drivers | Description
 
 STM32Cube BSP Miscellaneous Sensor Components Drivers | Description
 ----------------------------------------------------- | -----------
+[stm32-ilps22qs](https://github.com/STMicroelectronics/stm32-ilps22qs)   | The ILPS22QS BSP Component Driver
 [stm32-veml3235](https://github.com/STMicroelectronics/stm32-veml3235)   | The VEML3235 BSP Component Driver
 [stm32-veml6030](https://github.com/STMicroelectronics/stm32-veml6030)   | The VEML6030 BSP Component Driver
 [stm32-vl53l5cx](https://github.com/STMicroelectronics/stm32-vl53l5cx)   | The VL53L5CX BSP Component Driver
