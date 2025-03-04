@@ -70,6 +70,7 @@ STM32Cube MCU Packages | Description
 [STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   FW MCU Package
 [STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6)     | The STM32CubeN6   FW MCU Package
 [STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
+[STM32CubeU3](https://github.com/STMicroelectronics/STM32CubeU3)     | The STM32CubeU3   FW MCU Package
 [STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
 [STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
 [STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0)   | The STM32CubeWB0  FW MCU Package
@@ -189,6 +190,7 @@ STM32Cube CMSIS Devices | Description
 [cmsis-device-l5](https://github.com/STMicroelectronics/cmsis-device-l5)     | The STM32L5   CMSIS Device files
 [cmsis-device-n6](https://github.com/STMicroelectronics/cmsis-device-n6)     | The STM32N6   CMSIS Device files
 [cmsis-device-u0](https://github.com/STMicroelectronics/cmsis-device-u0)     | The STM32U0   CMSIS Device files
+[cmsis-device-u3](https://github.com/STMicroelectronics/cmsis-device-u3)     | The STM32U3   CMSIS Device files
 [cmsis-device-u5](https://github.com/STMicroelectronics/cmsis-device-u5)     | The STM32U5   CMSIS Device files
 [cmsis-device-wb](https://github.com/STMicroelectronics/cmsis-device-wb)     | The STM32WB   CMSIS Device files
 [cmsis-device-wb0](https://github.com/STMicroelectronics/cmsis-device-wb0)   | The STM32WB0  CMSIS Device files
@@ -231,6 +233,7 @@ STM32Cube HAL Drivers | Description
 [stm32l5xx-hal-driver](https://github.com/STMicroelectronics/stm32l5xx-hal-driver)     | The STM32L5   HAL-LL Drivers
 [stm32n6xx-hal-driver](https://github.com/STMicroelectronics/stm32n6xx-hal-driver)     | The STM32N6   HAL-LL Drivers
 [stm32u0xx-hal-driver](https://github.com/STMicroelectronics/stm32u0xx-hal-driver)     | The STM32U0   HAL-LL Drivers
+[stm32u3xx-hal-driver](https://github.com/STMicroelectronics/stm32u3xx-hal-driver)     | The STM32U3   HAL-LL Drivers
 [stm32u5xx-hal-driver](https://github.com/STMicroelectronics/stm32u5xx-hal-driver)     | The STM32U5   HAL-LL Drivers
 [stm32wbxx-hal-driver](https://github.com/STMicroelectronics/stm32wbxx-hal-driver)     | The STM32WB   HAL-LL Drivers
 [stm32wb0x-hal-driver](https://github.com/STMicroelectronics/stm32wb0x-hal-driver)     | The STM32WB0  HAL-LL Drivers
@@ -402,6 +405,10 @@ STM32CubeU0 BSP Boards Drivers | Description
 -------------------------------|-------------
 [stm32u083c-dk-bsp](https://github.com/STMicroelectronics/stm32u083c-dk-bsp)       | STM32U083C-DK BSP Driver
 [stm32u0xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u0xx-nucleo-bsp) | U0 Nucleo BSP Driver
+
+STM32CubeU3 BSP Boards Drivers | Description
+-------------------------------|-------------
+[stm32u3xx-nucleo-bsp](https://github.com/STMicroelectronics/stm32u3xx-nucleo-bsp) | U3 Nucleo BSP Driver
 
 STM32CubeU5 BSP Boards Drivers | Description
 -------------------------------|-------------
