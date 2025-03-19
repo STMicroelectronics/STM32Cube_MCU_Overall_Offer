@@ -636,15 +636,19 @@ STM32Cube Miscellaneous MW Libraries | Description
 
 STM32Cube Classic Core MW Applications | Description
 -------------------------------------- | -----------
-[stm32c0-classic-coremw-apps](https://github.com/STMicroelectronics/stm32c0-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and FreeRTOS libraries for STM32C0 series. 
-[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, FatFS, and LwIP libraries for STM32H5 series. 
-[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series. 
+[stm32c0-classic-coremw-apps](https://github.com/STMicroelectronics/stm32c0-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, FATFS, and FreeRTOS libraries for STM32C0 series.
+[stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, FATFS, and LwIP libraries for STM32H5 series.
+[stm32n6-classic-coremw-apps](https://github.com/STMicroelectronics/stm32n6-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, LwIP, and FATFS libraries for STM32N6 series.
+[stm32u0-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u0-classic-coremw-apps)   | Applications based on ST USB Device library for STM32U0 series.
+[stm32u3-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u3-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, LwIP, and FATFS libraries for STM32U3 series.
+[stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series.
+[stm32wba-classic-coremw-apps](https://github.com/STMicroelectronics/stm32wba-classic-coremw-apps) | Applications based on FATFS library for STM32WBA series.
 
 STM32Cube Open Bootloader MW Applications | Description
 ----------------------------------------- | -----------
-[stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series. 
-[stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series. 
-[stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series. 
+[stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series.
+[stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series.
+[stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series.
 
 ### STM32Cube USB Power Delivery Components
 
