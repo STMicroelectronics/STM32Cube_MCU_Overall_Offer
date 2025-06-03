@@ -82,6 +82,15 @@ STM32Cube MCU Packages | Description
 
 The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
 
+STM32Cube AI X-CUBE | Description
+------------------- | -----------
+[x-cube-n6-ai-h264-usb-uvc](https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc)                           | Object detection and results streaming through USB using UVC/H264 format, for STM32N6 series.
+[x-cube-n6-ai-hand-landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-hand-landmarks)                       | Single-hand landmark detection, for STM32N6 series.
+[x-cube-n6-ai-multi-pose-estimation](https://github.com/STMicroelectronics/x-cube-n6-ai-multi-pose-estimation)         | Pose estimation using YOLO v8, for STM32N6 series.
+[x-cube-n6-ai-people-detection-tracking](https://github.com/STMicroelectronics/x-cube-n6-ai-people-detection-tracking) | People detection using YOLO X and Tiny YOLO v2, for STM32N6 series.
+[x-cube-n6-ai-power-measurement](https://github.com/STMicroelectronics/x-cube-n6-ai-power-measurement)                 | Power consumption measurement using Tiny YOLO v2, for STM32N6 series.
+[x-cube-n6-camera-capture](https://github.com/STMicroelectronics/x-cube-n6-camera-capture)                             | Video stream capture using a USB UVC camera, for STM32N6 series.
+
 STM32Cube Azure RTOS X-CUBE | Description
 --------------------------- | -----------
 [x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4)     | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
