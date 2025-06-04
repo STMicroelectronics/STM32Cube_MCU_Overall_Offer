@@ -112,6 +112,7 @@ STM32Cube Connectivity X-CUBE | Description
 [x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV04K device) Expansion Package for STM32Cube.
 [x-cube-nfc7](https://github.com/STMicroelectronics/x-cube-nfc7)           | Dynamic NFC/RFID tag IC (ST25DV64KC device) Expansion Package for STM32Cube.
 [x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
+[x-cube-st67w61](https://github.com/STMicroelectronics/x-cube-st67w61)     | A set of software components implementing host applications driving a Wi-Fi® and Bluetooth® LE coprocessor ST67W611M1.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
 STM32Cube FreeRTOS X-CUBE | Description
