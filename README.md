@@ -442,8 +442,10 @@ STM32CubeWB0 BSP Boards Drivers | Description
 
 STM32CubeWBA BSP Boards Drivers | Description
 --------------------------------|-------------
+[b-wba5m-wpan-bsp](https://github.com/STMicroelectronics/b-wba5m-wpan-bsp)           | B-WBA5M-WPAN Expansion board BSP Driver
 [stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA Nucleo BSP Driver
 [stm32wba55g-dk1-bsp](https://github.com/STMicroelectronics/stm32wba55g-dk1-bsp)     | STM32WBA55G-DK1 BSP Driver
+[stm32wba65ri-dk1-bsp](https://github.com/STMicroelectronics/stm32wba65ri-dk1-bsp)   | STM32WBA65I-DK1 BSP Driver
 
 STM32CubeWL BSP Boards Drivers | Description
 -------------------------------|-------------
@@ -485,6 +487,7 @@ STM32Cube BSP Display Components Drivers | Description
 STM32Cube BSP EEPROM Components Drivers | Description
 --------------------------------------- | -----------
 [stm32-m24256](https://github.com/STMicroelectronics/stm32-m24256)           | The M24256 BSP Component Driver
+[stm32-m95p32](https://github.com/STMicroelectronics/stm32-m95p32)           | The M95P32 BSP Component Driver
 
 STM32Cube BSP E-Paper Display Components Drivers | Description
 ------------------------------------------------ | -----------
@@ -588,16 +591,18 @@ STM32Cube BSP Miscellaneous Sensor Components Drivers | Description
 [stm32-veml6030](https://github.com/STMicroelectronics/stm32-veml6030)   | The VEML6030 BSP Component Driver
 [stm32-vl53l5cx](https://github.com/STMicroelectronics/stm32-vl53l5cx)   | The VL53L5CX BSP Component Driver
 
-STM32Cube BSP Temperature Sensor Components Drivers | Description
---------------------------------------------------- | -----------
-[stm32-stlm75](https://github.com/STMicroelectronics/stm32-stlm75)   | The STLM75 BSP Component Driver
-[stm32-stts22h](https://github.com/STMicroelectronics/stm32-stts22h) | The STTS22H BSP Component Driver
-[stm32-stts751](https://github.com/STMicroelectronics/stm32-stts751) | The STTS751 BSP Component Driver
+STM32Cube BSP Temperature and Humidity Sensor Components Drivers | Description
+---------------------------------------------------------------- | -----------
+[stm32-sht40ad1b](https://github.com/STMicroelectronics/stm32-sht40ad1b) | The SHT40AD1B BSP Component Driver
+[stm32-stlm75](https://github.com/STMicroelectronics/stm32-stlm75)       | The STLM75 BSP Component Driver
+[stm32-stts22h](https://github.com/STMicroelectronics/stm32-stts22h)     | The STTS22H BSP Component Driver
+[stm32-stts751](https://github.com/STMicroelectronics/stm32-stts751)     | The STTS751 BSP Component Driver
 
 STM32Cube BSP Touch Screen Components Drivers | Description
 --------------------------------------------- | -----------
 [stm32-cy8c4014lqi](https://github.com/STMicroelectronics/stm32-cy8c4014lqi) | The CY8C4014LQI BSP Component Driver
 [stm32-exc7200](https://github.com/STMicroelectronics/stm32-exc7200)         | The EXC7200 BSP Component Driver
+[stm32-exc80w32](https://github.com/STMicroelectronics/stm32-exc80w32)       | The EXC80W32 BSP Component Driver
 [stm32-ft3x67](https://github.com/STMicroelectronics/stm32-ft3x67)           | The FT3X67 BSP Component Driver
 [stm32-ft6x06](https://github.com/STMicroelectronics/stm32-ft6x06)           | The FT6X06 BSP Component Driver
 [stm32-ft5336](https://github.com/STMicroelectronics/stm32-ft5336)           | The FT5336 BSP Component Driver
