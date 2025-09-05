@@ -659,6 +659,11 @@ STM32Cube Classic Core MW Applications | Description
 [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series.
 [stm32wba-classic-coremw-apps](https://github.com/STMicroelectronics/stm32wba-classic-coremw-apps) | Applications based on FATFS library for STM32WBA series.
 
+STM32Cube Eclipse Core MW Applications | Description
+-------------------------------------- | -----------
+[stm32h5-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32h5-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32H5 series.
+[stm32wba-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32wba-eclipse-coremw-apps) | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32WBA series.
+
 STM32Cube Open Bootloader MW Applications | Description
 ----------------------------------------- | -----------
 [stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series.
