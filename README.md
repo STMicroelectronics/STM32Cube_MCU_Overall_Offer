@@ -84,6 +84,8 @@ The STM32Cube expansion software contains embedded software components that comp
 
 STM32Cube AI X-CUBE | Description
 ------------------- | -----------
+[x-cube-image-processing](https://github.com/STMicroelectronics/x-cube-image-processing)                               | AI-based image processing, for STM32H7 and STM32N6 series.
+[x-cube-n6-ai-face-landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-face-landmarks)                       | Face landmarks recognition, for STM32N6 series.
 [x-cube-n6-ai-h264-usb-uvc](https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc)                           | Object detection and results streaming through USB using UVC/H264 format, for STM32N6 series.
 [x-cube-n6-ai-hand-landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-hand-landmarks)                       | Single-hand landmark detection, for STM32N6 series.
 [x-cube-n6-ai-multi-pose-estimation](https://github.com/STMicroelectronics/x-cube-n6-ai-multi-pose-estimation)         | Pose estimation using YOLO v8, for STM32N6 series.
