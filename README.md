@@ -663,7 +663,9 @@ STM32Cube Classic Core MW Applications | Description
 
 STM32Cube Eclipse Core MW Applications | Description
 -------------------------------------- | -----------
+[stm32n6-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32n6-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32N6 series.
 [stm32h5-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32h5-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32H5 series.
+[stm32u3-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32u3-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32U3 series.
 [stm32wba-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32wba-eclipse-coremw-apps) | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32WBA series.
 
 STM32Cube Open Bootloader MW Applications | Description
