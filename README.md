@@ -445,6 +445,7 @@ STM32CubeWB0 BSP Boards Drivers | Description
 STM32CubeWBA BSP Boards Drivers | Description
 --------------------------------|-------------
 [b-wba5m-wpan-bsp](https://github.com/STMicroelectronics/b-wba5m-wpan-bsp)           | B-WBA5M-WPAN Expansion board BSP Driver
+[b-wba6m-wpan-bsp](https://github.com/STMicroelectronics/b-wba6m-wpan-bsp)           | B-WBA6M-WPAN Expansion board BSP Driver
 [stm32wbaxx-nucleo-bsp](https://github.com/STMicroelectronics/stm32wbaxx-nucleo-bsp) | WBA Nucleo BSP Driver
 [stm32wba55g-dk1-bsp](https://github.com/STMicroelectronics/stm32wba55g-dk1-bsp)     | STM32WBA55G-DK1 BSP Driver
 [stm32wba65ri-dk1-bsp](https://github.com/STMicroelectronics/stm32wba65ri-dk1-bsp)   | STM32WBA65I-DK1 BSP Driver
