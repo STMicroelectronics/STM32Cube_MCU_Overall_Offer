@@ -679,9 +679,14 @@ STM32Cube Open Bootloader MW Applications | Description
 
 STM32Cube USB-PD MW Libraries | Description
 ----------------------------- | -----------
-[stm32-mw-usbpd-core](https://github.com/STMicroelectronics/stm32-mw-usbpd-core)           | USB Power Delivery core stack library component for STM32
-[stm32-mw-usbpd-device-g0](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g0) | USB Power Delivery device driver specific to STM32G0 for managing the Type-C physical layer
-[stm32-mw-usbpd-ucsi](https://github.com/STMicroelectronics/stm32-mw-usbpd-ucsi)           | USB Type-C Connector System Software Interface (UCSI) for STM32
+[stm32-mw-usbpd-core](https://github.com/STMicroelectronics/stm32-mw-usbpd-core)               | USB Power Delivery core stack library component for STM32
+[stm32-mw-usbpd-device-g0](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g0)     | USB Power Delivery device driver specific to STM32G0 for managing the Type-C physical layer.
+[stm32-mw-usbpd-device-g4](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g4)     | USB Power Delivery device driver specific to STM32G4 for managing the Type-C physical layer.
+[stm32-mw-usbpd-device-h5](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-h5)     | USB Power Delivery device driver specific to STM32H5 for managing the Type-C physical layer.
+[stm32-mw-usbpd-device-h7rs](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-h7rs) | USB Power Delivery device driver specific to STM32H7RS for managing the Type-C physical layer.
+[stm32-mw-usbpd-device-l5](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-l5)     | USB Power Delivery device driver specific to STM32L5 for managing the Type-C physical layer.
+[stm32-mw-usbpd-device-u5](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-u5)     | USB Power Delivery device driver specific to STM32U5 for managing the Type-C physical layer.
+[stm32-mw-usbpd-ucsi](https://github.com/STMicroelectronics/stm32-mw-usbpd-ucsi)               | USB Type-C Connector System Software Interface (UCSI) for STM32
 
 STM32Cube USB-PD BSP Components Drivers | Description
 --------------------------------------- | -----------
