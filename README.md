@@ -784,16 +784,29 @@ Repository  | Description
 
 ### STM32Cube Middleware Libraries and Applications
 
-STM32Cube Classic Core MW Libraries | Description
------------------------------------ | -----------
+#### Section content
+
+- [STM32Cube Classic Core MW Libraries](#stm32cube-classic-core-mw-libraries)  
+- [STM32Cube Azure RTOS MW Libraries](#stm32cube-azure-rtos-mw-libraries)  
+- [STM32Cube Miscellaneous MW Libraries](#stm32cube-miscellaneous-mw-libraries)  
+- [STM32Cube Classic Core MW Applications](#stm32cube-classic-core-mw-applications)  
+- [STM32Cube Eclipse Core MW Applications](#stm32cube-eclipse-core-mw-applications)  
+- [STM32Cube Open Bootloader MW Applications](#stm32cube-open-bootloader-mw-applications)  
+
+#### STM32Cube Classic Core MW Libraries
+
+Repository  | Description
+----------- | -----------
 [stm32-mw-fatfs](https://github.com/STMicroelectronics/stm32-mw-fatfs)           | FatFS middleware library
 [stm32-mw-freertos](https://github.com/STMicroelectronics/stm32-mw-freertos)     | FreeRTOS middleware library
 [stm32-mw-lwip](https://github.com/STMicroelectronics/stm32-mw-lwip)             | LwIP middleware library
 [stm32-mw-usb-device](https://github.com/STMicroelectronics/stm32-mw-usb-device) | USB Device middleware library
 [stm32-mw-usb-host](https://github.com/STMicroelectronics/stm32-mw-usb-host)     | USB Host middleware library
 
-STM32Cube Azure RTOS MW Libraries | Description
---------------------------------- | -----------
+#### STM32Cube Azure RTOS MW Libraries
+
+Repository  | Description
+----------- | -----------
 [stm32-mw-cmsis-rtos-tx](https://github.com/STMicroelectronics/stm32-mw-cmsis-rtos-tx) | CMSIS-RTOS wrapper for Azure RTOS ThreadX library
 [stm32-mw-filex](https://github.com/STMicroelectronics/stm32-mw-filex)                 | Azure RTOS FileX library
 [stm32-mw-levelx](https://github.com/STMicroelectronics/stm32-mw-levelx)               | Azure RTOS LevelX library
@@ -801,8 +814,10 @@ STM32Cube Azure RTOS MW Libraries | Description
 [stm32-mw-threadx](https://github.com/STMicroelectronics/stm32-mw-threadx)             | Azure RTOS ThreadX library
 [stm32-mw-usbx](https://github.com/STMicroelectronics/stm32-mw-usbx)                   | Azure RTOS USBX library
 
-STM32Cube Miscellaneous MW Libraries | Description
------------------------------------- | -----------
+#### STM32Cube Miscellaneous MW Libraries
+
+Repository  | Description
+----------- | -----------
 [stm32-mw-extmem-ldr](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr) | External Memory Loader middleware library
 [stm32-mw-extmem-mgr](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr) | External Memory Manager middleware library
 [stm32-mw-lorawan](https://github.com/STMicroelectronics/stm32-mw-lorawan)       | Semtech LoRaWAN middleware library
@@ -811,8 +826,10 @@ STM32Cube Miscellaneous MW Libraries | Description
 [stm32-mw-openbl](https://github.com/STMicroelectronics/stm32-mw-openbl)         | Open Bootloader middleware library
 [stm32-mw-venc-ewl](https://github.com/STMicroelectronics/stm32-mw-venc-ewl)     | VERISILICON video Encoder Wrapper Layer (EWL) middleware library
 
-STM32Cube Classic Core MW Applications | Description
--------------------------------------- | -----------
+#### STM32Cube Classic Core MW Applications
+
+Repository  | Description
+----------- | -----------
 [stm32c0-classic-coremw-apps](https://github.com/STMicroelectronics/stm32c0-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, FATFS, and FreeRTOS libraries for STM32C0 series.
 [stm32h5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, FATFS, and LwIP libraries for STM32H5 series.
 [stm32n6-classic-coremw-apps](https://github.com/STMicroelectronics/stm32n6-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, LwIP, and FATFS libraries for STM32N6 series.
@@ -821,23 +838,35 @@ STM32Cube Classic Core MW Applications | Description
 [stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps)   | Applications based on ST USB Device, ST USB Host, and FreeRTOS libraries for STM32U5 series.
 [stm32wba-classic-coremw-apps](https://github.com/STMicroelectronics/stm32wba-classic-coremw-apps) | Applications based on FATFS library for STM32WBA series.
 
-STM32Cube Eclipse Core MW Applications | Description
--------------------------------------- | -----------
+#### STM32Cube Eclipse Core MW Applications
+
+Repository  | Description
+----------- | -----------
 [stm32n6-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32n6-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32N6 series.
 [stm32h5-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32h5-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32H5 series.
 [stm32u3-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32u3-eclipse-coremw-apps)   | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32U3 series.
 [stm32wba-eclipse-coremw-apps](https://github.com/STMicroelectronics/stm32wba-eclipse-coremw-apps) | Applications based on USBX, FileX, and LevelX Eclipse libraries, plus FreeRTOS for STM32WBA series.
 
-STM32Cube Open Bootloader MW Applications | Description
------------------------------------------ | -----------
+#### STM32Cube Open Bootloader MW Applications
+
+Repository  | Description
+----------- | -----------
 [stm32l5-openbl-apps](https://github.com/STMicroelectronics/stm32l5-openbl-apps)                 | Applications based on the Open Bootloader library for STM32L5 series.
 [stm32wb-openbl-apps](https://github.com/STMicroelectronics/stm32wb-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WB series.
 [stm32wl-openbl-apps](https://github.com/STMicroelectronics/stm32wl-openbl-apps)                 | Applications based on the Open Bootloader library for STM32WL series.
 
 ### STM32Cube USB Power Delivery Components
 
-STM32Cube USB-PD MW Libraries | Description
------------------------------ | -----------
+#### Section content
+
+- [STM32Cube USB-PD MW Libraries](#stm32cube-usb-pd-mw-libraries)  
+- [STM32Cube USB-PD BSP Component Drivers](#stm32cube-usb-pd-bsp-component-drivers)  
+- [STM32Cube USB-PD Utilities](#stm32cube-usb-pd-utilities)
+
+#### STM32Cube USB-PD MW Libraries
+
+Repository  | Description
+----------- | -----------
 [stm32-mw-usbpd-core](https://github.com/STMicroelectronics/stm32-mw-usbpd-core)               | USB Power Delivery core stack library component for STM32
 [stm32-mw-usbpd-device-g0](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g0)     | USB Power Delivery device driver specific to STM32G0 for managing the Type-C physical layer.
 [stm32-mw-usbpd-device-g4](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-g4)     | USB Power Delivery device driver specific to STM32G4 for managing the Type-C physical layer.
@@ -847,12 +876,16 @@ STM32Cube USB-PD MW Libraries | Description
 [stm32-mw-usbpd-device-u5](https://github.com/STMicroelectronics/stm32-mw-usbpd-device-u5)     | USB Power Delivery device driver specific to STM32U5 for managing the Type-C physical layer.
 [stm32-mw-usbpd-ucsi](https://github.com/STMicroelectronics/stm32-mw-usbpd-ucsi)               | USB Type-C Connector System Software Interface (UCSI) for STM32
 
-STM32Cube USB-PD BSP Components Drivers | Description
---------------------------------------- | -----------
+#### STM32Cube USB-PD BSP Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-bsp-usbpd-tcpp0203](https://github.com/STMicroelectronics/stm32-bsp-usbpd-tcpp0203) | TCPP03-M20 and TCPP02-M18 Type-C protection ICs driver for STM32
 
-STM32Cube USB-PD Utilities | Description
--------------------------- | -----------
+#### STM32Cube USB-PD Utilities
+
+Repository  | Description
+----------- | -----------
 [stm32-util-usbpd-tracer-emb](https://github.com/STMicroelectronics/stm32-util-usbpd-tracer-emb) | USB Power Delivery embedded tracer for debugging STM32 USB-PD applications
 
 ### STM32Cube Utilities and Miscellaneous repos
