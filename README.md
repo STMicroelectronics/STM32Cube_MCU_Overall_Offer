@@ -166,12 +166,9 @@ STM32Cube Function Packs | Description
 
 ## STM32Cube MCU Components
 
-As mentioned above, the STM32Cube Components is an alternative delivery model to the STM32 Packages. In this case, each module is delivered as individual repos, allowing the customer to select and download only the pertinent features.
+As mentioned above, the STM32Cube MCU Components are an **alternative** delivery model to the MCU Firmware _monolithic_ offer. Each software component is delivered in a dedicated repository, allowing users to select and download only those relevant to their application needs.
 
-* Components available today: CMSIS - HAL/LL - BSP - Base MW (USB, FatFS, FreeRTOS, LwIP)
-* Components upcoming: Other MW - Utilities
-
-In each module README file you will find the cross compatibility information. When all modules will be available a set of new Manifest files (series by series) will be proposed to drive the user.
+Care must be taken regarding the **cross-compatibility** of components. Please refer to the README.md file in each repository for details.
 
 ### STM32Cube CMSIS
 
