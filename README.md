@@ -36,7 +36,7 @@ This repository contains only a README.md file that lists the repositories compr
 ## Content
 
 * [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
-* [STM32Cube X-CUBE](README.md#x-cube-expansion-softwares)
+* [STM32Cube X-CUBE](README.md#x-cube-expansion-software)
 * [STM32Cube Function Packs](README.md#stm32cube-function-packs)
 * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
 * [STM32Cube HAL Drivers](README.md#stm32cube-hal-drivers)
@@ -75,12 +75,25 @@ STM32Cube MCU Packages | Description
 [STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   FW MCU Package
 [STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3)   | The STM32CubeWL3  FW MCU Package
 
-## X-CUBE Expansion softwares
+## X-CUBE Expansion software
 
 The STM32Cube expansion software contains embedded software components that complement the functionalities of the STM32Cube and/or enable the usage of a multitude of ST devices in domains such as of sensing, power management, connectivity or audio, together with the most appropriate STM32 MCUs.
 
-STM32Cube AI X-CUBE | Description
-------------------- | -----------
+### Section content
+
+- [STM32Cube AI X-CUBE](#stm32cube-ai-x-cube)  
+- [STM32Cube Azure RTOS X-CUBE](#stm32cube-azure-rtos-x-cube)  
+- [STM32Cube Connectivity X-CUBE](#stm32cube-connectivity-x-cube)  
+- [STM32Cube FreeRTOS X-CUBE](#stm32cube-freertos-x-cube)  
+- [STM32Cube IoT X-CUBE](#stm32cube-iot-x-cube)  
+- [STM32Cube MEMS and Sensors X-CUBE](#stm32cube-mems-and-sensors-x-cube)  
+- [STM32Cube USB-PD X-CUBE](#stm32cube-usb-pd-x-cube)  
+- [STM32Cube Miscellaneous X-CUBE](#stm32cube-miscellaneous-x-cube)
+
+### STM32Cube AI X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-image-processing](https://github.com/STMicroelectronics/x-cube-image-processing)                               | AI-based image processing, for STM32H7 and STM32N6 series.
 [x-cube-n6-ai-face-landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-face-landmarks)                       | Face landmarks recognition, for STM32N6 series.
 [x-cube-n6-ai-h264-usb-uvc](https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc)                           | Object detection and results streaming through USB using UVC/H264 format, for STM32N6 series.
@@ -90,8 +103,10 @@ STM32Cube AI X-CUBE | Description
 [x-cube-n6-ai-power-measurement](https://github.com/STMicroelectronics/x-cube-n6-ai-power-measurement)                 | Power consumption measurement using Tiny YOLO v2, for STM32N6 series.
 [x-cube-n6-camera-capture](https://github.com/STMicroelectronics/x-cube-n6-camera-capture)                             | Video stream capture using a USB UVC camera, for STM32N6 series.
 
-STM32Cube Azure RTOS X-CUBE | Description
---------------------------- | -----------
+### STM32Cube Azure RTOS X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4)     | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
 [x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7)     | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
 [x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0)     | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
@@ -103,8 +118,10 @@ STM32Cube Azure RTOS X-CUBE | Description
 [x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb)     | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
 [x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl)     | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
 
-STM32Cube Connectivity X-CUBE | Description
------------------------------ | -----------
+### STM32Cube Connectivity X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
 [x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Package to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
@@ -114,31 +131,41 @@ STM32Cube Connectivity X-CUBE | Description
 [x-cube-st67w61](https://github.com/STMicroelectronics/x-cube-st67w61)     | A set of software components implementing host applications driving a Wi-Fi® and Bluetooth® LE coprocessor ST67W611M1.
 [x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
 
-STM32Cube FreeRTOS X-CUBE | Description
---------------------------- | -----------
+### STM32Cube FreeRTOS X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for different STM32 series.
 
-STM32Cube IoT X-CUBE | Description
--------------------- | -----------
+### STM32Cube IoT X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)                           | AWS IoT Expansion Package for STM32Cube.
 [x-cube-azure-telematics](https://github.com/STMicroelectronics/x-cube-azure-telematics) | Azure IoT Expansion Package for STM32Cube.
 [x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)                       | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
 
-STM32Cube MEMS and Sensors X-CUBE | Description
---------------------------------- | -----------
+### STM32Cube MEMS and Sensors X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-ispu](https://github.com/STMicroelectronics/x-cube-ispu)           | Provides examples and drivers for STM32 to recognize sensors and collect temperature, humidity, pressure, motion, and ISPU (Intelligent Sensor Processing Unit) data.
 [x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1).
 [x-cube-memsmic1](https://github.com/STMicroelectronics/x-cube-memsmic1)   | Provides examples for STM32 using ST analog and digital MEMS microphones, and ultrasound condition monitoring (UltrasoundFFT).
 [x-cube-soundter1](https://github.com/STMicroelectronics/x-cube-soundter1) | Provides drivers and middleware for STM32 to interface with the STA350BW Sound Terminal component mounted on X-NUCLEO-CCA01M1 expansion board.
 [x-cube-tof1](https://github.com/STMicroelectronics/x-cube-tof1)           | Provides drivers drivers for a variety of VL53Lxxx ranging sensors running on STM32.
 
-STM32Cube USB-PD X-CUBE | Description
------------------------ | -----------
+### STM32Cube USB-PD X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
 [x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
 
-STM32Cube Miscellaneous X-CUBE | Description
------------------------------- | -----------
+### STM32Cube Miscellaneous X-CUBE
+
+Repository  | Description
+----------- | -----------
 [x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
 [x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
 
