@@ -279,15 +279,15 @@ STM32Cube HAL Drivers | Description
 The **BSP Drivers** MCU Components propose the _Board Support Package_ Drivers, which are constituted from the:
 
 * [STM32Cube BSP Board Drivers](README.md#stm32cube-bsp-board-drivers), **based on the HAL drivers**, and providing a set of high level APIs allowing a quick access to the board services (**e.g.**, audio, graphics, access to external memories).
-* [STM32Cube BSP Components Drivers](README.md#stm32cube-bsp-components-drivers) providing a set of high level APIs allowing a quick access to the (**e.g.**, audio codecs, LCD drivers, SD cards, MEMS). The **link** between these external components and the HAL drivers (**e.g.**, a SD card and the `OSPI`/`QSPI` HAL driver) is done within the **BSP Boards** drivers.
+* [STM32Cube BSP Component Drivers](README.md#stm32cube-bsp-component-drivers) providing a set of high level APIs allowing a quick access to harware components available on the board but external to the MCU (**e.g.**, audio codecs, LCD drivers, SD cards, MEMS). The **link** between these external components and the HAL drivers (**e.g.**, an SD card and the `OSPI`/`QSPI` HAL driver) is established within the **BSP Board** drivers.
 
 ------
 
-**NOTE:** A number of BSP **components** drivers (particularly of MEMS) come in **two forms**, each addressing a different purpose. For each one of such BSP components drivers, **two repositories** are available as explained below:
+**NOTE:** A number of BSP **component** drivers (particularly of MEMS) come in **two forms**, each addressing a different purpose. For each one of such BSP component drivers, **two repositories** are available as explained below:
 
 * **PID:** Platform-Independent Drivers. Recognizable to their repositories' names *\<bspcomp\>* (**e.g.**, [hts221](https://github.com/STMicroelectronics/hts221)). Are **low-level** drivers allowing direct access to components' registers. These drivers are independent of any software platform, as the acronym PID suggests. The complete list can be found [here](https://github.com/STMicroelectronics/STMems_Standard_C_drivers).
 
-* **STM32:** STM32Cube-compatible drivers. Recognizable to their repositories' names *stm32-\<bspcomp\>* (**e.g.**, [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)). Are **hardware-abstracted** drivers, specially designed to be compatible with the STM32Cube software offer, as the `stm32-` prefix suggests. The complete list is provided [below](README.md#stm32cube-bsp-components-drivers) (refer particularly to tables `MEMS` and `Temperature Sensor`).
+* **STM32:** STM32Cube-compatible drivers. Recognizable to their repositories' names *stm32-\<bspcomp\>* (**e.g.**, [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)). Are **hardware-abstracted** drivers, specially designed to be compatible with the STM32Cube software offer, as the `stm32-` prefix suggests. The complete list is provided [below](README.md#stm32cube-bsp-component-drivers) (refer particularly to tables `MEMS` and `Temperature Sensor`).
 
 ------
 
@@ -558,10 +558,34 @@ Repository  | Description
 ----------- | -----------
 [stm32wl3x-nucleo-bsp](https://github.com/STMicroelectronics/stm32wl3x-nucleo-bsp) | WL3 Nucleo BSP Driver
 
-### STM32Cube BSP Components Drivers
+### STM32Cube BSP Component Drivers
 
-STM32Cube BSP Audio Components Drivers | Description
--------------------------------------- | -----------
+#### Section content
+
+- [STM32Cube BSP Audio Component Drivers](#stm32cube-bsp-audio-component-drivers)  
+- [STM32Cube BSP BLE Component Drivers](#stm32cube-bsp-ble-component-drivers)  
+- [STM32Cube BSP Camera Component Drivers](#stm32cube-bsp-camera-component-drivers)  
+- [STM32Cube BSP Display Component Drivers](#stm32cube-bsp-display-component-drivers)  
+- [STM32Cube BSP EEPROM Component Drivers](#stm32cube-bsp-eeprom-component-drivers)  
+- [STM32Cube BSP E-Paper Display Component Drivers](#stm32cube-bsp-e-paper-display-component-drivers)  
+- [STM32Cube BSP IO Expander Component Drivers](#stm32cube-bsp-io-expander-component-drivers)  
+- [STM32Cube BSP LCD Component Drivers](#stm32cube-bsp-lcd-component-drivers)  
+- [STM32Cube BSP MEMS Component Drivers](#stm32cube-bsp-mems-component-drivers)  
+- [STM32Cube BSP Networking Component Drivers](#stm32cube-bsp-networking-component-drivers)  
+- [STM32Cube BSP NFC/RFID Tag Component Drivers](#stm32cube-bsp-nfc-rfid-tag-component-drivers)  
+- [STM32Cube BSP Power Monitoring Component Drivers](#stm32cube-bsp-power-monitoring-component-drivers)  
+- [STM32Cube BSP xSPI-Interfaced Memory Component Drivers](#stm32cube-bsp-xspi-interfaced-memory-component-drivers)  
+- [STM32Cube BSP SDRAM Component Drivers](#stm32cube-bsp-sdram-component-drivers)  
+- [STM32Cube BSP Temperature and Humidity Sensor Component Drivers](#stm32cube-bsp-temperature-and-humidity-sensor-component-drivers)  
+- [STM32Cube BSP Touch Screen Component Drivers](#stm32cube-bsp-touch-screen-component-drivers)  
+- [STM32Cube BSP USB-C Component Drivers](#stm32cube-bsp-usb-c-component-drivers)  
+- [STM32Cube BSP Wi-Fi Component Drivers](#stm32cube-bsp-wi-fi-component-drivers)
+- [STM32Cube BSP Miscellaneous Sensor Component Drivers](#stm32cube-bsp-miscellaneous-sensor-component-drivers)  
+
+#### STM32Cube BSP Audio Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-adv7533](https://github.com/STMicroelectronics/stm32-adv7533) | The ADV7533 BSP Component Driver
 [stm32-ak4343](https://github.com/STMicroelectronics/stm32-ak4343)   | The AK4343 BSP Component Driver
 [stm32-cs42l51](https://github.com/STMicroelectronics/stm32-cs42l51) | The CS42L51 BSP Component Driver
@@ -570,40 +594,54 @@ STM32Cube BSP Audio Components Drivers | Description
 [stm32-wm8904](https://github.com/STMicroelectronics/stm32-wm8904)   | The WM8904 BSP Component Driver
 [stm32-wm8994](https://github.com/STMicroelectronics/stm32-wm8994)   | The WM8994 BSP Component Driver
 
-STM32Cube BSP BLE Components Drivers | Description
------------------------------------- | -----------
+#### STM32Cube BSP BLE Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-wb-at](https://github.com/STMicroelectronics/stm32-wb-at)     | The WB-AT BSP Component Driver
 
-STM32Cube BSP Camera Components Drivers | Description
---------------------------------------- | -----------
+#### STM32Cube BSP Camera Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-imx335](https://github.com/STMicroelectronics/stm32-imx335)   | The IMX335 BSP Component Driver
 [stm32-ov2640](https://github.com/STMicroelectronics/stm32-ov2640)   | The OV2640 BSP Component Driver
 [stm32-ov5640](https://github.com/STMicroelectronics/stm32-ov5640)   | The OV5640 BSP Component Driver
 [stm32-ov9655](https://github.com/STMicroelectronics/stm32-ov9655)   | The OV9655 BSP Component Driver
 [stm32-s5k5cag](https://github.com/STMicroelectronics/stm32-s5k5cag) | The S5K5CAG BSP Component Driver
 
-STM32Cube BSP Display Components Drivers | Description
----------------------------------------- | -----------
+#### STM32Cube BSP Display Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-sn65dp141](https://github.com/STMicroelectronics/stm32-sn65dp141)     | The SN65DP141 BSP Component Driver
 
-STM32Cube BSP EEPROM Components Drivers | Description
---------------------------------------- | -----------
+#### STM32Cube BSP EEPROM Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-m24256](https://github.com/STMicroelectronics/stm32-m24256)           | The M24256 BSP Component Driver
 [stm32-m95p32](https://github.com/STMicroelectronics/stm32-m95p32)           | The M95P32 BSP Component Driver
 
-STM32Cube BSP E-Paper Display Components Drivers | Description
------------------------------------------------- | -----------
+#### STM32Cube BSP E-Paper Display Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-gde021a1](https://github.com/STMicroelectronics/stm32-gde021a1)       | The GDE021A1 BSP Component Driver
 [stm32-gdem0213b74](https://github.com/STMicroelectronics/stm32-gdem0213b74) | The GDEM0213B74 BSP Component Driver
 
-STM32Cube BSP IO Expander Components Drivers | Description
--------------------------------------------- | -----------
+#### STM32Cube BSP IO Expander Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-mfxstm32l152](https://github.com/STMicroelectronics/stm32-mfxstm32l152) | The MFXSTM32L152 BSP Component Driver
 [stm32-stmpe1600](https://github.com/STMicroelectronics/stm32-stmpe1600)       | The STMPE1600 BSP Component Driver
 [stm32-stmpe811](https://github.com/STMicroelectronics/stm32-stmpe811)         | The STMPE811 BSP Component Driver
 
-STM32Cube BSP LCD Components Drivers | Description
------------------------------------- | -----------
+#### STM32Cube BSP LCD Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-ampire480272](https://github.com/STMicroelectronics/stm32-ampire480272) | The AMPIRE480272 BSP Component Driver
 [stm32-ampire640480](https://github.com/STMicroelectronics/stm32-ampire640480) | The AMPIRE640480 BSP Component Driver
 [stm32-hx8347d](https://github.com/STMicroelectronics/stm32-hx8347d)           | The HX8347D BSP Component Driver
@@ -624,8 +662,10 @@ STM32Cube BSP LCD Components Drivers | Description
 [stm32-st7735](https://github.com/STMicroelectronics/stm32-st7735)             | The ST7735 BSP Component Driver
 [stm32-st7789h2](https://github.com/STMicroelectronics/stm32-st7789h2)         | The ST7789H2 BSP Component Driver
 
-STM32Cube BSP MEMS Components Drivers | Description
-------------------------------------- | -----------
+#### STM32Cube BSP MEMS Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)         | The HTS221 BSP Component Driver
 [stm32-iis2mdc](https://github.com/STMicroelectronics/stm32-iis2mdc)       | The IIS2mdc BSP Component Driver
 [stm32-ism330dhcx](https://github.com/STMicroelectronics/stm32-ism330dhcx) | The ISM330DHCX BSP Component Driver
@@ -643,23 +683,31 @@ STM32Cube BSP MEMS Components Drivers | Description
 [stm32-lsm6dsl](https://github.com/STMicroelectronics/stm32-lsm6dsl)       | The LSM6DSL BSP Component Driver
 [stm32-s70kl1281](https://github.com/STMicroelectronics/stm32-s70kl1281)   | The S70KL1281 BSP Component Driver
 
-STM32Cube BSP Networking Components Drivers | Description
-------------------------------------------- | -----------
+#### STM32Cube BSP Networking Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-lan8742](https://github.com/STMicroelectronics/stm32-lan8742)       | The LAN8742 BSP Component Driver
 [stm32-rtl8211](https://github.com/STMicroelectronics/stm32-rtl8211)       | The RTL8211 BSP Component Driver
 
-STM32Cube BSP NFC/RFID Tag Components Drivers | Description
---------------------------------------------- | -----------
+#### STM32Cube BSP NFC/RFID Tag Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-m24lr64](https://github.com/STMicroelectronics/stm32-m24lr64)         | The M24LR64 BSP Component Driver
 [stm32-m24sr](https://github.com/STMicroelectronics/stm32-m24sr)             | The M24SR BSP Component Driver
 [stm32-st25dv](https://github.com/STMicroelectronics/stm32-st25dv)           | The ST25DV BSP Component Driver
 
-STM32Cube BSP Power Monitoring Components Drivers | Description
-------------------------------------------------- | -----------
+#### STM32Cube BSP Power Monitoring Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-ina230](https://github.com/STMicroelectronics/stm32-ina230)           | The INA230 BSP Component Driver
 
-STM32Cube BSP xSPI-Interfaced Memory Components Drivers | Description
-------------------------------------------------------- | -----------
+#### STM32Cube BSP xSPI-Interfaced Memory Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-aps256](https://github.com/STMicroelectronics/stm32-aps256)             | The APS256 BSP Component Driver
 [stm32-aps512](https://github.com/STMicroelectronics/stm32-aps512)             | The APS512 BSP Component Driver
 [stm32-iss66wvh8m8](https://github.com/STMicroelectronics/stm32-iss66wvh8m8)   | The ISS66WVH8M8 BSP Component Driver
@@ -679,29 +727,28 @@ STM32Cube BSP xSPI-Interfaced Memory Components Drivers | Description
 [stm32-s25fl512s](https://github.com/STMicroelectronics/stm32-s25fl512s)       | The S25FL512S BSP Component Driver
 [stm32-w25q128j](https://github.com/STMicroelectronics/stm32-w25q128j)         | The W25Q128J BSP Component Driver
 
-STM32Cube BSP SDRAM Components Drivers | Description
--------------------------------------- | -----------
+#### STM32Cube BSP SDRAM Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-is42s16800j](https://github.com/STMicroelectronics/stm32-is42s16800j)   | The IS42S16800J BSP Component Driver
 [stm32-is42s32800g](https://github.com/STMicroelectronics/stm32-is42s32800g)   | The IS42S32800G BSP Component Driver
 [stm32-is42s32800j](https://github.com/STMicroelectronics/stm32-is42s32800j)   | The IS42S32800J BSP Component Driver
 [stm32-mt48lc4m32b2](https://github.com/STMicroelectronics/stm32-mt48lc4m32b2) | The MT48LC4M32B2 BSP Component Driver
 
-STM32Cube BSP Miscellaneous Sensor Components Drivers | Description
------------------------------------------------------ | -----------
-[stm32-ilps22qs](https://github.com/STMicroelectronics/stm32-ilps22qs)   | The ILPS22QS BSP Component Driver
-[stm32-veml3235](https://github.com/STMicroelectronics/stm32-veml3235)   | The VEML3235 BSP Component Driver
-[stm32-veml6030](https://github.com/STMicroelectronics/stm32-veml6030)   | The VEML6030 BSP Component Driver
-[stm32-vl53l5cx](https://github.com/STMicroelectronics/stm32-vl53l5cx)   | The VL53L5CX BSP Component Driver
+#### STM32Cube BSP Temperature and Humidity Sensor Component Drivers
 
-STM32Cube BSP Temperature and Humidity Sensor Components Drivers | Description
----------------------------------------------------------------- | -----------
+Repository  | Description
+----------- | -----------
 [stm32-sht40ad1b](https://github.com/STMicroelectronics/stm32-sht40ad1b) | The SHT40AD1B BSP Component Driver
 [stm32-stlm75](https://github.com/STMicroelectronics/stm32-stlm75)       | The STLM75 BSP Component Driver
 [stm32-stts22h](https://github.com/STMicroelectronics/stm32-stts22h)     | The STTS22H BSP Component Driver
 [stm32-stts751](https://github.com/STMicroelectronics/stm32-stts751)     | The STTS751 BSP Component Driver
 
-STM32Cube BSP Touch Screen Components Drivers | Description
---------------------------------------------- | -----------
+#### STM32Cube BSP Touch Screen Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-cy8c4014lqi](https://github.com/STMicroelectronics/stm32-cy8c4014lqi) | The CY8C4014LQI BSP Component Driver
 [stm32-exc7200](https://github.com/STMicroelectronics/stm32-exc7200)         | The EXC7200 BSP Component Driver
 [stm32-exc80w32](https://github.com/STMicroelectronics/stm32-exc80w32)       | The EXC80W32 BSP Component Driver
@@ -712,15 +759,28 @@ STM32Cube BSP Touch Screen Components Drivers | Description
 [stm32-sitronix](https://github.com/STMicroelectronics/stm32-sitronix)       | The SITRONIX BSP Component Driver
 [stm32-ts3510](https://github.com/STMicroelectronics/stm32-ts3510)           | The TS3510 BSP Component Driver
 
-STM32Cube BSP USB-C Components Drivers | Description
--------------------------------------- | -----------
+#### STM32Cube BSP USB-C Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-cbtl08gp053](https://github.com/STMicroelectronics/stm32-cbtl08gp053) | The CBTL08GP053 BSP Component Driver
 [stm32-tusb546](https://github.com/STMicroelectronics/stm32-tusb546)         | The TUSB546 BSP Component Driver
 
-STM32Cube BSP Wi-Fi Components Drivers | Description
--------------------------------------- | -----------
+#### STM32Cube BSP Wi-Fi Component Drivers
+
+Repository  | Description
+----------- | -----------
 [stm32-es-wifi](https://github.com/STMicroelectronics/stm32-es-wifi) | The ES-WIFI BSP Component Driver
 [stm32-mx-wifi](https://github.com/STMicroelectronics/stm32-mx-wifi) | The MX-WIFI BSP Component Driver
+
+#### STM32Cube BSP Miscellaneous Sensor Component Drivers
+
+Repository  | Description
+----------- | -----------
+[stm32-ilps22qs](https://github.com/STMicroelectronics/stm32-ilps22qs)   | The ILPS22QS BSP Component Driver
+[stm32-veml3235](https://github.com/STMicroelectronics/stm32-veml3235)   | The VEML3235 BSP Component Driver
+[stm32-veml6030](https://github.com/STMicroelectronics/stm32-veml6030)   | The VEML6030 BSP Component Driver
+[stm32-vl53l5cx](https://github.com/STMicroelectronics/stm32-vl53l5cx)   | The VL53L5CX BSP Component Driver
 
 ### STM32Cube Middleware Libraries and Applications
 
