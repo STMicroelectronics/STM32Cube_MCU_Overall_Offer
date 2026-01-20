@@ -1,40 +1,37 @@
 # STM32Cube MCU Overall Offer
 
-## Overview
+## Offer overview
 
-**STM32Cube** is an STMicroelectronics original initiative to ease the developers life by reducing efforts, time and cost.
+**STM32Cube** is an original initiative by STMicroelectronics to **simplify** prototyping and development by **reducing** effort, time, and cost. It supports the entire ARM™ Cortex-based STM32 microcontroller portfolio and provides a **comprehensive** software solution including:
 
-**STM32Cube** covers the overall STM32 products portfolio (MCU and MPU). It includes a comprehensive embedded software platform, delivered for each STM32 series.
+  * The CMSIS Core and Device interfaces enabling access to processor core features and device-specific peripherals of STM32 microcontrollers.
+  * The STM32 HAL-LL drivers, an abstraction layer offering a set of APIs ensuring maximized portability across the STM32 portfolio.
+  * The BSP drivers enabling access to peripherals on the STM32 development boards, external to the microcontroller itself.
+  * A consistent set of middleware libraries offering standardized, high-level functionalities — such as USB, TCP/IP, file systems, and graphics.
+  * A full set of software projects (basic examples, applications, and demonstrations) that showcase specific functionalities or use cases, and provided with support for multiple IDEs.
 
-* The CMSIS modules (core and device) corresponding to the ARM(tm) core implemented in this STM32 product.
-* The STM32 HAL-LL drivers, an abstraction layer offering a set of APIs ensuring maximized portability across the STM32 portfolio.
-* The BSP drivers of each evaluation, demonstration, or nucleo board provided for this STM32 series.
-* A consistent set of middleware libraries such as RTOS, USB, FatFS, graphics, touch sensing library...
-* A full set of software projects (basic examples, applications, and demonstrations) for each board provided for this STM32 series.
+The **STM32Cube MCU embedded software** is available in two flavors:
+  * The **MCU Firmware** _monolithic_ offer, where **all** software components (Drivers, Middleware, Projects, Utilities) are included in a **single** repository for each STM32 series.
+  * The **MCU Software Components** _modular_ offer, where **each** software component (mainly Drivers and Middleware) is provided in a **dedicated** repository, allowing users to **select** only the components they need.
 
-GitHub is a new publication model for the STM32Cube MCU embedded software. Different models of publication are proposed:
+Please note that an offer is also available for the **STM32Cube MPU** embedded software. For further details, please refer to the [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer).
 
-* The **MCU Package**: A unique repo per STM32 MCU series containing the different components of a STM32 MCU firmware (Drivers, Middleware, Utilities, Examples). Please refer to the [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages) chapter below.
-* The **MCU components**: Each component of a STM32 MCU firmware (Drivers, Middleware, Utilities) is proposed in a dedicated repo, allowing the user to select and get only the required ones. Please refer to the [STM32Cube MCU Components](README.md#stm32cube-mcu-components) chapter below.
-* The **X-CUBE**: Expansion software proposing examples and applications that complement the ones of the STM32Cube firmware.
-* A set of **MCU Utilities**: Various utility features proposed in dedicated repos.
+## About this GitHub channel
 
-Please note that a MPU offer is also proposed for the **STM32 MPU Products**. You can refer to the repo [STM32MPU_EmbSW_Overall_Offer](https://github.com/STMicroelectronics/STM32MPU_EmbSW_Overall_Offer).
+This channel offers several added benefits:
 
-## Description
+* In addition to the MCU Package zip files available on **st.com**, it provides STM32 MCU users with **configuration management–based** delivery via Git (version control).
+* It enables more **direct communication** between developers through **issues**.
+* With the implementation of a **Contributor License Agreement**, **pull requests** allow users to propose updates that enrich the STM32Cube MCU embedded software offering.
 
-This repo is a simple Readme describing all STM32 MCU related GitHub projects, the overall offer for the STM32 MCU products.
+**Note:** Only aspects **directly related** to the software published within these repositories will be addressed through this channel. For general communication and other support requests, please use the support channels below. Please refer to each repository’s CONTRIBUTING guide for more details.
 
-This new publication channel of the STM32Cube embedded software components will provide new added values:
+* [ST Support Center](https://my.st.com/ols#/ols/) for defect reporting  
+* [ST Community Forum](https://community.st.com/stm32mcu) for general discussions and support requests
 
-* In complement to the MCU Package zip files today proposed on **st.com**, the capability for STM32 customers to get a configuration management based delivery (Git)
-* A more direct communication between developers, thanks to the Issues features. **Caution**: only software related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/stm32mcu) forum
-* Thanks to the deployment of a Contributor License Agreement feature (please refer to each repo CONTRIBUTING guide), the **Pull-Request** permits also to take into account customers proposed updates and enrich the STM32Cube FW offer.
+## Repository content
 
-For general communication and support, you can use
-
-* [ST Support Center](https://my.st.com/ols#/ols/) for any defect
-* [ST Community Forum](https://community.st.com/stm32mcu) forum
+This repository contains only a README.md file that lists the repositories comprising the **STM32 MCU embedded software** offering on GitHub.
 
 ## Content
 
