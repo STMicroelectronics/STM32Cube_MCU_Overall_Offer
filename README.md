@@ -35,7 +35,7 @@ This repository contains only a README.md file that lists the repositories compr
 
 ## Content
 
-* [STM32Cube MCU Packages](README.md#stm32cube-mcu-packages)
+* [STM32Cube MCU Firmware](README.md#stm32cube-mcu-firmware)
 * [STM32Cube X-CUBE](README.md#x-cube-expansion-software)
 * [STM32Cube Function Packs](README.md#stm32cube-function-packs)
 * [STM32Cube CMSIS](README.md#stm32cube-cmsis)
@@ -45,35 +45,35 @@ This repository contains only a README.md file that lists the repositories compr
 * [STM32Cube USB-PD Components](README.md#stm32cube-usb-power-delivery-components)
 * [STM32Cube Utilities and miscellaneous](README.md#stm32cube-utilities-and-miscellaneous-repos)
 
-## STM32Cube MCU Packages
+## STM32Cube MCU Firwmare
 
-STM32Cube MCU Packages | Description
----------------------- | -----------
-[STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0)     | The STM32CubeC0   FW MCU Package
-[STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0)     | The STM32CubeF0   FW MCU Package
-[STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1)     | The STM32CubeF1   FW MCU Package
-[STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2)     | The STM32CubeF2   FW MCU Package
-[STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3)     | The STM32CubeF3   FW MCU Package
-[STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4)     | The STM32CubeF4   FW MCU Package
-[STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7)     | The STM32CubeF7   FW MCU Package
-[STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5)     | The STM32CubeH5   FW MCU Package
-[STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)     | The STM32CubeH7   FW MCU Package
-[STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) | The STM32CubeH7RS FW MCU Package
-[STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0)     | The STM32CubeG0   FW MCU Package
-[STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)     | The STM32CubeG4   FW MCU Package
-[STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0)     | The STM32CubeL0   FW MCU Package
-[STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)     | The STM32CubeL1   FW MCU Package
-[STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)     | The STM32CubeL4   FW MCU Package
-[STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   FW MCU Package
-[STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6)     | The STM32CubeN6   FW MCU Package
-[STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   FW MCU Package
-[STM32CubeU3](https://github.com/STMicroelectronics/STM32CubeU3)     | The STM32CubeU3   FW MCU Package
-[STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   FW MCU Package
-[STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   FW MCU Package
-[STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0)   | The STM32CubeWB0  FW MCU Package
-[STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA)   | The STM32CubeWBA  FW MCU Package
-[STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   FW MCU Package
-[STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3)   | The STM32CubeWL3  FW MCU Package
+Repository  | Description
+----------- | -----------
+[STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0)     | The STM32CubeC0   MCU Firmware
+[STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0)     | The STM32CubeF0   MCU Firmware
+[STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1)     | The STM32CubeF1   MCU Firmware
+[STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2)     | The STM32CubeF2   MCU Firmware
+[STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3)     | The STM32CubeF3   MCU Firmware
+[STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4)     | The STM32CubeF4   MCU Firmware
+[STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7)     | The STM32CubeF7   MCU Firmware
+[STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5)     | The STM32CubeH5   MCU Firmware
+[STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7)     | The STM32CubeH7   MCU Firmware
+[STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) | The STM32CubeH7RS MCU Firmware
+[STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0)     | The STM32CubeG0   MCU Firmware
+[STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4)     | The STM32CubeG4   MCU Firmware
+[STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0)     | The STM32CubeL0   MCU Firmware
+[STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1)     | The STM32CubeL1   MCU Firmware
+[STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4)     | The STM32CubeL4   MCU Firmware
+[STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5)     | The STM32CubeL5   MCU Firmware
+[STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6)     | The STM32CubeN6   MCU Firmware
+[STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0)     | The STM32CubeU0   MCU Firmware
+[STM32CubeU3](https://github.com/STMicroelectronics/STM32CubeU3)     | The STM32CubeU3   MCU Firmware
+[STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5)     | The STM32CubeU5   MCU Firmware
+[STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB)     | The STM32CubeWB   MCU Firmware
+[STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0)   | The STM32CubeWB0  MCU Firmware
+[STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA)   | The STM32CubeWBA  MCU Firmware
+[STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL)     | The STM32CubeWL   MCU Firmware
+[STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3)   | The STM32CubeWL3  MCU Firmware
 
 ## X-CUBE Expansion software
 
@@ -107,50 +107,50 @@ Repository  | Description
 
 Repository  | Description
 ----------- | -----------
-[x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4)     | Azure RTOS Expansion Package for STM32Cube, for STM32F4 series.
-[x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7)     | Azure RTOS Expansion Package for STM32Cube, for STM32F7 series.
-[x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0)     | Azure RTOS Expansion Package for STM32Cube, for STM32G0 series.
-[x-cube-azrtos-g4](https://github.com/STMicroelectronics/x-cube-azrtos-g4)     | Azure RTOS Expansion Package for STM32Cube, for STM32G4 series.
-[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7)     | Azure RTOS Expansion Package for STM32Cube, for STM32H7 series.
-[x-cube-azrtos-h7rs](https://github.com/STMicroelectronics/x-cube-azrtos-h7rs) | Azure RTOS Expansion Package for STM32Cube, for STM32H7RS series.
-[x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4)     | Azure RTOS Expansion Package for STM32Cube, for STM32L4 series.
-[x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5)     | Azure RTOS Expansion Package for STM32Cube, for STM32L5 series.
-[x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb)     | Azure RTOS Expansion Package for STM32Cube, for STM32WB series.
-[x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl)     | Azure RTOS Expansion Package for STM32Cube, for STM32WL series.
+[x-cube-azrtos-f4](https://github.com/STMicroelectronics/x-cube-azrtos-f4)     | Azure RTOS Expansion Software for STM32Cube, for STM32F4 series.
+[x-cube-azrtos-f7](https://github.com/STMicroelectronics/x-cube-azrtos-f7)     | Azure RTOS Expansion Software for STM32Cube, for STM32F7 series.
+[x-cube-azrtos-g0](https://github.com/STMicroelectronics/x-cube-azrtos-g0)     | Azure RTOS Expansion Software for STM32Cube, for STM32G0 series.
+[x-cube-azrtos-g4](https://github.com/STMicroelectronics/x-cube-azrtos-g4)     | Azure RTOS Expansion Software for STM32Cube, for STM32G4 series.
+[x-cube-azrtos-h7](https://github.com/STMicroelectronics/x-cube-azrtos-h7)     | Azure RTOS Expansion Software for STM32Cube, for STM32H7 series.
+[x-cube-azrtos-h7rs](https://github.com/STMicroelectronics/x-cube-azrtos-h7rs) | Azure RTOS Expansion Software for STM32Cube, for STM32H7RS series.
+[x-cube-azrtos-l4](https://github.com/STMicroelectronics/x-cube-azrtos-l4)     | Azure RTOS Expansion Software for STM32Cube, for STM32L4 series.
+[x-cube-azrtos-l5](https://github.com/STMicroelectronics/x-cube-azrtos-l5)     | Azure RTOS Expansion Software for STM32Cube, for STM32L5 series.
+[x-cube-azrtos-wb](https://github.com/STMicroelectronics/x-cube-azrtos-wb)     | Azure RTOS Expansion Software for STM32Cube, for STM32WB series.
+[x-cube-azrtos-wl](https://github.com/STMicroelectronics/x-cube-azrtos-wl)     | Azure RTOS Expansion Software for STM32Cube, for STM32WL series.
 
 ### STM32Cube Connectivity X-CUBE
 
 Repository  | Description
 ----------- | -----------
-[x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Package for STM32Cube.
-[x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Package for STM32Cube.
-[x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Package to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
-[x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV04K device) Expansion Package for STM32Cube.
-[x-cube-nfc7](https://github.com/STMicroelectronics/x-cube-nfc7)           | Dynamic NFC/RFID tag IC (ST25DV64KC device) Expansion Package for STM32Cube.
+[x-cube-ble1](https://github.com/STMicroelectronics/x-cube-ble1)           | BlueNRG-M0 Bluetooth Low Energy Expansion Software for STM32Cube.
+[x-cube-ble2](https://github.com/STMicroelectronics/X-CUBE-BLE2)           | BlueNRG-2 Bluetooth Low Energy Expansion Software for STM32Cube.
+[x-cube-blemgr](https://github.com/STMicroelectronics/x-cube-blemgr)       | Expansion Software to set and configure bluetooth connectivity from board to mobile application such as ST BLE Sensor.
+[x-cube-nfc4](https://github.com/STMicroelectronics/X-CUBE-NFC4)           | Dynamic NFC/RFID tag IC (ST25DV04K device) Expansion Software for STM32Cube.
+[x-cube-nfc7](https://github.com/STMicroelectronics/x-cube-nfc7)           | Dynamic NFC/RFID tag IC (ST25DV64KC device) Expansion Software for STM32Cube.
 [x-cube-sfxs2lp1](https://github.com/STMicroelectronics/x-cube-sfxs2lp1)   | Embedded software S2-LP Sigfox library and GUI PC application to transmit messages to the Sigfox network.
 [x-cube-st67w61](https://github.com/STMicroelectronics/x-cube-st67w61)     | A set of software components implementing host applications driving a Wi-Fi® and Bluetooth® LE coprocessor ST67W611M1.
-[x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Package for STM32Cube.
+[x-cube-subg2](https://github.com/STMicroelectronics/x-cube-subg2)         | Sub 1 GHz RF communication for S2-LP Expansion Software for STM32Cube.
 
 ### STM32Cube FreeRTOS X-CUBE
 
 Repository  | Description
 ----------- | -----------
-[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Package for different STM32 series.
+[x-cube-freertos](https://github.com/STMicroelectronics/x-cube-freertos) | FreeRTOS Expansion Software for different STM32 series.
 
 ### STM32Cube IoT X-CUBE
 
 Repository  | Description
 ----------- | -----------
-[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)                           | AWS IoT Expansion Package for STM32Cube.
-[x-cube-azure-telematics](https://github.com/STMicroelectronics/x-cube-azure-telematics) | Azure IoT Expansion Package for STM32Cube.
-[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)                       | IOTA Distributed Ledger Technology Expansion Package for STM32Cube.
+[x-cube-aws](https://github.com/STMicroelectronics/x-cube-aws)                           | AWS IoT Expansion Software for STM32Cube.
+[x-cube-azure-telematics](https://github.com/STMicroelectronics/x-cube-azure-telematics) | Azure IoT Expansion Software for STM32Cube.
+[x-cube-iota1](https://github.com/STMicroelectronics/X-CUBE-IOTA1)                       | IOTA Distributed Ledger Technology Expansion Software for STM32Cube.
 
 ### STM32Cube MEMS and Sensors X-CUBE
 
 Repository  | Description
 ----------- | -----------
 [x-cube-ispu](https://github.com/STMicroelectronics/x-cube-ispu)           | Provides examples and drivers for STM32 to recognize sensors and collect temperature, humidity, pressure, motion, and ISPU (Intelligent Sensor Processing Unit) data.
-[x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Package for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1).
+[x-cube-mems1](https://github.com/STMicroelectronics/x-cube-mems1)         | X-CUBE-MEMS1 Expansion Software for STM32Cube. (X-NUCLEO-IKS01A2, X-NUCLEO-IKS01A3 and X-NUCLEO-IKS02A1).
 [x-cube-memsmic1](https://github.com/STMicroelectronics/x-cube-memsmic1)   | Provides examples for STM32 using ST analog and digital MEMS microphones, and ultrasound condition monitoring (UltrasoundFFT).
 [x-cube-soundter1](https://github.com/STMicroelectronics/x-cube-soundter1) | Provides drivers and middleware for STM32 to interface with the STA350BW Sound Terminal component mounted on X-NUCLEO-CCA01M1 expansion board.
 [x-cube-tof1](https://github.com/STMicroelectronics/x-cube-tof1)           | Provides drivers drivers for a variety of VL53Lxxx ranging sensors running on STM32.
@@ -159,15 +159,15 @@ Repository  | Description
 
 Repository  | Description
 ----------- | -----------
-[x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Package for the integration of TCPPs protection circuits (OV/OC).
-[x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Package as USB Type-C port manager (TCPM).
+[x-cube-tcpp](https://github.com/STMicroelectronics/x-cube-tcpp)           | USB-IF certified Expansion Software for the integration of TCPPs protection circuits (OV/OC).
+[x-cube-usb-pd](https://github.com/STMicroelectronics/x-cube-usb-pd)       | USB-IF certified Expansion Software as USB Type-C port manager (TCPM).
 
 ### STM32Cube Miscellaneous X-CUBE
 
 Repository  | Description
 ----------- | -----------
-[x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Package for STM32Cube.
-[x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Package for STM32Cube.
+[x-cube-eeprma1](https://github.com/STMicroelectronics/X-CUBE-EEPRMA1)     | M24XX I2C and M95XX SPI EEPROMs Expansion Software for STM32Cube.
+[x-cube-gnss1](https://github.com/STMicroelectronics/x-cube-gnss1)         | Teseo-LIV3F GNSS Expansion Software for STM32Cube.
 
 ## STM32Cube Function Packs
 
