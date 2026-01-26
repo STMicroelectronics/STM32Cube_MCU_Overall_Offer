@@ -175,8 +175,8 @@ STM32 Function Packs (FP) are a combination of low-level drivers, middleware lib
 
 The below list represents the Function Packs available on github.com
 
-STM32Cube Function Packs | Description
------------------------- | -----------
+Repository  | Description
+----------- | -----------
 [fp-atr-ble1](https://github.com/STMicroelectronics/fp-atr-ble1)           | STM32Cube function pack for asset tracking using BLE&NFC connectivity for SensorTile.box PRO discovery box.
 [fp-atr-sigfox1](https://github.com/STMicroelectronics/fp-atr-sigfox1)     | STM32Cube function pack for reading data from GNSS and environmental sensors and sending this information via Sigfox.
 [fp-aud-aec1](https://github.com/STMicroelectronics/fp-aud-aec1)           | STM32Cube function pack for Acoustic Echo Cancellation implementing a USB smart speaker use case with microphone.
@@ -199,12 +199,16 @@ Care must be taken regarding the **cross-compatibility** of components. Please r
 
 ### STM32Cube CMSIS
 
-STM32Cube CMSIS core | Description
----------------------| -----------
+#### STM32Cube CMSIS Core
+
+Repository  | Description
+----------- | -----------
 [cmsis-core](https://github.com/STMicroelectronics/cmsis-core) | The STM32 CMSIS Core, issued from ARM (tm) publication. Please check the ST_README.md file.
 
-STM32Cube CMSIS Devices | Description
-------------------------| -----------
+#### STM32Cube CMSIS Device
+
+Repository  | Description
+----------- | -----------
 [cmsis-device-c0](https://github.com/STMicroelectronics/cmsis-device-c0)     | The STM32C0   CMSIS Device files
 [cmsis-device-f0](https://github.com/STMicroelectronics/cmsis-device-f0)     | The STM32F0   CMSIS Device files
 [cmsis-device-f1](https://github.com/STMicroelectronics/cmsis-device-f1)     | The STM32F1   CMSIS Device files
@@ -242,12 +246,10 @@ The **HAL Drivers** MCU Components propose the HAL and LL Drivers modules contro
 * LL Drivers:
   * Low Layer Drivers: a set of basic functions with direct hardware access (no standalone process), this layer can be called either by applications or by the HAL drivers.
 
-HAL and LL Drivers are provided in the same module/repo
+Both HAL and LL drivers of each series are provided in the **same** repository. Their usage is illustrated thru **examples**, available in the respective STM32Cube MCU **Firmware** repositories.
 
-The dynamic usage of HAL APIs is provided thru projects examples, available in the respective STM32Cube MCU Packages **STM32Cubexx** where xx correspond to the series
-
-STM32Cube HAL Drivers | Description
---------------------- | -----------
+Repository  | Description
+----------- | -----------
 [stm32c0xx-hal-driver](https://github.com/STMicroelectronics/stm32c0xx-hal-driver)     | The STM32C0   HAL-LL Drivers
 [stm32f0xx-hal-driver](https://github.com/STMicroelectronics/stm32f0xx-hal-driver)     | The STM32F0   HAL-LL Drivers
 [stm32f1xx-hal-driver](https://github.com/STMicroelectronics/stm32f1xx-hal-driver)     | The STM32F1   HAL-LL Drivers
@@ -890,8 +892,8 @@ Repository  | Description
 
 ### STM32Cube Utilities and Miscellaneous repos
 
-Repository          | Description
-------------------- | -----------
+Repository  | Description
+----------- | -----------
 [stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) | Flashloaders source code of external memories embedded in the STM32 HW boards.
 [stm32ai](https://github.com/STMicroelectronics/stm32ai)                             | Open source AI offer in STM32 products.
 [STM32_open_pin_data](https://github.com/STMicroelectronics/STM32_open_pin_data)     | This repo provides all the information required for the pin and board configuration of products based on STM32 MCU.
