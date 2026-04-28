@@ -46,4 +46,4 @@ STM32 MCUs          | STM32 series
 Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | STM32C0, STM32F0, STM32F1, STM32F3, STM32G0, STM32G4
 High-performance <img src="./images/icon_high_perf.png"       alt="High-performance" width="25"/> | STM32F2, STM32F4, STM32F7, STM32H5, STM32H7, STM32H7RS, STM32N6
 Ultra-low-power  <img src="./images/icon_ultra_low_power.png" alt="Ultra-low-power"  width="25"/> | STM32L0, STM32L1, STM32L4, STM32L5, STM32U0, STM32U3, STM32U5
-Wireless         <img src="./images/icon_wireless.png"        alt="Wireless"         width="25"/> | STM32WB, STM32WB0, STM32WBA, STM32WBL, STM32WBL3
+Wireless         <img src="./images/icon_wireless.png"        alt="Wireless"         width="25"/> | STM32WB, STM32WB0, STM32WBA, STM32WL, STM32WL3
