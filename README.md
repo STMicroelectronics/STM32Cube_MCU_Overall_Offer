@@ -28,18 +28,24 @@ These repositories also empower STM32 developers to **report issues** and **cont
 > For broader support or non-software-related inquiries, please visit the [ST Community](https://community.st.com/s/topiccatalog) or [ST Support Center](https://my.st.com/ols#/ols/).
 
 The STM32Cube Hardware Abstraction Layer (HAL) is available in two major versions.
-* The first one, **HAL1** (version `1.x.x`), is included in the STM32Cube MCU packages listed [here](#hal1-based-software), but also in the STM32Cube MPU packages.
-* The second one, **HAL2** (version `2.x.x`), is included in the STM32Cube MCU packages listed [here](#hal2-based-software). It is introduced with the latest STM32 series and offers enhanced features and improved performance.
+* The first one, **HAL1** (version `1.x.x`), is included in the STM32Cube MCU packages listed in the **HAL1-based software** table below, but also in the STM32Cube MPU packages.
+* The second one, **HAL2** (version `2.x.x`), is included in the STM32Cube MCU packages listed in the **HAL2-based software** table below. It is introduced with the latest STM32 series and offers enhanced features and improved performance.
 
 Depending on your STM32 series, we recommend starting with the appropriate introduction page as outlined in the tables below.
 
 ### HAL2-based software
+
+> [!TIP]
+> Click on the STM32 series name of your choice to go to the dedicated page detailing the offer for that series.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
 Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | [STM32C5](./STM32Cube_STM32C5.md)
 
 ### [HAL1-based software](./STM32Cube_HAL1_Offer.md)
+
+> [!TIP]
+> Click on the title above to go to the general page detailing the offer for the different STM32 series listed below.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
