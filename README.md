@@ -42,14 +42,14 @@ STM32 MCUs          | STM32 series
 --------------------|--------------
 Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | [STM32C5](./STM32Cube_STM32C5.md)
 
-### [HAL1-based software](./STM32Cube_HAL1_Offer.md)
+### HAL1-based software
 
 > [!TIP]
-> Click on the title above to go to the general page detailing the offer for the different STM32 series listed below.
+> Click on any of the icons below to go to the general page detailing the offers for the different STM32 series listed below.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
-Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | STM32C0, STM32F0, STM32F1, STM32F3, STM32G0, STM32G4
-High-performance <img src="./images/icon_high_perf.png"       alt="High-performance" width="25"/> | STM32F2, STM32F4, STM32F7, STM32H5, STM32H7, STM32H7RS, STM32N6
-Ultra-low-power  <img src="./images/icon_ultra_low_power.png" alt="Ultra-low-power"  width="25"/> | STM32L0, STM32L1, STM32L4, STM32L5, STM32U0, STM32U3, STM32U5
-Wireless         <img src="./images/icon_wireless.png"        alt="Wireless"         width="25"/> | STM32WB, STM32WB0, STM32WBA, STM32WL, STM32WL3
+Mainstream       [<img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/>](./STM32Cube_HAL1_Offer.md) | STM32C0, STM32F0, STM32F1, STM32F3, STM32G0, STM32G4
+High-performance [<img src="./images/icon_high_perf.png"       alt="High-performance" width="25"/>](./STM32Cube_HAL1_Offer.md) | STM32F2, STM32F4, STM32F7, STM32H5, STM32H7, STM32H7RS, STM32N6
+Ultra-low-power  [<img src="./images/icon_ultra_low_power.png" alt="Ultra-low-power"  width="25"/>](./STM32Cube_HAL1_Offer.md) | STM32L0, STM32L1, STM32L4, STM32L5, STM32U0, STM32U3, STM32U5
+Wireless         [<img src="./images/icon_wireless.png"        alt="Wireless"         width="25"/>](./STM32Cube_HAL1_Offer.md) | STM32WB, STM32WB0, STM32WBA, STM32WL, STM32WL3
