@@ -36,7 +36,7 @@ Depending on your STM32 series, we recommend starting with the appropriate intro
 ### HAL2-based software
 
 > [!TIP]
-> Click on the STM32 series name of your choice to go to the dedicated page detailing the offer for that series.
+> Click on the STM32 **series name** of your choice to go to the dedicated page detailing the offer for that series.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
@@ -45,7 +45,7 @@ Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"  
 ### HAL1-based software
 
 > [!TIP]
-> Click on any of the icons below to go to the general page detailing the offers for the different STM32 series listed below.
+> Click on any of the **round icons** below to go to the general page detailing the offers for the different STM32 series listed.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
