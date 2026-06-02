@@ -795,6 +795,7 @@ Middleware library      | Repository
 stm32-mw-extmem-ldr     | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-extmem-ldr)
 stm32-mw-extmem-mgr     | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-extmem-mgr)
 stm32-mw-lorawan        | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-lorawan)
+stm32-mw-lorawan-lbm    | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-lorawan-lbm)
 stm32-mw-mbedtls        | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-mbedtls)
 stm32-mw-mcuboot        | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-mcuboot)
 stm32-mw-openbl         | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-openbl)
