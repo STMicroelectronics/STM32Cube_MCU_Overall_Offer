@@ -41,6 +41,8 @@ LevelX             | [Go to repository](https://github.com/STMicroelectronics/st
 LwIP               | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-lwip/tree/hal2)
 MbedTLS            | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-mbedtls/tree/hal2)
 MCUboot            | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-mcuboot/tree/hal2)
+Open Bootloader    | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-openbl/tree/hal2)
+STCryptoLib        | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-stcryptolib/tree/hal2)
 STFCF              | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-stfcf/tree/hal2)
 USBX               | [Go to repository](https://github.com/STMicroelectronics/stm32-mw-usbx/tree/hal2)
 
@@ -61,6 +63,7 @@ Software component   | Repository
 Advanced Trace       | [Go to repository](https://github.com/STMicroelectronics/stm32-util-advanced-trace)
 Basic STDIO          | [Go to repository](https://github.com/STMicroelectronics/stm32-util-basic-stdio)
 EEPROM Emulation     | [Go to repository](https://github.com/STMicroelectronics/stm32-util-eeprom-emulation)
+RoT Provisioning     | [Go to repository](https://github.com/STMicroelectronics/stm32-util-rot-provisioning)
 Sequencer            | [Go to repository](https://github.com/STMicroelectronics/stm32-util-sequencer)
 Syscalls             | [Go to repository](https://github.com/STMicroelectronics/stm32-util-syscalls)
 Thread Safe LibC     | [Go to repository](https://github.com/STMicroelectronics/stm32-util-thread-safe-libc)
