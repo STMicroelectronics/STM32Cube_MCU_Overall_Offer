@@ -396,6 +396,7 @@ stm32g4xx-nucleo-bsp    | [Go to repository](https://github.com/STMicroelectroni
 BSP Board Driver              | Repository
 ----------------------------- | ----------
 stm32h573i-discovery-bsp      | [Go to repository](https://github.com/STMicroelectronics/stm32h573i-discovery-bsp)
+stm32h5f5j-discovery-bsp      | [Go to repository](https://github.com/STMicroelectronics/stm32h5f5j-discovery-bsp)
 stm32h5xx-nucleo-bsp          | [Go to repository](https://github.com/STMicroelectronics/stm32h5xx-nucleo-bsp)
 
 #### STM32CubeH7RS BSP Boards Drivers
