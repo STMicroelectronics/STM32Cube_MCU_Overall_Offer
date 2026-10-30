@@ -40,7 +40,8 @@ Depending on your STM32 series, we recommend starting with the appropriate intro
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
-Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | [STM32C5](./STM32Cube_STM32C5.md)
+Mainstream       <img src="./images/icon_mainstream.png"      alt="Mainstream"       width="25"/> | [STM32C5](./STM32Cube_STM32C5.md), [STM32G5](./STM32Cube_STM32G5.md)
+High-performance <img src="./images/icon_high_perf.png"       alt="High-performance" width="25"/> | [STM32H7P](./STM32Cube_STM32H7P.md)
 
 ### HAL1-based software
 
