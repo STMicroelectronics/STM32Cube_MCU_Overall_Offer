@@ -40,19 +40,19 @@ Depending on your STM32 series, we recommend starting with the appropriate intro
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
+High-performance    | [STM32H7P](./STM32Cube_STM32H7P.md)
 Mainstream          | [STM32C5](./STM32Cube_STM32C5.md)
 Mixed-signal        | [STM32G5](./STM32Cube_STM32G5.md)
-High-performance    | [STM32H7P](./STM32Cube_STM32H7P.md)
 
 ### HAL1-based software
 
 > [!TIP]
-> Click on any of the **STM32 MCU categories** below (mainstream, high-perf., etc.) to go to the general page detailing the offers for the different STM32 series listed.
+> Click on any of the **STM32 MCU categories** below (high-perf., mainstream, etc.) to go to the general page detailing the offers for the different STM32 series listed.
 
 STM32 MCUs          | STM32 series
 --------------------|--------------
+[High-performance](./STM32Cube_HAL1_Offer.md) | STM32F2, STM32F4, STM32F7, STM32H5, STM32H7, STM32H7RS, STM32N6
 [Mainstream](./STM32Cube_HAL1_Offer.md)       | STM32C0, STM32F0, STM32F1, STM32G0
 [Mixed-signal](./STM32Cube_HAL1_Offer.md)     | STM32F3, STM32G4
-[High-performance](./STM32Cube_HAL1_Offer.md) | STM32F2, STM32F4, STM32F7, STM32H5, STM32H7, STM32H7RS, STM32N6
 [Ultra-low-power](./STM32Cube_HAL1_Offer.md)  | STM32L0, STM32L1, STM32L4, STM32L5, STM32U0, STM32U3, STM32U5
 [Wireless](./STM32Cube_HAL1_Offer.md)         | STM32WB, STM32WB0, STM32WBA, STM32WL, STM32WL3
